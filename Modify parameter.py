@@ -18,7 +18,7 @@ def run(context):
         step = 1
         
         while (offset <= maxOffset):
-        	# Modify parameter
+	    # Modify parameter
             offsetParam.expression = str(offset)
 
             exportMgr = design.exportManager
