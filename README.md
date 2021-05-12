@@ -13,7 +13,7 @@ Drives the slide value of a cylindrical joint and captures the viewport to creat
 Drives a revolute joint (e.g. the second hand on a clock face)
 
 ## Parameter slider.py
-Drives a parameters with a slider (based on Mod the Machine's https://modthemachine.typepad.com/my_weblog/2020/03/drive-all-revolute-joints.html)
+Drives two parameters with a slider (based on Mod the Machine's https://modthemachine.typepad.com/my_weblog/2020/03/drive-all-revolute-joints.html)
 
 ## Parameter animation.py
 Drives parameters to create an animation
