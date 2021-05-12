@@ -1,4 +1,4 @@
-# Fusion-360-Add-Ins
+# Fusion 360 Scripts
 
 ## Open more Fusion 360 windows from MacOS Terminal
 open -n -a /Users/User/Applications/Autodesk\ Fusion\ 360.app
