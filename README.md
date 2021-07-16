@@ -1,7 +1,7 @@
 # Fusion 360 Scripts
 
 ## Open more Fusion 360 windows from MacOS Terminal
-open -n -a /Users/User/Applications/Autodesk\ Fusion\ 360.app
+open -n -a ~/Applications/Autodesk\ Fusion\ 360.app
 
 ## Modify parameter.py
 Modifies a parameter in a loop. Exports as STL and .f3d.
