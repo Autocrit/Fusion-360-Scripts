@@ -2,7 +2,13 @@
 
 Open multiple Fusion 360 applications in MacOS
 
-## Option 1 - launch Fusion 360 with a shell script or via the command line
+## Option 1 - launch Fusion 360 from Terminal
+Run the following command in Terminal
+```
+open -n -a ~/Applications/Autodesk\ Fusion\ 360.app
+```
+
+## Option 2 - launch Fusion 360 with a shell script
 Create a shell script e.g. *LaunchFusion360.sh*
 ```
 #!/bin/bash
@@ -23,7 +29,7 @@ or
 ```
 depending where it is.
 
-## Option 2 - use Automator to create an application based on the same command
+## Option 3 - use Automator to create an application based on the same command
 Open *Automator* and create a new application
 ![](./Images/Fusion_360_automator_01.png)
 Drag in the *Run Shell Script* action
