@@ -30,42 +30,111 @@ def points_collection_to_string(points):
 
 def run(context):
 	ui = None
+	
+	create_spring = False
+	RENDER = False
+
 	try:
 		app = adsk.core.Application.get()
 		ui	= app.userInterface
 		design = adsk.fusion.Design.cast(app.activeProduct)
 		
 		component = design.rootComponent
+		#component = design.allComponents.itemByName('Animated_spring')
 
 		points_per_rev = 10 # Resolution
 
-		diameter = 10.7
+		# R122-18rss in mm
+		diameter1 = 10.7
+		diameter2 = 10.7 
+		#wire_diameter = 1.2
 		length = 30.1
 		end_pitch = 1.25
 		end_revs = 1
 		transition_revs = 0.5
 		main_revs = 5
 
-		# Define the spring as an array of revolutions, start and end pitches, start and end radii
-		pitch_rev_radius = define_variable_pitch_variable_radius_spring(length, diameter/2, diameter/2, end_pitch, end_revs, transition_revs, main_revs)
+		# Fox coil spring in mm
+		#diameter = 42
+		#wire_diameter = 8
+		#length = 139.125
+		#end_pitch = 9
+		#end_revs = 1
+		#transition_revs = 0.5
+		#main_revs = 4
 
-		# Definitions are in mm but need cm
-		pitch_rev_radius_mm_to_cm(pitch_rev_radius)
+		sketch = None
 
-		# Get the array of points
-		points = get_variable_helix_points(pitch_rev_radius, points_per_rev)
+		# Check if there are any sketches in this component
+		if component.sketches.count < 1:
+			create_spring = True
+			
+			# Get a plane for the sketch
+			plane = component.xYConstructionPlane
 
-		# Get an adsk points collection
-		points_collection = points_to_collection(points)
-		
-		# Get a plane for the sketch
-		plane = component.xYConstructionPlane
+			# Add sketch to selected plane
+			sketch = component.sketches.add(plane)
+		else:
+			sketch = component.sketches.item(0)
 
-		# Add sketch to selected plane
-		sketch = component.sketches.add(plane)
+		# Check if there are any SketchFittedSplines in this sketch
+		if sketch.sketchCurves.sketchFittedSplines.count < 1:
+			create_spring = True
 
-		# Create Spline through points
-		sketch.sketchCurves.sketchFittedSplines.add(points_collection)
+		if create_spring:
+			pitch_rev_radius = define_variable_pitch_variable_radius_spring(length, diameter1/2, diameter2/2, end_pitch, end_revs, transition_revs, main_revs)
+
+			pitch_rev_radius_mm_to_cm(pitch_rev_radius)
+
+			#points = make_variable_helix(diameter/10, pitch_rev, points_per_rev)
+			points = get_variable_helix_points(pitch_rev_radius, points_per_rev)
+
+			# Get an adsk points collection
+			points_collection = points_to_collection(points)
+			
+			# Get a plane for the sketch
+			plane = component.xYConstructionPlane
+
+			# Create Spline through points
+			sketch.sketchCurves.sketchFittedSplines.add(points_collection)
+		else:
+			duration = 1
+			fps = 24
+			frame_count = fps * duration
+			folder = '/Users/[user]/Movies/Fusion 360/Spring/' # Change this
+			start_length = length
+			end_length = length * 0.6
+
+			for frame in range(1, int(frame_count+1)):
+				length = start_length + (end_length - start_length) * ((frame - 1) / (frame_count - 1))
+
+				pitch_rev_radius = define_variable_pitch_variable_radius_spring(length, diameter1/2, diameter2/2, end_pitch, end_revs, transition_revs, main_revs)
+
+				pitch_rev_radius_mm_to_cm(pitch_rev_radius)
+
+				points = get_variable_helix_points(pitch_rev_radius, points_per_rev)
+
+				points_collection = points_to_collection(points)
+
+				fit_points = sketch.sketchCurves.sketchFittedSplines.item(0).fitPoints
+
+				# Update points
+				for i in range(0, fit_points.count):
+					move_vector = fit_points.item(i).geometry.vectorTo(points_collection.item(i))
+					fit_points.item(i).move(move_vector)
+
+				design.computeAll()
+				adsk.doEvents()
+				app.activeViewport.refresh()
+
+				if RENDER:
+					filename = str(frame).zfill(4) + '.png'
+					options = adsk.core.SaveImageFileOptions.create(folder + filename)
+					options.width = 1920
+					options.height = 1080
+					options.isAntiAliased = True
+					options.isBackgroundTransparent = False
+					app.activeViewport.saveAsImageFileWithOptions(options)
 
 	except:
 		if ui:

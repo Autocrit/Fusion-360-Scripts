@@ -1,16 +1,14 @@
 import math
 
 def get_variable_helix_points(pitch_rev_radius, points_per_rev):
-
-	# An example pitch/revolutions/radius array
-	# Revolution count, start pitch, end pitch
-	#pitch_rev_radius = [
-	#	{'revs':1, 'pitch1':1.25, 'pitch2':1.25, 'radius1':10.7, 'radius2':10.7},
-	#	{'revs':0.5, 'pitch1':1.25, 'pitch2':main_pitch, 'radius1':10.7, 'radius2':10.7},
-	#	{'revs':5, 'pitch1':main_pitch, 'pitch2':main_pitch, 'radius1':10.7, 'radius2':10.7},
-	#	{'revs':0.5, 'pitch1':main_pitch, 'pitch2':1.25, 'radius1':10.7, 'radius2':10.7},
-	#	{'revs':1, 'pitch1':1.25, 'pitch2':1.25, 'radius1':10.7, 'radius2':10.7},
-	#]
+	# Sample spring definition
+#pitch_rev_radius = [
+#	{'revs':1, 'pitch1':1.25, 'pitch2':1.25, 'radius1':10.7, 'radius2':10.7},
+#	{'revs':0.5, 'pitch1':1.25, 'pitch2':main_pitch, 'radius1':10.7, 'radius2':10.7},
+#	{'revs':5, 'pitch1':main_pitch, 'pitch2':main_pitch, 'radius1':10.7, 'radius2':10.7},
+#	{'revs':0.5, 'pitch1':main_pitch, 'pitch2':1.25, 'radius1':10.7, 'radius2':10.7},
+#	{'revs':1, 'pitch1':1.25, 'pitch2':1.25, 'radius1':10.7, 'radius2':10.7},
+#]
 
 	# Array to hold helix points
 	points = []
