@@ -6,6 +6,6 @@ Create a variable pitch and/or variable radius helix (for a spring, for example)
 
 If the helix already exists, it will be animated e.g.
 
-[Animated spring](https://www.youtube.com/watch?v=XvCJyeNAlBs)
+[Animated spring on YouTube](https://www.youtube.com/watch?v=XvCJyeNAlBs)
 
-[Animated coil shock](https://www.youtube.com/watch?v=zO7yg0AiWvA)
+[Animated coil shock on YouTube](https://www.youtube.com/watch?v=zO7yg0AiWvA)
