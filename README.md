@@ -23,3 +23,6 @@ Modifies the text (Text on Path) in a sketch that gets extruded-cut into an obje
 
 ## ExportBodiesAsSTL.py
 Export selected bodies as STL
+
+## Heli_gen.py
+Create a variable pitch and/or variable radius helix as a SketchFittedSpline. Add a pipe to the path to create a spring
