@@ -21,7 +21,7 @@ Drives parameters to create an animation
 ## EM_auto_squares.py
 Modifies the text (Text on Path) in a sketch that gets extruded-cut into an object, and exports as an STL. It does this in a loop.
 
-## ExportBodiesAsSTL.py
+## Export_STLs.py
 Export selected bodies as STL
 
 ## Heli_gen.py
