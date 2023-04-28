@@ -1,0 +1,63 @@
+[
+	{
+		"config": "XS",
+		"seat_tube_length": "410 mm",
+		"head_tube_angle": "70 deg",
+		"seat_tube_angle": "73.1 deg",
+		"head_tube_length": "89 mm",
+		"wheelbase": "1011 mm",
+		"chain_stay_length": "430 mm",
+		"bottom_bracket_drop": "75 mm",
+		"bottom_bracket_height": "284 mm",
+		"fork_rake": "55 mm"
+	},
+	{
+		"config": "SM",
+		"seat_tube_length": "458 mm",
+		"head_tube_angle": "71 deg",
+		"seat_tube_angle": "73.1 deg",
+		"head_tube_length": "118 mm",
+		"wheelbase": "1022 mm",
+		"chain_stay_length": "430 mm",
+		"bottom_bracket_drop": "75 mm",
+		"bottom_bracket_height": "284 mm",
+		"fork_rake": "55 mm"
+	},
+	{
+		"config": "MD",
+		"seat_tube_length": "505 mm",
+		"head_tube_angle": "71 deg",
+		"seat_tube_angle": "73.1 deg",
+		"head_tube_length": "149 mm",
+		"wheelbase": "1040 mm",
+		"chain_stay_length": "430 mm",
+		"bottom_bracket_drop": "75 mm",
+		"bottom_bracket_height": "284 mm",
+		"fork_rake": "55 mm"
+	},
+	{
+		"config": "LG",
+		"seat_tube_length": "553 mm",
+		"head_tube_angle": "71 deg",
+		"seat_tube_angle": "73.1 deg",
+		"head_tube_length": "182 mm",
+		"wheelbase": "1060 mm",
+		"chain_stay_length": "430 mm",
+		"bottom_bracket_drop": "75 mm",
+		"bottom_bracket_height": "284 mm",
+		"fork_rake": "55 mm",
+		"active": true
+	},
+	{
+		"config": "XL",
+		"seat_tube_length": "600 mm",
+		"head_tube_angle": "71 deg",
+		"seat_tube_angle": "73.1 deg",
+		"head_tube_length": "214 mm",
+		"wheelbase": "1078 mm",
+		"chain_stay_length": "430 mm",
+		"bottom_bracket_drop": "75 mm",
+		"bottom_bracket_height": "284 mm",
+		"fork_rake": "55 mm"
+	}
+]
