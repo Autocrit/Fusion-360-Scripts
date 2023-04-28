@@ -20,6 +20,20 @@ import json
 #			{ "name": "bottom_bracket_height", "value": 284, "units": "mm" },
 #			{ "name": "fork_offset", "value": 55, "units": "mm" }
 #		]
+#	},
+#	{
+#		"config": "SM",
+#		"params": [
+#			{ "name": "seat_tube_length", "value": 458, "units": "mm" },
+#			{ "name": "head_tube_angle", "value": 71, "units": "deg" },
+#			{ "name": "seat_tube_angle", "value": 73.1, "units": "deg" },
+#			{ "name": "head_tube_length", "value": 118, "units": "mm" },
+#			{ "name": "wheelbase", "value": 1022, "units": "mm" },
+#			{ "name": "chain_stay_length", "value": 430, "units": "mm" },
+#			{ "name": "bottom_bracket_drop", "value": 75, "units": "mm" },
+#			{ "name": "bottom_bracket_height", "value": 284, "units": "mm" },
+#			{ "name": "fork_offset", "value": 55, "units": "mm" }
+#		]
 #	}
 #]
 
