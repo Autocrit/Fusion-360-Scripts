@@ -20,26 +20,31 @@ def run(context):
 		end = 0
 		framecount = 48
 		frame = 1
-		renderoneframe = False
 
-		# Iterate through the parameter changes
-		while frame <= framecount:
-			pos = start + (end - start) * ((frame - 1) / (framecount - 1))
+		folder_dialog = ui.createFolderDialog()
+		folder_dialog.title = 'Select folder for images'
+        
+		# Show folder dialog
+		if folder_dialog.showDialog() == adsk.core.DialogResults.DialogOK:
+			folder = folder_dialog.folder
 
-			# Set the joint position (in cm)
-			slider.slideValue = pos / 10.0
-	
-			# Allow Fusion to update.
-			adsk.doEvents()
-			app.activeViewport.refresh()
+			# Iterate through the parameter changes
+			while frame <= framecount:
+				pos = start + (end - start) * ((frame - 1) / (framecount - 1))
 
-			# Save the current viewport as an image.
-			filename = '/Users/tom/Pictures/Kavenz/kavenz_' + str(frame).zfill(4) + '.png'
-			app.activeViewport.saveAsImageFile(filename, 1920*2, 1080*2)
-			frame += 1
-			if renderoneframe == True:
-				break
-			time.sleep(.5)
+				# Set the joint position (in cm)
+				slider.slideValue = pos / 10.0
+		
+				# Allow Fusion to update.
+				adsk.doEvents()
+				app.activeViewport.refresh()
+
+				# Save the current viewport as an image.
+				filename = folder + '/' + str(frame).zfill(4) + '.png'
+				app.activeViewport.saveAsImageFile(filename, 1920*2, 1080*2)
+				frame += 1
+
+				time.sleep(.5)
 
 	except:
 		ui.messageBox('Failed:\n{}'.format(traceback.format_exc()))
