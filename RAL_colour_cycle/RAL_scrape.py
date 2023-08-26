@@ -15,6 +15,9 @@ hue_urls = [
 	"https://www.ralcolorchart.com/ral-classic/white-and-black-hues"
 ]
 
+def rgb_to_hex(r, g, b):
+	return '#{:02X}{:02X}{:02X}'.format(r, g, b)
+
 colour_data = []
 
 for hue_url in hue_urls:
@@ -33,21 +36,24 @@ for hue_url in hue_urls:
 
 		# RGB
 		row = soup_colour.find("span", title="Red").parent.parent
-		red = row.find("td").text
+		red = int(row.find("td").text)
 		row = soup_colour.find("span", title="Green").parent.parent
-		green = row.find("td").text
+		green = int(row.find("td").text)
 		row = soup_colour.find("span", title="Blue").parent.parent
-		blue = row.find("td").text
+		blue = int(row.find("td").text)
 
 		# CMYK
 		row = soup_colour.find("span", title="Cyan").parent.parent
-		cyan = row.find("td").text
+		cyan = int(row.find("td").text)
 		row = soup_colour.find("span", title="Magenta").parent.parent
-		magenta = row.find("td").text
+		magenta = int(row.find("td").text)
 		row = soup_colour.find("span", title="Yellow").parent.parent
-		yellow = row.find("td").text
+		yellow = int(row.find("td").text)
 		row = soup_colour.find("span", title="Key").parent.parent
-		key = row.find("td").text
+		key = int(row.find("td").text)
+
+		# Hex code
+		hex = rgb_to_hex(red, green, blue)
 
 		# Names
 		english = colour_link.get("title")
@@ -67,11 +73,12 @@ for hue_url in hue_urls:
 			"code": code,
 			"colour": {
 				"rgb": {
-					"r": int(red), "g": int(green), "b": int(blue)
+					"r": red, "g": green, "b": blue
 				},
 				"cmyk": {
-					"c": int(cyan), "m": int(magenta), "y": int(yellow), "k": int(key)
-				}
+					"c": cyan, "m": magenta, "y": yellow, "k": key
+				},
+				"hex": hex
 			},
 			"name": {
 				"de": german,
