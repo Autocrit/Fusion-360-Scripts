@@ -141,9 +141,6 @@ def run(context):
 						path = folder + '/' + filename + '.png'
 						app.activeViewport.saveAsImageFile(path, 1920, 1080)
 
-						progress += 1
-						progressDialog.progressValue = progress
-
 					progress += 1
 					progressDialog.progressValue = progress
 		
