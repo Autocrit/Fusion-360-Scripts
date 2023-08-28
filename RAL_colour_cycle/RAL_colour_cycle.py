@@ -2,7 +2,9 @@
 #Description-
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
-import json, time
+import json, time, math
+
+rotate = True
 
 def loadRALColours(ui):
 	fileDlg = ui.createFileDialog()
@@ -24,7 +26,14 @@ def run(context):
 		ui  = app.userInterface
 		design = app.activeProduct
 
-		#root = design.rootComponent
+		# Create progress dialog
+		progressDialog = ui.createProgressDialog()
+		progressDialog.cancelButtonText = 'Cancel'
+		progressDialog.isBackgroundTranslucent = False
+		progressDialog.isCancelButtonShown = True
+		progress = 0
+
+		root = design.rootComponent
 
 		components = design.allComponents
 
@@ -72,7 +81,14 @@ def run(context):
 			if folder_dialog.showDialog() == adsk.core.DialogResults.DialogOK:
 				folder = folder_dialog.folder
 
+				progressDialog.show('Progress Dialog', 'Percentage: %p, Current Value: %v, Total steps: %m', 0, len(ralColours), 1)
+
+				adsk.doEvents()
+	
 				for ralColour in ralColours:
+					if progressDialog.wasCancelled:
+						break
+				
 					r = ralColour["colour"]["rgb"]["r"]
 					g = ralColour["colour"]["rgb"]["g"]
 					b = ralColour["colour"]["rgb"]["b"]
@@ -84,12 +100,55 @@ def run(context):
 					for body in bodies:
 						body.appearance = appearance
 
-					adsk.doEvents()
-					app.activeViewport.refresh()
+					if rotate:
+						joint = root.joints.itemByName('Revolute 1')
+						revolute = adsk.fusion.RevoluteJointMotion.cast(joint.jointMotion)
 
-					# Save the current viewport as an image.
-					path = folder + '/' + filename + '.png'
-					app.activeViewport.saveAsImageFile(path, 1920, 1080)
+						fps = 24
+						duration = 3
+						nFrames = duration * fps
+						
+						startAngle = 0
+						endAngle = 360 * (math.pi / 180)
+						angleIncr = (endAngle - startAngle) / (nFrames - 1)
+
+						frame = 1
+						angle = startAngle
+
+						while (frame <= nFrames):
+							if progressDialog.wasCancelled:
+								break
+
+							revolute.rotationValue = angle
+							adsk.doEvents()
+							app.activeViewport.refresh()
+
+							path = folder + '/' + filename + " " + str(frame).zfill(4) + '.png'
+							app.activeViewport.saveAsImageFile(path, 1920, 1080)
+							frame += 1
+							angle += angleIncr
+
+							#time.sleep(.5)
+
+					else:
+						if progressDialog.wasCancelled:
+							break
+
+						adsk.doEvents()
+						app.activeViewport.refresh()
+
+						# Save the current viewport as an image.
+						path = folder + '/' + filename + '.png'
+						app.activeViewport.saveAsImageFile(path, 1920, 1080)
+
+						progress += 1
+						progressDialog.progressValue = progress
+
+					progress += 1
+					progressDialog.progressValue = progress
+		
+		# Hide the progress dialog at the end.
+		progressDialog.hide()
 
 	except:
 		if ui:

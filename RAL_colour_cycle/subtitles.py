@@ -9,34 +9,36 @@ languages = [
 	"nl"
 ]
 
+# Duration in seconds
+duration_seconds = 3
+
+def convert_milliseconds(milliseconds):
+	seconds, milliseconds = divmod(milliseconds, 1000)
+	minutes, seconds = divmod(seconds, 60)
+	hours, minutes = divmod(minutes, 60)
+
+	return hours, minutes, seconds, milliseconds
+
 for language in languages:
-	
-	hours = 0
-	minutes = 0
-	seconds = 0
 	count = 1
-
 	string = ""
-
+ 	
 	with open("RAL_classic.json", "r") as read_file:
 		RAL_colours = json.load(read_file)
 	
 		for RAL_colour in RAL_colours:
+			time_milliseconds = (count -1) * duration_seconds * 1000
+			hours, minutes, seconds, milliseconds = convert_milliseconds(time_milliseconds)
+
 			string += str(count)
 			string += "\n"
-			string += (f"{hours:02d}:{minutes:02d}:{seconds:02d},000 --> ")
+			string += (f"{hours:02d}:{minutes:02d}:{seconds:02d},{milliseconds:03d} --> ")
 		
-			seconds += 1
+			time_milliseconds += duration_seconds * 1000 - 1
 
-			if seconds >= 60:
-				seconds = 0
-				minutes += 1
+			hours, minutes, seconds, milliseconds = convert_milliseconds(time_milliseconds)
 
-			if minutes >= 60:
-				minutes = 0
-				hours += 1
-
-			string += (f"{hours:02d}:{minutes:02d}:{seconds:02d},000")
+			string += (f"{hours:02d}:{minutes:02d}:{seconds:02d},{milliseconds:03d}")
 
 			string += "\n"
 
@@ -45,13 +47,6 @@ for language in languages:
 
 			count += 1
 		
-		file_out = open(language + ".srt", "w")
+		file_out = open(language + "_3.srt", "w")
 		file_out.write(string)
 		file_out.close()
-
-#"de": "Beige",
-#"en": "Beige",
-#"es": "Beige",
-#"fr": "Beige",
-#"it": "Beige",
-#"nl": "Beige"
