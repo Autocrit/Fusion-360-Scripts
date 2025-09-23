@@ -22,6 +22,9 @@
 			"fr": "Beige vert",
 			"it": "Beige verdastro",
 			"nl": "Groenbeige"
+		},
+		"fullname": {
+			"en": "RAL 1000 Green beige"
 		}
 	},
 	{
@@ -47,6 +50,9 @@
 			"fr": "Beige",
 			"it": "Beige",
 			"nl": "Beige"
+		},
+		"fullname": {
+			"en": "RAL 1001 Beige"
 		}
 	},
 	{
@@ -72,6 +78,9 @@
 			"fr": "Jaune sable",
 			"it": "Giallo sabbia",
 			"nl": "Zandgeel"
+		},
+		"fullname": {
+			"en": "RAL 1002 Sand yellow"
 		}
 	},
 	{
@@ -97,6 +106,9 @@
 			"fr": "Jaune de s\u00e9curit\u00e9",
 			"it": "Giallo segnale",
 			"nl": "Signaalgeel"
+		},
+		"fullname": {
+			"en": "RAL 1003 Signal yellow"
 		}
 	},
 	{
@@ -122,6 +134,9 @@
 			"fr": "Jaune or",
 			"it": "Giallo oro",
 			"nl": "Goudgeel"
+		},
+		"fullname": {
+			"en": "RAL 1004 Golden yellow"
 		}
 	},
 	{
@@ -147,6 +162,9 @@
 			"fr": "Jaune miel",
 			"it": "Giallo miele",
 			"nl": "Honinggeel"
+		},
+		"fullname": {
+			"en": "RAL 1005 Honey yellow"
 		}
 	},
 	{
@@ -172,6 +190,9 @@
 			"fr": "Jaune ma\u00efs",
 			"it": "Giallo polenta",
 			"nl": "Maisgeel"
+		},
+		"fullname": {
+			"en": "RAL 1006 Maize yellow"
 		}
 	},
 	{
@@ -197,6 +218,9 @@
 			"fr": "Jaune narcisse",
 			"it": "Giallo narciso",
 			"nl": "Narcissengeel"
+		},
+		"fullname": {
+			"en": "RAL 1007 Daffodil yellow"
 		}
 	},
 	{
@@ -222,6 +246,9 @@
 			"fr": "Beige brun",
 			"it": "Beige marrone",
 			"nl": "Bruinbeige"
+		},
+		"fullname": {
+			"en": "RAL 1011 Brown beige"
 		}
 	},
 	{
@@ -247,6 +274,9 @@
 			"fr": "Jaune citron",
 			"it": "Giallo limone",
 			"nl": "Citroengeel"
+		},
+		"fullname": {
+			"en": "RAL 1012 Lemon yellow"
 		}
 	},
 	{
@@ -272,6 +302,9 @@
 			"fr": "Blanc perl\u00e9",
 			"it": "Bianco perla",
 			"nl": "Parelwit"
+		},
+		"fullname": {
+			"en": "RAL 1013 Oyster white"
 		}
 	},
 	{
@@ -297,6 +330,9 @@
 			"fr": "Ivoire",
 			"it": "Avorio",
 			"nl": "Ivoorkleurig"
+		},
+		"fullname": {
+			"en": "RAL 1014 Ivory"
 		}
 	},
 	{
@@ -322,6 +358,9 @@
 			"fr": "Ivoire clair",
 			"it": "Avorio chiaro",
 			"nl": "Licht ivoorkleurig"
+		},
+		"fullname": {
+			"en": "RAL 1015 Light ivory"
 		}
 	},
 	{
@@ -347,6 +386,9 @@
 			"fr": "Jaune soufre",
 			"it": "Giallo zolfo",
 			"nl": "Zwavelgeel"
+		},
+		"fullname": {
+			"en": "RAL 1016 Sulfur yellow"
 		}
 	},
 	{
@@ -372,6 +414,9 @@
 			"fr": "Jaune safran",
 			"it": "Giallo zafferano",
 			"nl": "Saffraangeel"
+		},
+		"fullname": {
+			"en": "RAL 1017 Saffron yellow"
 		}
 	},
 	{
@@ -397,6 +442,9 @@
 			"fr": "Jaune zinc",
 			"it": "Giallo zinco",
 			"nl": "Zinkgeel"
+		},
+		"fullname": {
+			"en": "RAL 1018 Zinc yellow"
 		}
 	},
 	{
@@ -422,6 +470,9 @@
 			"fr": "Beige gris",
 			"it": "Beige grigiastro",
 			"nl": "Grijsbeige"
+		},
+		"fullname": {
+			"en": "RAL 1019 Grey beige"
 		}
 	},
 	{
@@ -447,6 +498,9 @@
 			"fr": "Jaune olive",
 			"it": "Giallo olivastro",
 			"nl": "Olijfgeel"
+		},
+		"fullname": {
+			"en": "RAL 1020 Olive yellow"
 		}
 	},
 	{
@@ -472,6 +526,9 @@
 			"fr": "Jaune colza",
 			"it": "Giallo navone",
 			"nl": "Koolzaadgeel"
+		},
+		"fullname": {
+			"en": "RAL 1021 Colza yellow"
 		}
 	},
 	{
@@ -497,6 +554,9 @@
 			"fr": "Jaune signalisation",
 			"it": "Giallo traffico",
 			"nl": "Verkeersgeel"
+		},
+		"fullname": {
+			"en": "RAL 1023 Traffic yellow"
 		}
 	},
 	{
@@ -522,6 +582,9 @@
 			"fr": "Jaune ocre",
 			"it": "Giallo ocra",
 			"nl": "Okergeel"
+		},
+		"fullname": {
+			"en": "RAL 1024 Ochre yellow"
 		}
 	},
 	{
@@ -547,6 +610,9 @@
 			"fr": "Jaune brillant",
 			"it": "Giallo brillante",
 			"nl": "Briljantgeel"
+		},
+		"fullname": {
+			"en": "RAL 1026 Luminous yellow"
 		}
 	},
 	{
@@ -572,6 +638,9 @@
 			"fr": "Jaune curry",
 			"it": "Giallo curry",
 			"nl": "Kerriegeel"
+		},
+		"fullname": {
+			"en": "RAL 1027 Curry"
 		}
 	},
 	{
@@ -597,6 +666,9 @@
 			"fr": "Jaune melon",
 			"it": "Giallo melone",
 			"nl": "Meloengeel"
+		},
+		"fullname": {
+			"en": "RAL 1028 Melon yellow"
 		}
 	},
 	{
@@ -622,6 +694,9 @@
 			"fr": "Jaune gen\u00eat",
 			"it": "Giallo scopa",
 			"nl": "Bremgeel"
+		},
+		"fullname": {
+			"en": "RAL 1032 Broom yellow"
 		}
 	},
 	{
@@ -647,6 +722,9 @@
 			"fr": "Jaune dahlia",
 			"it": "Giallo dalia",
 			"nl": "Dahliageel"
+		},
+		"fullname": {
+			"en": "RAL 1033 Dahlia yellow"
 		}
 	},
 	{
@@ -672,6 +750,9 @@
 			"fr": "Jaune pastel",
 			"it": "Giallo pastello",
 			"nl": "Pastelgeel"
+		},
+		"fullname": {
+			"en": "RAL 1034 Pastel yellow"
 		}
 	},
 	{
@@ -697,6 +778,9 @@
 			"fr": "Beige nacr\u00e9",
 			"it": "Beige perlato",
 			"nl": "Parelmoergrijs"
+		},
+		"fullname": {
+			"en": "RAL 1035 Pearl beige"
 		}
 	},
 	{
@@ -722,6 +806,9 @@
 			"fr": "Or nacr\u00e9",
 			"it": "Oro perlato",
 			"nl": "Parelmoergoud"
+		},
+		"fullname": {
+			"en": "RAL 1036 Pearl gold"
 		}
 	},
 	{
@@ -747,6 +834,9 @@
 			"fr": "Jaune soleil",
 			"it": "Giallo sole",
 			"nl": "Zonnegeel"
+		},
+		"fullname": {
+			"en": "RAL 1037 Sun yellow"
 		}
 	},
 	{
@@ -772,6 +862,9 @@
 			"fr": "Orang\u00e9 jaune",
 			"it": "Arancio giallastro",
 			"nl": "Geeloranje"
+		},
+		"fullname": {
+			"en": "RAL 2000 Yellow orange"
 		}
 	},
 	{
@@ -797,6 +890,9 @@
 			"fr": "Orang\u00e9 rouge",
 			"it": "Arancio rossastro",
 			"nl": "Roodoranje"
+		},
+		"fullname": {
+			"en": "RAL 2001 Red orange"
 		}
 	},
 	{
@@ -822,6 +918,9 @@
 			"fr": "Orang\u00e9 sang",
 			"it": "Arancio sanguigno",
 			"nl": "Vermiljoen"
+		},
+		"fullname": {
+			"en": "RAL 2002 Vermilion"
 		}
 	},
 	{
@@ -847,6 +946,9 @@
 			"fr": "Orang\u00e9 pastel",
 			"it": "Arancio pastello",
 			"nl": "Pasteloranje"
+		},
+		"fullname": {
+			"en": "RAL 2003 Pastel orange"
 		}
 	},
 	{
@@ -872,6 +974,9 @@
 			"fr": "Orang\u00e9 pur",
 			"it": "Arancio puro",
 			"nl": "Zuiver oranje"
+		},
+		"fullname": {
+			"en": "RAL 2004 Pure orange"
 		}
 	},
 	{
@@ -897,6 +1002,9 @@
 			"fr": "Orang\u00e9 brillant",
 			"it": "Arancio brillante",
 			"nl": "Briljantoranje"
+		},
+		"fullname": {
+			"en": "RAL 2005 Luminous orange"
 		}
 	},
 	{
@@ -922,6 +1030,9 @@
 			"fr": "Orang\u00e9 clair brillant",
 			"it": "Arancio chiaro brillante",
 			"nl": "Briljant lichtoranje"
+		},
+		"fullname": {
+			"en": "RAL 2007 Luminous bright orange"
 		}
 	},
 	{
@@ -947,6 +1058,9 @@
 			"fr": "Orang\u00e9 rouge clair",
 			"it": "Rosso arancio chiaro",
 			"nl": "Licht roodoranje"
+		},
+		"fullname": {
+			"en": "RAL 2008 Bright red orange"
 		}
 	},
 	{
@@ -972,6 +1086,9 @@
 			"fr": "Orang\u00e9 signalisation",
 			"it": "Arancio traffico",
 			"nl": "Verkeersoranje"
+		},
+		"fullname": {
+			"en": "RAL 2009 Traffic orange"
 		}
 	},
 	{
@@ -997,6 +1114,9 @@
 			"fr": "Orang\u00e9 de s\u00e9curit\u00e9",
 			"it": "Arancio segnale",
 			"nl": "Signaaloranje"
+		},
+		"fullname": {
+			"en": "RAL 2010 Signal orange"
 		}
 	},
 	{
@@ -1022,6 +1142,9 @@
 			"fr": "Orang\u00e9 fonc\u00e9",
 			"it": "Arancio profondo",
 			"nl": "Dieporanje"
+		},
+		"fullname": {
+			"en": "RAL 2011 Deep orange"
 		}
 	},
 	{
@@ -1047,6 +1170,9 @@
 			"fr": "Orang\u00e9 saumon",
 			"it": "Arancio salmone",
 			"nl": "Zalmoranje"
+		},
+		"fullname": {
+			"en": "RAL 2012 Salmon orange"
 		}
 	},
 	{
@@ -1072,6 +1198,9 @@
 			"fr": "Orang\u00e9 nacr\u00e9",
 			"it": "Arancio perlato",
 			"nl": "Parelmoeroranje"
+		},
+		"fullname": {
+			"en": "RAL 2013 Pearl orange"
 		}
 	},
 	{
@@ -1097,6 +1226,9 @@
 			"fr": "Orang\u00e9 RAL",
 			"it": "Arancio RAL",
 			"nl": "RAL oranje"
+		},
+		"fullname": {
+			"en": "RAL 2017 RAL orange"
 		}
 	},
 	{
@@ -1122,6 +1254,9 @@
 			"fr": "Rouge feu",
 			"it": "Rosso fuoco",
 			"nl": "Vuurrood"
+		},
+		"fullname": {
+			"en": "RAL 3000 Flame red"
 		}
 	},
 	{
@@ -1147,6 +1282,9 @@
 			"fr": "Rouge de s\u00e9curit\u00e9",
 			"it": "Rosso segnale",
 			"nl": "Signaalrood"
+		},
+		"fullname": {
+			"en": "RAL 3001 Signal red"
 		}
 	},
 	{
@@ -1172,6 +1310,9 @@
 			"fr": "Rouge carmin",
 			"it": "Rosso carminio",
 			"nl": "Karmijnrood"
+		},
+		"fullname": {
+			"en": "RAL 3002 Carmine red"
 		}
 	},
 	{
@@ -1197,6 +1338,9 @@
 			"fr": "Rouge rubis",
 			"it": "Rosso rubino",
 			"nl": "Robijnrood"
+		},
+		"fullname": {
+			"en": "RAL 3003 Ruby red"
 		}
 	},
 	{
@@ -1222,6 +1366,9 @@
 			"fr": "Rouge pourpre",
 			"it": "Rosso porpora",
 			"nl": "Purperrood"
+		},
+		"fullname": {
+			"en": "RAL 3004 Purple red"
 		}
 	},
 	{
@@ -1247,6 +1394,9 @@
 			"fr": "Rouge vin",
 			"it": "Rosso vino",
 			"nl": "Wijnrood"
+		},
+		"fullname": {
+			"en": "RAL 3005 Wine red"
 		}
 	},
 	{
@@ -1272,6 +1422,9 @@
 			"fr": "Rouge noir",
 			"it": "Rosso nerastro",
 			"nl": "Zwartrood"
+		},
+		"fullname": {
+			"en": "RAL 3007 Black red"
 		}
 	},
 	{
@@ -1297,6 +1450,9 @@
 			"fr": "Rouge oxyde",
 			"it": "Rosso ossido",
 			"nl": "Oxyderood"
+		},
+		"fullname": {
+			"en": "RAL 3009 Oxide red"
 		}
 	},
 	{
@@ -1322,6 +1478,9 @@
 			"fr": "Rouge brun",
 			"it": "Rosso marrone",
 			"nl": "Bruinrood"
+		},
+		"fullname": {
+			"en": "RAL 3011 Brown red"
 		}
 	},
 	{
@@ -1347,6 +1506,9 @@
 			"fr": "Rouge beige",
 			"it": "Rosso beige",
 			"nl": "Beigerood"
+		},
+		"fullname": {
+			"en": "RAL 3012 Beige red"
 		}
 	},
 	{
@@ -1372,6 +1534,9 @@
 			"fr": "Rouge tomate",
 			"it": "Rosso pomodoro",
 			"nl": "Tomaatrood"
+		},
+		"fullname": {
+			"en": "RAL 3013 Tomato red"
 		}
 	},
 	{
@@ -1397,6 +1562,9 @@
 			"fr": "Vieux rose",
 			"it": "Rosa antico",
 			"nl": "Oudroze"
+		},
+		"fullname": {
+			"en": "RAL 3014 Antique pink"
 		}
 	},
 	{
@@ -1422,6 +1590,9 @@
 			"fr": "Rose clair",
 			"it": "Rosa chiaro",
 			"nl": "Lichtroze"
+		},
+		"fullname": {
+			"en": "RAL 3015 Light pink"
 		}
 	},
 	{
@@ -1447,6 +1618,9 @@
 			"fr": "Rouge corail",
 			"it": "Rosso corallo",
 			"nl": "Koraalrood"
+		},
+		"fullname": {
+			"en": "RAL 3016 Coral red"
 		}
 	},
 	{
@@ -1472,6 +1646,9 @@
 			"fr": "Ros\u00e9",
 			"it": "Rosato",
 			"nl": "Bleekrood"
+		},
+		"fullname": {
+			"en": "RAL 3017 Rose"
 		}
 	},
 	{
@@ -1497,6 +1674,9 @@
 			"fr": "Rouge fraise",
 			"it": "Rosso fragola",
 			"nl": "Aardbeirood"
+		},
+		"fullname": {
+			"en": "RAL 3018 Strawberry red"
 		}
 	},
 	{
@@ -1522,6 +1702,9 @@
 			"fr": "Rouge signalisation",
 			"it": "Rosso traffico",
 			"nl": "Verkeersrood"
+		},
+		"fullname": {
+			"en": "RAL 3020 Traffic red"
 		}
 	},
 	{
@@ -1547,6 +1730,9 @@
 			"fr": "Rouge saumon",
 			"it": "Rosso salmone",
 			"nl": "Zalmrood"
+		},
+		"fullname": {
+			"en": "RAL 3022 Salmon pink"
 		}
 	},
 	{
@@ -1572,6 +1758,9 @@
 			"fr": "Rouge brillant",
 			"it": "Rosso brillante",
 			"nl": "Briljantrood"
+		},
+		"fullname": {
+			"en": "RAL 3024 Luminous red"
 		}
 	},
 	{
@@ -1597,6 +1786,9 @@
 			"fr": "Rouge clair brillant",
 			"it": "Rosso chiaro brillante",
 			"nl": "Briljant lichtrood"
+		},
+		"fullname": {
+			"en": "RAL 3026 Luminous bright red"
 		}
 	},
 	{
@@ -1622,6 +1814,9 @@
 			"fr": "Rouge framboise",
 			"it": "Rosso lampone",
 			"nl": "Framboosrood"
+		},
+		"fullname": {
+			"en": "RAL 3027 Raspberry red"
 		}
 	},
 	{
@@ -1647,6 +1842,9 @@
 			"fr": "Rouge pu",
 			"it": "Rosso puro",
 			"nl": "Zuiver rood"
+		},
+		"fullname": {
+			"en": "RAL 3028 Pure red"
 		}
 	},
 	{
@@ -1672,6 +1870,9 @@
 			"fr": "Rouge oriental",
 			"it": "Rosso oriente",
 			"nl": "Ori\u00ebntrood"
+		},
+		"fullname": {
+			"en": "RAL 3031 Orient red"
 		}
 	},
 	{
@@ -1697,6 +1898,9 @@
 			"fr": "Rouge rubis nacr\u00e9",
 			"it": "Rosso rubino perlato",
 			"nl": "Parelmoerdonkerrood"
+		},
+		"fullname": {
+			"en": "RAL 3032 Pearl ruby red"
 		}
 	},
 	{
@@ -1722,6 +1926,9 @@
 			"fr": "Rose nacr\u00e9",
 			"it": "Rosa perlato",
 			"nl": "Parelmoerlichtrood"
+		},
+		"fullname": {
+			"en": "RAL 3033 Pearl pink"
 		}
 	},
 	{
@@ -1747,6 +1954,9 @@
 			"fr": "Lilas rouge",
 			"it": "Lilla rossastro",
 			"nl": "Roodlila"
+		},
+		"fullname": {
+			"en": "RAL 4001 Red lilac"
 		}
 	},
 	{
@@ -1772,6 +1982,9 @@
 			"fr": "Violet rouge",
 			"it": "Viola rossastro",
 			"nl": "Roodpaars"
+		},
+		"fullname": {
+			"en": "RAL 4002 Red violet"
 		}
 	},
 	{
@@ -1797,6 +2010,9 @@
 			"fr": "Violet bruy\u00e8re",
 			"it": "Viola erica",
 			"nl": "Heidepaars"
+		},
+		"fullname": {
+			"en": "RAL 4003 Heather violet"
 		}
 	},
 	{
@@ -1822,6 +2038,9 @@
 			"fr": "Violet bordeaux",
 			"it": "Viola bordeaux",
 			"nl": "Bordeauxpaars"
+		},
+		"fullname": {
+			"en": "RAL 4004 Claret violet"
 		}
 	},
 	{
@@ -1847,6 +2066,9 @@
 			"fr": "Lilas bleu",
 			"it": "Lilla bluastro",
 			"nl": "Blauwlila"
+		},
+		"fullname": {
+			"en": "RAL 4005 Blue lilac"
 		}
 	},
 	{
@@ -1872,6 +2094,9 @@
 			"fr": "Pourpre signalisation",
 			"it": "Porpora traffico",
 			"nl": "Verkeerspurper"
+		},
+		"fullname": {
+			"en": "RAL 4006 Traffic purple"
 		}
 	},
 	{
@@ -1897,6 +2122,9 @@
 			"fr": "Violet pourpre",
 			"it": "Porpora violetto",
 			"nl": "Purperviolet"
+		},
+		"fullname": {
+			"en": "RAL 4007 Purple violet"
 		}
 	},
 	{
@@ -1922,6 +2150,9 @@
 			"fr": "Violet de s\u00e9curit\u00e9",
 			"it": "Violetto segnale",
 			"nl": "Signaalviolet"
+		},
+		"fullname": {
+			"en": "RAL 4008 Signal violet"
 		}
 	},
 	{
@@ -1947,6 +2178,9 @@
 			"fr": "Violet pastel",
 			"it": "Violetto pastello",
 			"nl": "Pastelviolet"
+		},
+		"fullname": {
+			"en": "RAL 4009 Pastel violet"
 		}
 	},
 	{
@@ -1972,6 +2206,9 @@
 			"fr": "Telemagenta",
 			"it": "Tele Magenta",
 			"nl": "Telemagenta"
+		},
+		"fullname": {
+			"en": "RAL 4010 Telemagenta"
 		}
 	},
 	{
@@ -1997,6 +2234,9 @@
 			"fr": "Violet nacr\u00e9",
 			"it": "Violetto perlato",
 			"nl": "Parelmoerdonkerviolet"
+		},
+		"fullname": {
+			"en": "RAL 4011 Pearl violet"
 		}
 	},
 	{
@@ -2022,6 +2262,9 @@
 			"fr": "M\u00fbre nacr\u00e9",
 			"it": "Mora perlato",
 			"nl": "Parelmoerlichtviolet"
+		},
+		"fullname": {
+			"en": "RAL 4012 Pearl blackberry"
 		}
 	},
 	{
@@ -2047,6 +2290,9 @@
 			"fr": "Bleu violet",
 			"it": "Blu violaceo",
 			"nl": "Paarsblauw"
+		},
+		"fullname": {
+			"en": "RAL 5000 Violet blue"
 		}
 	},
 	{
@@ -2072,6 +2318,9 @@
 			"fr": "Bleu vert",
 			"it": "Blu verdastro",
 			"nl": "Groenblauw"
+		},
+		"fullname": {
+			"en": "RAL 5001 Green blue"
 		}
 	},
 	{
@@ -2097,6 +2346,9 @@
 			"fr": "Bleu outremer",
 			"it": "Blu oltremare",
 			"nl": "Ultramarijnblauw"
+		},
+		"fullname": {
+			"en": "RAL 5002 Ultramarine blue"
 		}
 	},
 	{
@@ -2122,6 +2374,9 @@
 			"fr": "Bleu saphir",
 			"it": "Blu zaffiro",
 			"nl": "Saffierblauw"
+		},
+		"fullname": {
+			"en": "RAL 5003 Sapphire blue"
 		}
 	},
 	{
@@ -2147,6 +2402,9 @@
 			"fr": "Bleu noir",
 			"it": "Blu nerastro",
 			"nl": "Zwartblauw"
+		},
+		"fullname": {
+			"en": "RAL 5004 Black blue"
 		}
 	},
 	{
@@ -2172,6 +2430,9 @@
 			"fr": "Bleu de s\u00e9curit\u00e9",
 			"it": "Blu segnale",
 			"nl": "Signaalblauw"
+		},
+		"fullname": {
+			"en": "RAL 5005 Signal blue"
 		}
 	},
 	{
@@ -2197,6 +2458,9 @@
 			"fr": "Bleu brillant",
 			"it": "Blu brillante",
 			"nl": "Briljantblauw"
+		},
+		"fullname": {
+			"en": "RAL 5007 Brillant blue"
 		}
 	},
 	{
@@ -2222,6 +2486,9 @@
 			"fr": "Bleu gris",
 			"it": "Blu grigiastro",
 			"nl": "Grijsblauw"
+		},
+		"fullname": {
+			"en": "RAL 5008 Grey blue"
 		}
 	},
 	{
@@ -2247,6 +2514,9 @@
 			"fr": "Bleu azur",
 			"it": "Blu azzurro",
 			"nl": "Azuurblauw"
+		},
+		"fullname": {
+			"en": "RAL 5009 Azure blue"
 		}
 	},
 	{
@@ -2272,6 +2542,9 @@
 			"fr": "Bleu gentiane",
 			"it": "Blu genziana",
 			"nl": "Gentiaanblauw"
+		},
+		"fullname": {
+			"en": "RAL 5010 Gentian blue"
 		}
 	},
 	{
@@ -2297,6 +2570,9 @@
 			"fr": "Bleu acier",
 			"it": "Blu acciaio",
 			"nl": "Staalblauw"
+		},
+		"fullname": {
+			"en": "RAL 5011 Steel blue"
 		}
 	},
 	{
@@ -2322,6 +2598,9 @@
 			"fr": "Bleu clair",
 			"it": "Blu luce",
 			"nl": "Lichtblauw"
+		},
+		"fullname": {
+			"en": "RAL 5012 Light blue"
 		}
 	},
 	{
@@ -2347,6 +2626,9 @@
 			"fr": "Bleu cobalt",
 			"it": "Blu cobalto",
 			"nl": "Kobaltblauw"
+		},
+		"fullname": {
+			"en": "RAL 5013 Cobalt blue"
 		}
 	},
 	{
@@ -2372,6 +2654,9 @@
 			"fr": "Bleu pigeon",
 			"it": "Blu colomba",
 			"nl": "Duifblauw"
+		},
+		"fullname": {
+			"en": "RAL 5014 Pigeon blue"
 		}
 	},
 	{
@@ -2397,6 +2682,9 @@
 			"fr": "Bleu ciel",
 			"it": "Blu cielo",
 			"nl": "Hemelsblauw"
+		},
+		"fullname": {
+			"en": "RAL 5015 Sky blue"
 		}
 	},
 	{
@@ -2422,6 +2710,9 @@
 			"fr": "Bleu signalisation",
 			"it": "Blu traffico",
 			"nl": "Verkeersblauw"
+		},
+		"fullname": {
+			"en": "RAL 5017 Traffic blue"
 		}
 	},
 	{
@@ -2447,6 +2738,9 @@
 			"fr": "Bleu turquoise",
 			"it": "Blu turchese",
 			"nl": "Turkooisblauw"
+		},
+		"fullname": {
+			"en": "RAL 5018 Turquoise blue"
 		}
 	},
 	{
@@ -2472,6 +2766,9 @@
 			"fr": "Bleu capri",
 			"it": "Blu capri",
 			"nl": "Capriblauw"
+		},
+		"fullname": {
+			"en": "RAL 5019 Capri blue"
 		}
 	},
 	{
@@ -2497,6 +2794,9 @@
 			"fr": "Bleu oc\u00e9an",
 			"it": "Blu oceano",
 			"nl": "Oceaanblauw"
+		},
+		"fullname": {
+			"en": "RAL 5020 Ocean blue"
 		}
 	},
 	{
@@ -2522,6 +2822,9 @@
 			"fr": "Bleu d\u2019eau",
 			"it": "Blu acqua",
 			"nl": "Waterblauw"
+		},
+		"fullname": {
+			"en": "RAL 5021 Water blue"
 		}
 	},
 	{
@@ -2547,6 +2850,9 @@
 			"fr": "Bleu nocturne",
 			"it": "Blu notte",
 			"nl": "Nachtblauw"
+		},
+		"fullname": {
+			"en": "RAL 5022 Night blue"
 		}
 	},
 	{
@@ -2572,6 +2878,9 @@
 			"fr": "Bleu distant",
 			"it": "Blu distante",
 			"nl": "Verblauw"
+		},
+		"fullname": {
+			"en": "RAL 5023 Distant blue"
 		}
 	},
 	{
@@ -2597,6 +2906,9 @@
 			"fr": "Bleu pastel",
 			"it": "Blu pastello",
 			"nl": "Pastelblauw"
+		},
+		"fullname": {
+			"en": "RAL 5024 Pastel blue"
 		}
 	},
 	{
@@ -2622,6 +2934,9 @@
 			"fr": "Gentiane nacr\u00e9",
 			"it": "Blu genziana perlato",
 			"nl": "Parelmoerblauw"
+		},
+		"fullname": {
+			"en": "RAL 5025 Pearl gentian blue"
 		}
 	},
 	{
@@ -2647,6 +2962,9 @@
 			"fr": "Bleu nuit nacr\u00e9",
 			"it": "Blu notte perlato",
 			"nl": "Parelmoernachtblauw"
+		},
+		"fullname": {
+			"en": "RAL 5026 Pearl night blue"
 		}
 	},
 	{
@@ -2672,6 +2990,9 @@
 			"fr": "Vert patine",
 			"it": "Verde patina",
 			"nl": "Patinagroen"
+		},
+		"fullname": {
+			"en": "RAL 6000 Patina green"
 		}
 	},
 	{
@@ -2697,6 +3018,9 @@
 			"fr": "Vert \u00e9meraude",
 			"it": "Verde smeraldo",
 			"nl": "Smaragdgroen"
+		},
+		"fullname": {
+			"en": "RAL 6001 Emerald green"
 		}
 	},
 	{
@@ -2722,6 +3046,9 @@
 			"fr": "Vert feuillage",
 			"it": "Verde foglia",
 			"nl": "Loofgroen"
+		},
+		"fullname": {
+			"en": "RAL 6002 Leaf green"
 		}
 	},
 	{
@@ -2747,6 +3074,9 @@
 			"fr": "Vert olive",
 			"it": "Verde oliva",
 			"nl": "Olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6003 Olive green"
 		}
 	},
 	{
@@ -2772,6 +3102,9 @@
 			"fr": "Vert bleu",
 			"it": "Verde bluastro",
 			"nl": "Blauwgroen"
+		},
+		"fullname": {
+			"en": "RAL 6004 Blue green"
 		}
 	},
 	{
@@ -2797,6 +3130,9 @@
 			"fr": "Vert mousse",
 			"it": "Verde muschio",
 			"nl": "Mosgroen"
+		},
+		"fullname": {
+			"en": "RAL 6005 Moss green"
 		}
 	},
 	{
@@ -2822,6 +3158,9 @@
 			"fr": "Olive gris",
 			"it": "Oliva grigiastro",
 			"nl": "Grijs olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6006 Grey olive"
 		}
 	},
 	{
@@ -2847,6 +3186,9 @@
 			"fr": "Vert bouteille",
 			"it": "Verde bottiglia",
 			"nl": "Flessengroen"
+		},
+		"fullname": {
+			"en": "RAL 6007 Bottle green"
 		}
 	},
 	{
@@ -2872,6 +3214,9 @@
 			"fr": "Vert brun",
 			"it": "Verde brunastro",
 			"nl": "Bruingroen"
+		},
+		"fullname": {
+			"en": "RAL 6008 Brown green"
 		}
 	},
 	{
@@ -2897,6 +3242,9 @@
 			"fr": "Vert sapin",
 			"it": "Verde abete",
 			"nl": "Dennengroen"
+		},
+		"fullname": {
+			"en": "RAL 6009 Fir green"
 		}
 	},
 	{
@@ -2922,6 +3270,9 @@
 			"fr": "Vert herbe",
 			"it": "Verde erba",
 			"nl": "Grasgroen"
+		},
+		"fullname": {
+			"en": "RAL 6010 Grass green"
 		}
 	},
 	{
@@ -2947,6 +3298,9 @@
 			"fr": "Vert r\u00e9s\u00e9da",
 			"it": "Verde reseda",
 			"nl": "Resedagroen"
+		},
+		"fullname": {
+			"en": "RAL 6011 Reseda green"
 		}
 	},
 	{
@@ -2972,6 +3326,9 @@
 			"fr": "Vert noir",
 			"it": "Verde nerastro",
 			"nl": "Zwartgroen"
+		},
+		"fullname": {
+			"en": "RAL 6012 Black green"
 		}
 	},
 	{
@@ -2997,6 +3354,9 @@
 			"fr": "Vert jonc",
 			"it": "Verde canna",
 			"nl": "Rietgroen"
+		},
+		"fullname": {
+			"en": "RAL 6013 Reed green"
 		}
 	},
 	{
@@ -3022,6 +3382,9 @@
 			"fr": "Olive jaune",
 			"it": "Oliva giallastro",
 			"nl": "Geel olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6014 Yellow olive"
 		}
 	},
 	{
@@ -3047,6 +3410,9 @@
 			"fr": "Olive noir",
 			"it": "Oliva nerastro",
 			"nl": "Zwart olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6015 Black olive"
 		}
 	},
 	{
@@ -3072,6 +3438,9 @@
 			"fr": "Vert turquoise",
 			"it": "Verde turchese",
 			"nl": "Turkooisgroen"
+		},
+		"fullname": {
+			"en": "RAL 6016 Turquoise green"
 		}
 	},
 	{
@@ -3097,6 +3466,9 @@
 			"fr": "Vert mai",
 			"it": "Verde maggio",
 			"nl": "Meigroen"
+		},
+		"fullname": {
+			"en": "RAL 6017 May green"
 		}
 	},
 	{
@@ -3122,6 +3494,9 @@
 			"fr": "Vert jaune",
 			"it": "Verde giallastro",
 			"nl": "Geelgroen"
+		},
+		"fullname": {
+			"en": "RAL 6018 Yellow green"
 		}
 	},
 	{
@@ -3147,6 +3522,9 @@
 			"fr": "Vert blanc",
 			"it": "Verde biancastro",
 			"nl": "Witgroen"
+		},
+		"fullname": {
+			"en": "RAL 6019 Pastel green"
 		}
 	},
 	{
@@ -3172,6 +3550,9 @@
 			"fr": "Vert oxyde chromique",
 			"it": "Verde cromo",
 			"nl": "Chroomoxydegroen"
+		},
+		"fullname": {
+			"en": "RAL 6020 Chrome green"
 		}
 	},
 	{
@@ -3197,6 +3578,9 @@
 			"fr": "Vert p\u00e2le",
 			"it": "Verde pallido",
 			"nl": "Bleekgroen"
+		},
+		"fullname": {
+			"en": "RAL 6021 Pale green"
 		}
 	},
 	{
@@ -3222,6 +3606,9 @@
 			"fr": "Olive brun",
 			"it": "Oliva brunastro",
 			"nl": "Bruin olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6022 Olive drab"
 		}
 	},
 	{
@@ -3247,6 +3634,9 @@
 			"fr": "Vert signalisation",
 			"it": "Verde traffico",
 			"nl": "Verkeersgroen"
+		},
+		"fullname": {
+			"en": "RAL 6024 Traffic green"
 		}
 	},
 	{
@@ -3272,6 +3662,9 @@
 			"fr": "Vert foug\u00e8re",
 			"it": "Verde felce",
 			"nl": "Varengroen"
+		},
+		"fullname": {
+			"en": "RAL 6025 Fern green"
 		}
 	},
 	{
@@ -3297,6 +3690,9 @@
 			"fr": "Vert opale",
 			"it": "Verde opale",
 			"nl": "Opaalgroen"
+		},
+		"fullname": {
+			"en": "RAL 6026 Opal green"
 		}
 	},
 	{
@@ -3322,6 +3718,9 @@
 			"fr": "Vert clair",
 			"it": "Verde chiaro",
 			"nl": "Lichtgroen"
+		},
+		"fullname": {
+			"en": "RAL 6027 Light green"
 		}
 	},
 	{
@@ -3347,6 +3746,9 @@
 			"fr": "Vert pin",
 			"it": "Verde pino",
 			"nl": "Pijnboomgroen"
+		},
+		"fullname": {
+			"en": "RAL 6028 Pine green"
 		}
 	},
 	{
@@ -3372,6 +3774,9 @@
 			"fr": "Vert menthe",
 			"it": "Verde menta",
 			"nl": "Mintgroen"
+		},
+		"fullname": {
+			"en": "RAL 6029 Mint green"
 		}
 	},
 	{
@@ -3397,6 +3802,9 @@
 			"fr": "Vert de s\u00e9curit\u00e9",
 			"it": "Verde segnale",
 			"nl": "Signaalgroen"
+		},
+		"fullname": {
+			"en": "RAL 6032 Signal green"
 		}
 	},
 	{
@@ -3422,6 +3830,9 @@
 			"fr": "Turquoise menthe",
 			"it": "Turchese menta",
 			"nl": "Mintturquoise"
+		},
+		"fullname": {
+			"en": "RAL 6033 Mint turquoise"
 		}
 	},
 	{
@@ -3447,6 +3858,9 @@
 			"fr": "Turquoise pastel",
 			"it": "Turchese pastello",
 			"nl": "Pastelturquoise"
+		},
+		"fullname": {
+			"en": "RAL 6034 Pastel turquoise"
 		}
 	},
 	{
@@ -3472,6 +3886,9 @@
 			"fr": "Vert nacr\u00e9",
 			"it": "Verde perlato",
 			"nl": "Parelmoerdonkergroen"
+		},
+		"fullname": {
+			"en": "RAL 6035 Pearl green"
 		}
 	},
 	{
@@ -3497,6 +3914,9 @@
 			"fr": "Vert opal nacr\u00e9",
 			"it": "Verde opalo perlato",
 			"nl": "Parelmoerlichtgroen"
+		},
+		"fullname": {
+			"en": "RAL 6036 Pearl opal green"
 		}
 	},
 	{
@@ -3522,6 +3942,9 @@
 			"fr": "Vert pur",
 			"it": "Verde puro",
 			"nl": "Zuiver groen"
+		},
+		"fullname": {
+			"en": "RAL 6037 Pure green"
 		}
 	},
 	{
@@ -3547,6 +3970,9 @@
 			"fr": "Vert brillant",
 			"it": "Verde brillante",
 			"nl": "Briljantgroen"
+		},
+		"fullname": {
+			"en": "RAL 6038 Luminous green"
 		}
 	},
 	{
@@ -3572,6 +3998,9 @@
 			"fr": "Vert fibre",
 			"it": "Verde fibra",
 			"nl": "Fibergroen"
+		},
+		"fullname": {
+			"en": "RAL 6039 Fibrous green"
 		}
 	},
 	{
@@ -3597,6 +4026,9 @@
 			"fr": "Gris petit-gris",
 			"it": "Grigio vaio",
 			"nl": "Pelsgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7000 Squirrel grey"
 		}
 	},
 	{
@@ -3622,6 +4054,9 @@
 			"fr": "Gris argent",
 			"it": "Grigio argento",
 			"nl": "Zilvergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7001 Silver grey"
 		}
 	},
 	{
@@ -3647,6 +4082,9 @@
 			"fr": "Gris olive",
 			"it": "Grigio olivastro",
 			"nl": "Olijfgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7002 Olive grey"
 		}
 	},
 	{
@@ -3672,6 +4110,9 @@
 			"fr": "Gris mousse",
 			"it": "Grigio muschio",
 			"nl": "Mosgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7003 Moss grey"
 		}
 	},
 	{
@@ -3697,6 +4138,9 @@
 			"fr": "Gris de s\u00e9curit\u00e9",
 			"it": "Grigio segnale",
 			"nl": "Signaalgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7004 Signal grey"
 		}
 	},
 	{
@@ -3722,6 +4166,9 @@
 			"fr": "Gris souris",
 			"it": "Grigio topo",
 			"nl": "Muisgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7005 Mouse grey"
 		}
 	},
 	{
@@ -3747,6 +4194,9 @@
 			"fr": "Gris beige",
 			"it": "Grigio beige",
 			"nl": "Beigegrijs"
+		},
+		"fullname": {
+			"en": "RAL 7006 Beige grey"
 		}
 	},
 	{
@@ -3772,6 +4222,9 @@
 			"fr": "Gris kaki",
 			"it": "Grigio kaki",
 			"nl": "Kakigrijs"
+		},
+		"fullname": {
+			"en": "RAL 7008 Khaki grey"
 		}
 	},
 	{
@@ -3797,6 +4250,9 @@
 			"fr": "Gris vert",
 			"it": "Grigio verdastro",
 			"nl": "Groengrijs"
+		},
+		"fullname": {
+			"en": "RAL 7009 Green grey"
 		}
 	},
 	{
@@ -3822,6 +4278,9 @@
 			"fr": "Gris tente",
 			"it": "Grigio tenda",
 			"nl": "Zeildoekgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7010 Tarpaulin grey"
 		}
 	},
 	{
@@ -3847,6 +4306,9 @@
 			"fr": "Gris fer",
 			"it": "Grigio ferro",
 			"nl": "IJzergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7011 Iron grey"
 		}
 	},
 	{
@@ -3872,6 +4334,9 @@
 			"fr": "Gris basalte",
 			"it": "Grigio basalto",
 			"nl": "Bazaltgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7012 Basalt grey"
 		}
 	},
 	{
@@ -3897,6 +4362,9 @@
 			"fr": "Gris brun",
 			"it": "Grigio brunastro",
 			"nl": "Bruingrijs"
+		},
+		"fullname": {
+			"en": "RAL 7013 Brown grey"
 		}
 	},
 	{
@@ -3922,6 +4390,9 @@
 			"fr": "Gris ardoise",
 			"it": "Grigio ardesia",
 			"nl": "Leigrijs"
+		},
+		"fullname": {
+			"en": "RAL 7015 Slate grey"
 		}
 	},
 	{
@@ -3947,6 +4418,9 @@
 			"fr": "Gris anthracite",
 			"it": "Grigio antracite",
 			"nl": "Antracietgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7016 Anthracite grey"
 		}
 	},
 	{
@@ -3972,6 +4446,9 @@
 			"fr": "Gris noir",
 			"it": "Grigio nerastro",
 			"nl": "Zwartgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7021 Black grey"
 		}
 	},
 	{
@@ -3997,6 +4474,9 @@
 			"fr": "Gris terre d\u2019ombre",
 			"it": "Grigio ombra",
 			"nl": "Ombergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7022 Umbra grey"
 		}
 	},
 	{
@@ -4022,6 +4502,9 @@
 			"fr": "Gris b\u00e9ton",
 			"it": "Grigio calcestruzzo",
 			"nl": "Betongrijs"
+		},
+		"fullname": {
+			"en": "RAL 7023 Concrete grey"
 		}
 	},
 	{
@@ -4047,6 +4530,9 @@
 			"fr": "Gris graphite",
 			"it": "Grigio grafite",
 			"nl": "Grafietgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7024 Graphite grey"
 		}
 	},
 	{
@@ -4072,6 +4558,9 @@
 			"fr": "Gris granit",
 			"it": "Grigio granito",
 			"nl": "Granietgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7026 Granite grey"
 		}
 	},
 	{
@@ -4097,6 +4586,9 @@
 			"fr": "Gris pierre",
 			"it": "Grigio pietra",
 			"nl": "Steengrijs"
+		},
+		"fullname": {
+			"en": "RAL 7030 Stone grey"
 		}
 	},
 	{
@@ -4122,6 +4614,9 @@
 			"fr": "Gris bleu",
 			"it": "Grigio bluastro",
 			"nl": "Blauwgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7031 Blue grey"
 		}
 	},
 	{
@@ -4147,6 +4642,9 @@
 			"fr": "Gris silex",
 			"it": "Grigio ghiaia",
 			"nl": "Kiezelgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7032 Pebble grey"
 		}
 	},
 	{
@@ -4172,6 +4670,9 @@
 			"fr": "Gris ciment",
 			"it": "Grigio cemento",
 			"nl": "Cementgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7033 Cement grey"
 		}
 	},
 	{
@@ -4197,6 +4698,9 @@
 			"fr": "Gris jaune",
 			"it": "Grigio giallastro",
 			"nl": "Geelgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7034 Yellow grey"
 		}
 	},
 	{
@@ -4222,6 +4726,9 @@
 			"fr": "Gris clair",
 			"it": "Grigio luce",
 			"nl": "Lichtgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7035 Light grey"
 		}
 	},
 	{
@@ -4247,6 +4754,9 @@
 			"fr": "Gris platine",
 			"it": "Grigio platino",
 			"nl": "Platinagrijs"
+		},
+		"fullname": {
+			"en": "RAL 7036 Platinum grey"
 		}
 	},
 	{
@@ -4272,6 +4782,9 @@
 			"fr": "Gris poussi\u00e8re",
 			"it": "Grigio polvere",
 			"nl": "Stofgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7037 Dusty grey"
 		}
 	},
 	{
@@ -4297,6 +4810,9 @@
 			"fr": "Gris agate",
 			"it": "Grigio agata",
 			"nl": "Agaatgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7038 Agate grey"
 		}
 	},
 	{
@@ -4322,6 +4838,9 @@
 			"fr": "Gris quartz",
 			"it": "Grigio quarzo",
 			"nl": "Kwartsgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7039 Quartz grey"
 		}
 	},
 	{
@@ -4347,6 +4866,9 @@
 			"fr": "Gris fen\u00eatre",
 			"it": "Grigio finestra",
 			"nl": "Venstergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7040 Window grey"
 		}
 	},
 	{
@@ -4372,6 +4894,9 @@
 			"fr": "Gris signalisation A",
 			"it": "Grigio traffico A",
 			"nl": "Verkeersgrijs A"
+		},
+		"fullname": {
+			"en": "RAL 7042 Traffic grey A"
 		}
 	},
 	{
@@ -4397,6 +4922,9 @@
 			"fr": "Gris signalisation B",
 			"it": "Grigio traffico B",
 			"nl": "Verkeersgrijs B"
+		},
+		"fullname": {
+			"en": "RAL 7043 Traffic grey B"
 		}
 	},
 	{
@@ -4422,6 +4950,9 @@
 			"fr": "Gris soie",
 			"it": "Grigio seta",
 			"nl": "Zijdegrijs"
+		},
+		"fullname": {
+			"en": "RAL 7044 Silk grey"
 		}
 	},
 	{
@@ -4447,6 +4978,9 @@
 			"fr": "Telegris 1",
 			"it": "Grigio tele 1",
 			"nl": "Telegrijs 1"
+		},
+		"fullname": {
+			"en": "RAL 7045 Telegrey 1"
 		}
 	},
 	{
@@ -4472,6 +5006,9 @@
 			"fr": "Telegris 2",
 			"it": "Grigio tele 2",
 			"nl": "Telegrijs 2"
+		},
+		"fullname": {
+			"en": "RAL 7046 Telegrey 2"
 		}
 	},
 	{
@@ -4497,6 +5034,9 @@
 			"fr": "Telegris 4",
 			"it": "Grigio tele 4",
 			"nl": "Telegrijs 4"
+		},
+		"fullname": {
+			"en": "RAL 7047 Telegrey 4"
 		}
 	},
 	{
@@ -4522,6 +5062,9 @@
 			"fr": "Gris souris nacr\u00e9",
 			"it": "Grigio topo perlato",
 			"nl": "Parelmoermuisgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7048 Pearl mouse grey"
 		}
 	},
 	{
@@ -4547,6 +5090,9 @@
 			"fr": "Brun vert",
 			"it": "Marrone verdastro",
 			"nl": "Groenbruin"
+		},
+		"fullname": {
+			"en": "RAL 8000 Green brown"
 		}
 	},
 	{
@@ -4572,6 +5118,9 @@
 			"fr": "Brun terre de Sienne",
 			"it": "Marrone ocra",
 			"nl": "Okerbruin"
+		},
+		"fullname": {
+			"en": "RAL 8001 Ochre brown"
 		}
 	},
 	{
@@ -4597,6 +5146,9 @@
 			"fr": "Brun de s\u00e9curit\u00e9",
 			"it": "Marrone segnale",
 			"nl": "Signaalbruin"
+		},
+		"fullname": {
+			"en": "RAL 8002 Signal brown"
 		}
 	},
 	{
@@ -4622,6 +5174,9 @@
 			"fr": "Brun argile",
 			"it": "Marrone fango",
 			"nl": "Leembruin"
+		},
+		"fullname": {
+			"en": "RAL 8003 Clay brown"
 		}
 	},
 	{
@@ -4647,6 +5202,9 @@
 			"fr": "Brun cuivr\u00e9",
 			"it": "Marrone rame",
 			"nl": "Koperbruin"
+		},
+		"fullname": {
+			"en": "RAL 8004 Copper brown"
 		}
 	},
 	{
@@ -4672,6 +5230,9 @@
 			"fr": "Brun fauve",
 			"it": "Marrone capriolo",
 			"nl": "Reebruin"
+		},
+		"fullname": {
+			"en": "RAL 8007 Fawn brown"
 		}
 	},
 	{
@@ -4697,6 +5258,9 @@
 			"fr": "Brun olive",
 			"it": "Marrone oliva",
 			"nl": "Olijfbruin"
+		},
+		"fullname": {
+			"en": "RAL 8008 Olive brown"
 		}
 	},
 	{
@@ -4722,6 +5286,9 @@
 			"fr": "Brun noisette",
 			"it": "Marrone noce",
 			"nl": "Notenbruin"
+		},
+		"fullname": {
+			"en": "RAL 8011 Nut brown"
 		}
 	},
 	{
@@ -4747,6 +5314,9 @@
 			"fr": "Brun rouge",
 			"it": "Marrone rossiccio",
 			"nl": "Roodbruin"
+		},
+		"fullname": {
+			"en": "RAL 8012 Red brown"
 		}
 	},
 	{
@@ -4772,6 +5342,9 @@
 			"fr": "Brun s\u00e9pia",
 			"it": "Marrone seppia",
 			"nl": "Sepiabruin"
+		},
+		"fullname": {
+			"en": "RAL 8014 Sepia brown"
 		}
 	},
 	{
@@ -4797,6 +5370,9 @@
 			"fr": "Marron",
 			"it": "Marrone castagna",
 			"nl": "Kastanjebruin"
+		},
+		"fullname": {
+			"en": "RAL 8015 Chestnut brown"
 		}
 	},
 	{
@@ -4822,6 +5398,9 @@
 			"fr": "Brun acajou",
 			"it": "Marrone mogano",
 			"nl": "Mahoniebruin"
+		},
+		"fullname": {
+			"en": "RAL 8016 Mahogany brown"
 		}
 	},
 	{
@@ -4847,6 +5426,9 @@
 			"fr": "Brun chocolat",
 			"it": "Marrone cioccolata",
 			"nl": "Chocoladebruin"
+		},
+		"fullname": {
+			"en": "RAL 8017 Chocolate brown"
 		}
 	},
 	{
@@ -4872,6 +5454,9 @@
 			"fr": "Brun gris",
 			"it": "Marrone grigiastro",
 			"nl": "Grijsbruin"
+		},
+		"fullname": {
+			"en": "RAL 8019 Grey brown"
 		}
 	},
 	{
@@ -4897,6 +5482,9 @@
 			"fr": "Brun noir",
 			"it": "Marrone nerastro",
 			"nl": "Zwartbruin"
+		},
+		"fullname": {
+			"en": "RAL 8022 Black brown"
 		}
 	},
 	{
@@ -4922,6 +5510,9 @@
 			"fr": "Brun orang\u00e9",
 			"it": "Marrone arancio",
 			"nl": "Oranjebruin"
+		},
+		"fullname": {
+			"en": "RAL 8023 Orange brown"
 		}
 	},
 	{
@@ -4947,6 +5538,9 @@
 			"fr": "Brun beige",
 			"it": "Marrone beige",
 			"nl": "Beigebruin"
+		},
+		"fullname": {
+			"en": "RAL 8024 Beige brown"
 		}
 	},
 	{
@@ -4972,6 +5566,9 @@
 			"fr": "Brun p\u00e2le",
 			"it": "Marrone pallido",
 			"nl": "Bleekbruin"
+		},
+		"fullname": {
+			"en": "RAL 8025 Pale brown"
 		}
 	},
 	{
@@ -4997,6 +5594,9 @@
 			"fr": "Brun terre",
 			"it": "Marrone terra",
 			"nl": "Terrabruin"
+		},
+		"fullname": {
+			"en": "RAL 8028 Terra brown"
 		}
 	},
 	{
@@ -5022,6 +5622,9 @@
 			"fr": "Cuivre nacr\u00e9",
 			"it": "Rame perlato",
 			"nl": "Parelmoerkoper"
+		},
+		"fullname": {
+			"en": "RAL 8029 Pearl copper"
 		}
 	},
 	{
@@ -5047,6 +5650,9 @@
 			"fr": "Blanc cr\u00e8me",
 			"it": "Bianco crema",
 			"nl": "Cr\u00e8mewit"
+		},
+		"fullname": {
+			"en": "RAL 9001 Cream"
 		}
 	},
 	{
@@ -5072,6 +5678,9 @@
 			"fr": "Blanc gris",
 			"it": "Bianco grigiastro",
 			"nl": "Grijswit"
+		},
+		"fullname": {
+			"en": "RAL 9002 Grey white"
 		}
 	},
 	{
@@ -5097,6 +5706,9 @@
 			"fr": "Blanc de s\u00e9curit\u00e9",
 			"it": "Bianco segnale",
 			"nl": "Signaalwit"
+		},
+		"fullname": {
+			"en": "RAL 9003 Signal white"
 		}
 	},
 	{
@@ -5122,6 +5734,9 @@
 			"fr": "Noir de s\u00e9curit\u00e9",
 			"it": "Nero segnale",
 			"nl": "Signaalzwart"
+		},
+		"fullname": {
+			"en": "RAL 9004 Signal black"
 		}
 	},
 	{
@@ -5147,6 +5762,9 @@
 			"fr": "Noir fonc\u00e9",
 			"it": "Nero intenso",
 			"nl": "Gitzwart"
+		},
+		"fullname": {
+			"en": "RAL 9005 Jet black"
 		}
 	},
 	{
@@ -5172,6 +5790,9 @@
 			"fr": "Aluminium blanc",
 			"it": "Alluminio brillante",
 			"nl": "Blank aluminiumkleurig"
+		},
+		"fullname": {
+			"en": "RAL 9006 White aluminium"
 		}
 	},
 	{
@@ -5197,6 +5818,9 @@
 			"fr": "Aluminium gris",
 			"it": "Alluminio grigiastro",
 			"nl": "Grijs aluminiumkleurig"
+		},
+		"fullname": {
+			"en": "RAL 9007 Grey aluminium"
 		}
 	},
 	{
@@ -5222,6 +5846,9 @@
 			"fr": "Blanc pur",
 			"it": "Bianco puro",
 			"nl": "Zuiver wit"
+		},
+		"fullname": {
+			"en": "RAL 9010 Pure white"
 		}
 	},
 	{
@@ -5247,6 +5874,9 @@
 			"fr": "Noir graphite",
 			"it": "Nero grafite",
 			"nl": "Grafietzwart"
+		},
+		"fullname": {
+			"en": "RAL 9011 Graphite black"
 		}
 	},
 	{
@@ -5272,6 +5902,9 @@
 			"fr": "Blanc salle blanche",
 			"it": "Bianco cleanroom",
 			"nl": "Ultrareine zone wit"
+		},
+		"fullname": {
+			"en": "RAL 9012 Cleanroom white"
 		}
 	},
 	{
@@ -5297,6 +5930,9 @@
 			"fr": "Blanc signalisation",
 			"it": "Bianco traffico",
 			"nl": "Verkeerswit"
+		},
+		"fullname": {
+			"en": "RAL 9016 Traffic white"
 		}
 	},
 	{
@@ -5322,6 +5958,9 @@
 			"fr": "Noir signalisation",
 			"it": "Nero traffico",
 			"nl": "Verkeerszwart"
+		},
+		"fullname": {
+			"en": "RAL 9017 Traffic black"
 		}
 	},
 	{
@@ -5347,6 +5986,9 @@
 			"fr": "Blanc papyrus",
 			"it": "Bianco papiro",
 			"nl": "Papyruswit"
+		},
+		"fullname": {
+			"en": "RAL 9018 Papyrus white"
 		}
 	},
 	{
@@ -5372,6 +6014,9 @@
 			"fr": "Gris clair nacr\u00e9",
 			"it": "Grigio chiaro perlato",
 			"nl": "Parelmoerlichtgrijs"
+		},
+		"fullname": {
+			"en": "RAL 9022 Pearl light grey"
 		}
 	},
 	{
@@ -5397,6 +6042,9 @@
 			"fr": "Gris fon\u00e7\u00e9 nacr\u00e9",
 			"it": "Grigio scuro perlato",
 			"nl": "Parelmoerdonkergrijs"
+		},
+		"fullname": {
+			"en": "RAL 9023 Pearl dark grey"
 		}
 	}
 ]
