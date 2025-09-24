@@ -1,0 +1,6050 @@
+[
+	{
+		"code": "RAL 1000",
+		"colour": {
+			"rgb": {
+				"r": 205,
+				"g": 186,
+				"b": 136
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 9,
+				"y": 34,
+				"k": 20
+			},
+			"hex": "#CDBA88"
+		},
+		"name": {
+			"de": "Gr\u00fcnbeige",
+			"en": "Green beige",
+			"es": "Beige verdoso",
+			"fr": "Beige vert",
+			"it": "Beige verdastro",
+			"nl": "Groenbeige"
+		},
+		"fullname": {
+			"en": "RAL 1000 Green beige"
+		}
+	},
+	{
+		"code": "RAL 1001",
+		"colour": {
+			"rgb": {
+				"r": 208,
+				"g": 176,
+				"b": 132
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 15,
+				"y": 37,
+				"k": 18
+			},
+			"hex": "#D0B084"
+		},
+		"name": {
+			"de": "Beige",
+			"en": "Beige",
+			"es": "Beige",
+			"fr": "Beige",
+			"it": "Beige",
+			"nl": "Beige"
+		},
+		"fullname": {
+			"en": "RAL 1001 Beige"
+		}
+	},
+	{
+		"code": "RAL 1002",
+		"colour": {
+			"rgb": {
+				"r": 210,
+				"g": 170,
+				"b": 109
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 19,
+				"y": 48,
+				"k": 18
+			},
+			"hex": "#D2AA6D"
+		},
+		"name": {
+			"de": "Sandgelb",
+			"en": "Sand yellow",
+			"es": "Amarillo arena",
+			"fr": "Jaune sable",
+			"it": "Giallo sabbia",
+			"nl": "Zandgeel"
+		},
+		"fullname": {
+			"en": "RAL 1002 Sand yellow"
+		}
+	},
+	{
+		"code": "RAL 1003",
+		"colour": {
+			"rgb": {
+				"r": 249,
+				"g": 169,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 32,
+				"y": 100,
+				"k": 2
+			},
+			"hex": "#F9A900"
+		},
+		"name": {
+			"de": "Signalgelb",
+			"en": "Signal yellow",
+			"es": "Amarillo se\u00f1ales",
+			"fr": "Jaune de s\u00e9curit\u00e9",
+			"it": "Giallo segnale",
+			"nl": "Signaalgeel"
+		},
+		"fullname": {
+			"en": "RAL 1003 Signal yellow"
+		}
+	},
+	{
+		"code": "RAL 1004",
+		"colour": {
+			"rgb": {
+				"r": 228,
+				"g": 158,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 31,
+				"y": 100,
+				"k": 11
+			},
+			"hex": "#E49E00"
+		},
+		"name": {
+			"de": "Goldgelb",
+			"en": "Golden yellow",
+			"es": "Amarillo oro",
+			"fr": "Jaune or",
+			"it": "Giallo oro",
+			"nl": "Goudgeel"
+		},
+		"fullname": {
+			"en": "RAL 1004 Golden yellow"
+		}
+	},
+	{
+		"code": "RAL 1005",
+		"colour": {
+			"rgb": {
+				"r": 203,
+				"g": 143,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 30,
+				"y": 100,
+				"k": 20
+			},
+			"hex": "#CB8F00"
+		},
+		"name": {
+			"de": "Honiggelb",
+			"en": "Honey yellow",
+			"es": "Amarillo miel",
+			"fr": "Jaune miel",
+			"it": "Giallo miele",
+			"nl": "Honinggeel"
+		},
+		"fullname": {
+			"en": "RAL 1005 Honey yellow"
+		}
+	},
+	{
+		"code": "RAL 1006",
+		"colour": {
+			"rgb": {
+				"r": 225,
+				"g": 144,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 36,
+				"y": 100,
+				"k": 12
+			},
+			"hex": "#E19000"
+		},
+		"name": {
+			"de": "Maisgelb",
+			"en": "Maize yellow",
+			"es": "Amarillo ma\u00edz",
+			"fr": "Jaune ma\u00efs",
+			"it": "Giallo polenta",
+			"nl": "Maisgeel"
+		},
+		"fullname": {
+			"en": "RAL 1006 Maize yellow"
+		}
+	},
+	{
+		"code": "RAL 1007",
+		"colour": {
+			"rgb": {
+				"r": 232,
+				"g": 140,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 40,
+				"y": 100,
+				"k": 9
+			},
+			"hex": "#E88C00"
+		},
+		"name": {
+			"de": "Narzissengelb",
+			"en": "Daffodil yellow",
+			"es": "Amarillo narciso",
+			"fr": "Jaune narcisse",
+			"it": "Giallo narciso",
+			"nl": "Narcissengeel"
+		},
+		"fullname": {
+			"en": "RAL 1007 Daffodil yellow"
+		}
+	},
+	{
+		"code": "RAL 1011",
+		"colour": {
+			"rgb": {
+				"r": 175,
+				"g": 128,
+				"b": 80
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 27,
+				"y": 54,
+				"k": 31
+			},
+			"hex": "#AF8050"
+		},
+		"name": {
+			"de": "Braunbeige",
+			"en": "Brown beige",
+			"es": "Beige pardo",
+			"fr": "Beige brun",
+			"it": "Beige marrone",
+			"nl": "Bruinbeige"
+		},
+		"fullname": {
+			"en": "RAL 1011 Brown beige"
+		}
+	},
+	{
+		"code": "RAL 1012",
+		"colour": {
+			"rgb": {
+				"r": 221,
+				"g": 175,
+				"b": 40
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 21,
+				"y": 82,
+				"k": 13
+			},
+			"hex": "#DDAF28"
+		},
+		"name": {
+			"de": "Zitronengelb",
+			"en": "Lemon yellow",
+			"es": "Amarillo lim\u00f3n",
+			"fr": "Jaune citron",
+			"it": "Giallo limone",
+			"nl": "Citroengeel"
+		},
+		"fullname": {
+			"en": "RAL 1012 Lemon yellow"
+		}
+	},
+	{
+		"code": "RAL 1013",
+		"colour": {
+			"rgb": {
+				"r": 227,
+				"g": 217,
+				"b": 199
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 4,
+				"y": 12,
+				"k": 11
+			},
+			"hex": "#E3D9C7"
+		},
+		"name": {
+			"de": "Perlwei\u00df",
+			"en": "Oyster white",
+			"es": "Blanco perla",
+			"fr": "Blanc perl\u00e9",
+			"it": "Bianco perla",
+			"nl": "Parelwit"
+		},
+		"fullname": {
+			"en": "RAL 1013 Oyster white"
+		}
+	},
+	{
+		"code": "RAL 1014",
+		"colour": {
+			"rgb": {
+				"r": 221,
+				"g": 196,
+				"b": 155
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 11,
+				"y": 30,
+				"k": 13
+			},
+			"hex": "#DDC49B"
+		},
+		"name": {
+			"de": "Elfenbein",
+			"en": "Ivory",
+			"es": "Marfil",
+			"fr": "Ivoire",
+			"it": "Avorio",
+			"nl": "Ivoorkleurig"
+		},
+		"fullname": {
+			"en": "RAL 1014 Ivory"
+		}
+	},
+	{
+		"code": "RAL 1015",
+		"colour": {
+			"rgb": {
+				"r": 230,
+				"g": 210,
+				"b": 181
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 9,
+				"y": 21,
+				"k": 10
+			},
+			"hex": "#E6D2B5"
+		},
+		"name": {
+			"de": "Hellelfenbein",
+			"en": "Light ivory",
+			"es": "Marfil claro",
+			"fr": "Ivoire clair",
+			"it": "Avorio chiaro",
+			"nl": "Licht ivoorkleurig"
+		},
+		"fullname": {
+			"en": "RAL 1015 Light ivory"
+		}
+	},
+	{
+		"code": "RAL 1016",
+		"colour": {
+			"rgb": {
+				"r": 241,
+				"g": 221,
+				"b": 57
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 8,
+				"y": 76,
+				"k": 5
+			},
+			"hex": "#F1DD39"
+		},
+		"name": {
+			"de": "Schwefelgelb",
+			"en": "Sulfur yellow",
+			"es": "Amarillo azufre",
+			"fr": "Jaune soufre",
+			"it": "Giallo zolfo",
+			"nl": "Zwavelgeel"
+		},
+		"fullname": {
+			"en": "RAL 1016 Sulfur yellow"
+		}
+	},
+	{
+		"code": "RAL 1017",
+		"colour": {
+			"rgb": {
+				"r": 246,
+				"g": 169,
+				"b": 81
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 31,
+				"y": 67,
+				"k": 4
+			},
+			"hex": "#F6A951"
+		},
+		"name": {
+			"de": "Safrangelb",
+			"en": "Saffron yellow",
+			"es": "Amarillo azafr\u00e1n",
+			"fr": "Jaune safran",
+			"it": "Giallo zafferano",
+			"nl": "Saffraangeel"
+		},
+		"fullname": {
+			"en": "RAL 1017 Saffron yellow"
+		}
+	},
+	{
+		"code": "RAL 1018",
+		"colour": {
+			"rgb": {
+				"r": 250,
+				"g": 202,
+				"b": 49
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 19,
+				"y": 80,
+				"k": 2
+			},
+			"hex": "#FACA31"
+		},
+		"name": {
+			"de": "Zinkgelb",
+			"en": "Zinc yellow",
+			"es": "Amarillo de zinc",
+			"fr": "Jaune zinc",
+			"it": "Giallo zinco",
+			"nl": "Zinkgeel"
+		},
+		"fullname": {
+			"en": "RAL 1018 Zinc yellow"
+		}
+	},
+	{
+		"code": "RAL 1019",
+		"colour": {
+			"rgb": {
+				"r": 164,
+				"g": 143,
+				"b": 122
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 13,
+				"y": 26,
+				"k": 36
+			},
+			"hex": "#A48F7A"
+		},
+		"name": {
+			"de": "Graubeige",
+			"en": "Grey beige",
+			"es": "Beige agrisado",
+			"fr": "Beige gris",
+			"it": "Beige grigiastro",
+			"nl": "Grijsbeige"
+		},
+		"fullname": {
+			"en": "RAL 1019 Grey beige"
+		}
+	},
+	{
+		"code": "RAL 1020",
+		"colour": {
+			"rgb": {
+				"r": 160,
+				"g": 143,
+				"b": 101
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 11,
+				"y": 37,
+				"k": 37
+			},
+			"hex": "#A08F65"
+		},
+		"name": {
+			"de": "Olivgelb",
+			"en": "Olive yellow",
+			"es": "Amarillo oliva",
+			"fr": "Jaune olive",
+			"it": "Giallo olivastro",
+			"nl": "Olijfgeel"
+		},
+		"fullname": {
+			"en": "RAL 1020 Olive yellow"
+		}
+	},
+	{
+		"code": "RAL 1021",
+		"colour": {
+			"rgb": {
+				"r": 246,
+				"g": 182,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 26,
+				"y": 100,
+				"k": 4
+			},
+			"hex": "#F6B600"
+		},
+		"name": {
+			"de": "Rapsgelb",
+			"en": "Colza yellow",
+			"es": "Amarillo colza",
+			"fr": "Jaune colza",
+			"it": "Giallo navone",
+			"nl": "Koolzaadgeel"
+		},
+		"fullname": {
+			"en": "RAL 1021 Colza yellow"
+		}
+	},
+	{
+		"code": "RAL 1023",
+		"colour": {
+			"rgb": {
+				"r": 247,
+				"g": 181,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 27,
+				"y": 100,
+				"k": 3
+			},
+			"hex": "#F7B500"
+		},
+		"name": {
+			"de": "Verkehrsgelb",
+			"en": "Traffic yellow",
+			"es": "Amarillo tr\u00e1fico",
+			"fr": "Jaune signalisation",
+			"it": "Giallo traffico",
+			"nl": "Verkeersgeel"
+		},
+		"fullname": {
+			"en": "RAL 1023 Traffic yellow"
+		}
+	},
+	{
+		"code": "RAL 1024",
+		"colour": {
+			"rgb": {
+				"r": 186,
+				"g": 143,
+				"b": 76
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 23,
+				"y": 59,
+				"k": 27
+			},
+			"hex": "#BA8F4C"
+		},
+		"name": {
+			"de": "Ockergelb",
+			"en": "Ochre yellow",
+			"es": "Amarillo ocre",
+			"fr": "Jaune ocre",
+			"it": "Giallo ocra",
+			"nl": "Okergeel"
+		},
+		"fullname": {
+			"en": "RAL 1024 Ochre yellow"
+		}
+	},
+	{
+		"code": "RAL 1026",
+		"colour": {
+			"rgb": {
+				"r": 255,
+				"g": 255,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 100,
+				"k": 0
+			},
+			"hex": "#FFFF00"
+		},
+		"name": {
+			"de": "Leuchtgelb",
+			"en": "Luminous yellow",
+			"es": "Amarillo brillante",
+			"fr": "Jaune brillant",
+			"it": "Giallo brillante",
+			"nl": "Briljantgeel"
+		},
+		"fullname": {
+			"en": "RAL 1026 Luminous yellow"
+		}
+	},
+	{
+		"code": "RAL 1027",
+		"colour": {
+			"rgb": {
+				"r": 167,
+				"g": 127,
+				"b": 15
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 24,
+				"y": 91,
+				"k": 35
+			},
+			"hex": "#A77F0F"
+		},
+		"name": {
+			"de": "Currygelb",
+			"en": "Curry",
+			"es": "Amarillo curry",
+			"fr": "Jaune curry",
+			"it": "Giallo curry",
+			"nl": "Kerriegeel"
+		},
+		"fullname": {
+			"en": "RAL 1027 Curry"
+		}
+	},
+	{
+		"code": "RAL 1028",
+		"colour": {
+			"rgb": {
+				"r": 255,
+				"g": 156,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 39,
+				"y": 100,
+				"k": 0
+			},
+			"hex": "#FF9C00"
+		},
+		"name": {
+			"de": "Melonengelb",
+			"en": "Melon yellow",
+			"es": "Amarillo mel\u00f3n",
+			"fr": "Jaune melon",
+			"it": "Giallo melone",
+			"nl": "Meloengeel"
+		},
+		"fullname": {
+			"en": "RAL 1028 Melon yellow"
+		}
+	},
+	{
+		"code": "RAL 1032",
+		"colour": {
+			"rgb": {
+				"r": 226,
+				"g": 163,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 28,
+				"y": 100,
+				"k": 11
+			},
+			"hex": "#E2A300"
+		},
+		"name": {
+			"de": "Ginstergelb",
+			"en": "Broom yellow",
+			"es": "Amarillo retama",
+			"fr": "Jaune gen\u00eat",
+			"it": "Giallo scopa",
+			"nl": "Bremgeel"
+		},
+		"fullname": {
+			"en": "RAL 1032 Broom yellow"
+		}
+	},
+	{
+		"code": "RAL 1033",
+		"colour": {
+			"rgb": {
+				"r": 249,
+				"g": 154,
+				"b": 29
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 38,
+				"y": 88,
+				"k": 2
+			},
+			"hex": "#F99A1D"
+		},
+		"name": {
+			"de": "Dahliengelb",
+			"en": "Dahlia yellow",
+			"es": "Amarillo dalia",
+			"fr": "Jaune dahlia",
+			"it": "Giallo dalia",
+			"nl": "Dahliageel"
+		},
+		"fullname": {
+			"en": "RAL 1033 Dahlia yellow"
+		}
+	},
+	{
+		"code": "RAL 1034",
+		"colour": {
+			"rgb": {
+				"r": 235,
+				"g": 156,
+				"b": 82
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 34,
+				"y": 65,
+				"k": 8
+			},
+			"hex": "#EB9C52"
+		},
+		"name": {
+			"de": "Pastellgelb",
+			"en": "Pastel yellow",
+			"es": "Amarillo pastel",
+			"fr": "Jaune pastel",
+			"it": "Giallo pastello",
+			"nl": "Pastelgeel"
+		},
+		"fullname": {
+			"en": "RAL 1034 Pastel yellow"
+		}
+	},
+	{
+		"code": "RAL 1035",
+		"colour": {
+			"rgb": {
+				"r": 143,
+				"g": 131,
+				"b": 112
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 8,
+				"y": 22,
+				"k": 44
+			},
+			"hex": "#8F8370"
+		},
+		"name": {
+			"de": "Perlbeige",
+			"en": "Pearl beige",
+			"es": "Beige perlado",
+			"fr": "Beige nacr\u00e9",
+			"it": "Beige perlato",
+			"nl": "Parelmoergrijs"
+		},
+		"fullname": {
+			"en": "RAL 1035 Pearl beige"
+		}
+	},
+	{
+		"code": "RAL 1036",
+		"colour": {
+			"rgb": {
+				"r": 128,
+				"g": 100,
+				"b": 64
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 22,
+				"y": 50,
+				"k": 50
+			},
+			"hex": "#806440"
+		},
+		"name": {
+			"de": "Perlgold",
+			"en": "Pearl gold",
+			"es": "Oro perlado",
+			"fr": "Or nacr\u00e9",
+			"it": "Oro perlato",
+			"nl": "Parelmoergoud"
+		},
+		"fullname": {
+			"en": "RAL 1036 Pearl gold"
+		}
+	},
+	{
+		"code": "RAL 1037",
+		"colour": {
+			"rgb": {
+				"r": 240,
+				"g": 146,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 39,
+				"y": 100,
+				"k": 6
+			},
+			"hex": "#F09200"
+		},
+		"name": {
+			"de": "Sonnengelb",
+			"en": "Sun yellow",
+			"es": "Amarillo sol",
+			"fr": "Jaune soleil",
+			"it": "Giallo sole",
+			"nl": "Zonnegeel"
+		},
+		"fullname": {
+			"en": "RAL 1037 Sun yellow"
+		}
+	},
+	{
+		"code": "RAL 2000",
+		"colour": {
+			"rgb": {
+				"r": 218,
+				"g": 110,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 50,
+				"y": 100,
+				"k": 15
+			},
+			"hex": "#DA6E00"
+		},
+		"name": {
+			"de": "Gelborange",
+			"en": "Yellow orange",
+			"es": "Amarillo naranja",
+			"fr": "Orang\u00e9 jaune",
+			"it": "Arancio giallastro",
+			"nl": "Geeloranje"
+		},
+		"fullname": {
+			"en": "RAL 2000 Yellow orange"
+		}
+	},
+	{
+		"code": "RAL 2001",
+		"colour": {
+			"rgb": {
+				"r": 186,
+				"g": 72,
+				"b": 28
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 61,
+				"y": 85,
+				"k": 27
+			},
+			"hex": "#BA481C"
+		},
+		"name": {
+			"de": "Rotorange",
+			"en": "Red orange",
+			"es": "Rojo anaranjado",
+			"fr": "Orang\u00e9 rouge",
+			"it": "Arancio rossastro",
+			"nl": "Roodoranje"
+		},
+		"fullname": {
+			"en": "RAL 2001 Red orange"
+		}
+	},
+	{
+		"code": "RAL 2002",
+		"colour": {
+			"rgb": {
+				"r": 191,
+				"g": 57,
+				"b": 34
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 70,
+				"y": 82,
+				"k": 25
+			},
+			"hex": "#BF3922"
+		},
+		"name": {
+			"de": "Blutorange",
+			"en": "Vermilion",
+			"es": "Naranja sangu\u00edneo",
+			"fr": "Orang\u00e9 sang",
+			"it": "Arancio sanguigno",
+			"nl": "Vermiljoen"
+		},
+		"fullname": {
+			"en": "RAL 2002 Vermilion"
+		}
+	},
+	{
+		"code": "RAL 2003",
+		"colour": {
+			"rgb": {
+				"r": 246,
+				"g": 120,
+				"b": 41
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 51,
+				"y": 83,
+				"k": 4
+			},
+			"hex": "#F67829"
+		},
+		"name": {
+			"de": "Pastellorange",
+			"en": "Pastel orange",
+			"es": "Naranja p\u00e1lido",
+			"fr": "Orang\u00e9 pastel",
+			"it": "Arancio pastello",
+			"nl": "Pasteloranje"
+		},
+		"fullname": {
+			"en": "RAL 2003 Pastel orange"
+		}
+	},
+	{
+		"code": "RAL 2004",
+		"colour": {
+			"rgb": {
+				"r": 226,
+				"g": 83,
+				"b": 4
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 63,
+				"y": 98,
+				"k": 11
+			},
+			"hex": "#E25304"
+		},
+		"name": {
+			"de": "Reinorange",
+			"en": "Pure orange",
+			"es": "Naranja puro",
+			"fr": "Orang\u00e9 pur",
+			"it": "Arancio puro",
+			"nl": "Zuiver oranje"
+		},
+		"fullname": {
+			"en": "RAL 2004 Pure orange"
+		}
+	},
+	{
+		"code": "RAL 2005",
+		"colour": {
+			"rgb": {
+				"r": 255,
+				"g": 77,
+				"b": 8
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 70,
+				"y": 97,
+				"k": 0
+			},
+			"hex": "#FF4D08"
+		},
+		"name": {
+			"de": "Leuchtorange",
+			"en": "Luminous orange",
+			"es": "Naranja brillante",
+			"fr": "Orang\u00e9 brillant",
+			"it": "Arancio brillante",
+			"nl": "Briljantoranje"
+		},
+		"fullname": {
+			"en": "RAL 2005 Luminous orange"
+		}
+	},
+	{
+		"code": "RAL 2007",
+		"colour": {
+			"rgb": {
+				"r": 255,
+				"g": 178,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 30,
+				"y": 100,
+				"k": 0
+			},
+			"hex": "#FFB200"
+		},
+		"name": {
+			"de": "Leuchthellorange",
+			"en": "Luminous bright orange",
+			"es": "Naranja claro brillante",
+			"fr": "Orang\u00e9 clair brillant",
+			"it": "Arancio chiaro brillante",
+			"nl": "Briljant lichtoranje"
+		},
+		"fullname": {
+			"en": "RAL 2007 Luminous bright orange"
+		}
+	},
+	{
+		"code": "RAL 2008",
+		"colour": {
+			"rgb": {
+				"r": 236,
+				"g": 107,
+				"b": 34
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 55,
+				"y": 86,
+				"k": 7
+			},
+			"hex": "#EC6B22"
+		},
+		"name": {
+			"de": "Hellrotorange",
+			"en": "Bright red orange",
+			"es": "Rojo claro anaranjado",
+			"fr": "Orang\u00e9 rouge clair",
+			"it": "Rosso arancio chiaro",
+			"nl": "Licht roodoranje"
+		},
+		"fullname": {
+			"en": "RAL 2008 Bright red orange"
+		}
+	},
+	{
+		"code": "RAL 2009",
+		"colour": {
+			"rgb": {
+				"r": 222,
+				"g": 83,
+				"b": 8
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 63,
+				"y": 96,
+				"k": 13
+			},
+			"hex": "#DE5308"
+		},
+		"name": {
+			"de": "Verkehrsorange",
+			"en": "Traffic orange",
+			"es": "Naranja tr\u00e1fico",
+			"fr": "Orang\u00e9 signalisation",
+			"it": "Arancio traffico",
+			"nl": "Verkeersoranje"
+		},
+		"fullname": {
+			"en": "RAL 2009 Traffic orange"
+		}
+	},
+	{
+		"code": "RAL 2010",
+		"colour": {
+			"rgb": {
+				"r": 208,
+				"g": 93,
+				"b": 41
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 55,
+				"y": 80,
+				"k": 18
+			},
+			"hex": "#D05D29"
+		},
+		"name": {
+			"de": "Signalorange",
+			"en": "Signal orange",
+			"es": "Naranja se\u00f1ales",
+			"fr": "Orang\u00e9 de s\u00e9curit\u00e9",
+			"it": "Arancio segnale",
+			"nl": "Signaaloranje"
+		},
+		"fullname": {
+			"en": "RAL 2010 Signal orange"
+		}
+	},
+	{
+		"code": "RAL 2011",
+		"colour": {
+			"rgb": {
+				"r": 226,
+				"g": 110,
+				"b": 15
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 51,
+				"y": 93,
+				"k": 11
+			},
+			"hex": "#E26E0F"
+		},
+		"name": {
+			"de": "Tieforange",
+			"en": "Deep orange",
+			"es": "Naranja intenso",
+			"fr": "Orang\u00e9 fonc\u00e9",
+			"it": "Arancio profondo",
+			"nl": "Dieporanje"
+		},
+		"fullname": {
+			"en": "RAL 2011 Deep orange"
+		}
+	},
+	{
+		"code": "RAL 2012",
+		"colour": {
+			"rgb": {
+				"r": 213,
+				"g": 101,
+				"b": 78
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 53,
+				"y": 63,
+				"k": 16
+			},
+			"hex": "#D5654E"
+		},
+		"name": {
+			"de": "Lachsorange",
+			"en": "Salmon orange",
+			"es": "Naranja salm\u00f3n",
+			"fr": "Orang\u00e9 saumon",
+			"it": "Arancio salmone",
+			"nl": "Zalmoranje"
+		},
+		"fullname": {
+			"en": "RAL 2012 Salmon orange"
+		}
+	},
+	{
+		"code": "RAL 2013",
+		"colour": {
+			"rgb": {
+				"r": 146,
+				"g": 62,
+				"b": 37
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 58,
+				"y": 75,
+				"k": 43
+			},
+			"hex": "#923E25"
+		},
+		"name": {
+			"de": "Perlorange",
+			"en": "Pearl orange",
+			"es": "Naranja perlado",
+			"fr": "Orang\u00e9 nacr\u00e9",
+			"it": "Arancio perlato",
+			"nl": "Parelmoeroranje"
+		},
+		"fullname": {
+			"en": "RAL 2013 Pearl orange"
+		}
+	},
+	{
+		"code": "RAL 2017",
+		"colour": {
+			"rgb": {
+				"r": 252,
+				"g": 85,
+				"b": 0
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 66,
+				"y": 100,
+				"k": 1
+			},
+			"hex": "#FC5500"
+		},
+		"name": {
+			"de": "RAL orange",
+			"en": "RAL orange",
+			"es": "Naranja RAL",
+			"fr": "Orang\u00e9 RAL",
+			"it": "Arancio RAL",
+			"nl": "RAL oranje"
+		},
+		"fullname": {
+			"en": "RAL 2017 RAL orange"
+		}
+	},
+	{
+		"code": "RAL 3000",
+		"colour": {
+			"rgb": {
+				"r": 167,
+				"g": 41,
+				"b": 32
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 75,
+				"y": 81,
+				"k": 35
+			},
+			"hex": "#A72920"
+		},
+		"name": {
+			"de": "Feuerrot",
+			"en": "Flame red",
+			"es": "Rojo vivo",
+			"fr": "Rouge feu",
+			"it": "Rosso fuoco",
+			"nl": "Vuurrood"
+		},
+		"fullname": {
+			"en": "RAL 3000 Flame red"
+		}
+	},
+	{
+		"code": "RAL 3001",
+		"colour": {
+			"rgb": {
+				"r": 155,
+				"g": 36,
+				"b": 35
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 77,
+				"y": 77,
+				"k": 39
+			},
+			"hex": "#9B2423"
+		},
+		"name": {
+			"de": "Signalrot",
+			"en": "Signal red",
+			"es": "Rojo se\u00f1ales",
+			"fr": "Rouge de s\u00e9curit\u00e9",
+			"it": "Rosso segnale",
+			"nl": "Signaalrood"
+		},
+		"fullname": {
+			"en": "RAL 3001 Signal red"
+		}
+	},
+	{
+		"code": "RAL 3002",
+		"colour": {
+			"rgb": {
+				"r": 155,
+				"g": 35,
+				"b": 33
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 77,
+				"y": 79,
+				"k": 39
+			},
+			"hex": "#9B2321"
+		},
+		"name": {
+			"de": "Karminrot",
+			"en": "Carmine red",
+			"es": "Rojo carmin",
+			"fr": "Rouge carmin",
+			"it": "Rosso carminio",
+			"nl": "Karmijnrood"
+		},
+		"fullname": {
+			"en": "RAL 3002 Carmine red"
+		}
+	},
+	{
+		"code": "RAL 3003",
+		"colour": {
+			"rgb": {
+				"r": 134,
+				"g": 26,
+				"b": 34
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 81,
+				"y": 75,
+				"k": 47
+			},
+			"hex": "#861A22"
+		},
+		"name": {
+			"de": "Rubinrot",
+			"en": "Ruby red",
+			"es": "Rojo rub\u00ed",
+			"fr": "Rouge rubis",
+			"it": "Rosso rubino",
+			"nl": "Robijnrood"
+		},
+		"fullname": {
+			"en": "RAL 3003 Ruby red"
+		}
+	},
+	{
+		"code": "RAL 3004",
+		"colour": {
+			"rgb": {
+				"r": 107,
+				"g": 28,
+				"b": 35
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 74,
+				"y": 67,
+				"k": 58
+			},
+			"hex": "#6B1C23"
+		},
+		"name": {
+			"de": "Purpurrot",
+			"en": "Purple red",
+			"es": "Rojo p\u00farpura",
+			"fr": "Rouge pourpre",
+			"it": "Rosso porpora",
+			"nl": "Purperrood"
+		},
+		"fullname": {
+			"en": "RAL 3004 Purple red"
+		}
+	},
+	{
+		"code": "RAL 3005",
+		"colour": {
+			"rgb": {
+				"r": 89,
+				"g": 25,
+				"b": 31
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 72,
+				"y": 65,
+				"k": 65
+			},
+			"hex": "#59191F"
+		},
+		"name": {
+			"de": "Weinrot",
+			"en": "Wine red",
+			"es": "Rojo vino",
+			"fr": "Rouge vin",
+			"it": "Rosso vino",
+			"nl": "Wijnrood"
+		},
+		"fullname": {
+			"en": "RAL 3005 Wine red"
+		}
+	},
+	{
+		"code": "RAL 3007",
+		"colour": {
+			"rgb": {
+				"r": 62,
+				"g": 32,
+				"b": 34
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 48,
+				"y": 45,
+				"k": 76
+			},
+			"hex": "#3E2022"
+		},
+		"name": {
+			"de": "Schwarzrot",
+			"en": "Black red",
+			"es": "Rojo negruzco",
+			"fr": "Rouge noir",
+			"it": "Rosso nerastro",
+			"nl": "Zwartrood"
+		},
+		"fullname": {
+			"en": "RAL 3007 Black red"
+		}
+	},
+	{
+		"code": "RAL 3009",
+		"colour": {
+			"rgb": {
+				"r": 109,
+				"g": 52,
+				"b": 45
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 52,
+				"y": 59,
+				"k": 57
+			},
+			"hex": "#6D342D"
+		},
+		"name": {
+			"de": "Oxidrot",
+			"en": "Oxide red",
+			"es": "Rojo \u00f3xido",
+			"fr": "Rouge oxyde",
+			"it": "Rosso ossido",
+			"nl": "Oxyderood"
+		},
+		"fullname": {
+			"en": "RAL 3009 Oxide red"
+		}
+	},
+	{
+		"code": "RAL 3011",
+		"colour": {
+			"rgb": {
+				"r": 120,
+				"g": 36,
+				"b": 35
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 70,
+				"y": 71,
+				"k": 53
+			},
+			"hex": "#782423"
+		},
+		"name": {
+			"de": "Braunrot",
+			"en": "Brown red",
+			"es": "Rojo pardo",
+			"fr": "Rouge brun",
+			"it": "Rosso marrone",
+			"nl": "Bruinrood"
+		},
+		"fullname": {
+			"en": "RAL 3011 Brown red"
+		}
+	},
+	{
+		"code": "RAL 3012",
+		"colour": {
+			"rgb": {
+				"r": 197,
+				"g": 133,
+				"b": 109
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 32,
+				"y": 45,
+				"k": 23
+			},
+			"hex": "#C5856D"
+		},
+		"name": {
+			"de": "Beigerot",
+			"en": "Beige red",
+			"es": "Rojo beige",
+			"fr": "Rouge beige",
+			"it": "Rosso beige",
+			"nl": "Beigerood"
+		},
+		"fullname": {
+			"en": "RAL 3012 Beige red"
+		}
+	},
+	{
+		"code": "RAL 3013",
+		"colour": {
+			"rgb": {
+				"r": 151,
+				"g": 46,
+				"b": 37
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 70,
+				"y": 75,
+				"k": 41
+			},
+			"hex": "#972E25"
+		},
+		"name": {
+			"de": "Tomatenrot",
+			"en": "Tomato red",
+			"es": "Rojo tomate",
+			"fr": "Rouge tomate",
+			"it": "Rosso pomodoro",
+			"nl": "Tomaatrood"
+		},
+		"fullname": {
+			"en": "RAL 3013 Tomato red"
+		}
+	},
+	{
+		"code": "RAL 3014",
+		"colour": {
+			"rgb": {
+				"r": 203,
+				"g": 115,
+				"b": 117
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 43,
+				"y": 42,
+				"k": 20
+			},
+			"hex": "#CB7375"
+		},
+		"name": {
+			"de": "Altrosa",
+			"en": "Antique pink",
+			"es": "Rojo viejo",
+			"fr": "Vieux rose",
+			"it": "Rosa antico",
+			"nl": "Oudroze"
+		},
+		"fullname": {
+			"en": "RAL 3014 Antique pink"
+		}
+	},
+	{
+		"code": "RAL 3015",
+		"colour": {
+			"rgb": {
+				"r": 216,
+				"g": 160,
+				"b": 166
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 26,
+				"y": 23,
+				"k": 15
+			},
+			"hex": "#D8A0A6"
+		},
+		"name": {
+			"de": "Hellrosa",
+			"en": "Light pink",
+			"es": "Rosa claro",
+			"fr": "Rose clair",
+			"it": "Rosa chiaro",
+			"nl": "Lichtroze"
+		},
+		"fullname": {
+			"en": "RAL 3015 Light pink"
+		}
+	},
+	{
+		"code": "RAL 3016",
+		"colour": {
+			"rgb": {
+				"r": 166,
+				"g": 61,
+				"b": 48
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 63,
+				"y": 71,
+				"k": 35
+			},
+			"hex": "#A63D30"
+		},
+		"name": {
+			"de": "Korallenrot",
+			"en": "Coral red",
+			"es": "Rojo coral",
+			"fr": "Rouge corail",
+			"it": "Rosso corallo",
+			"nl": "Koraalrood"
+		},
+		"fullname": {
+			"en": "RAL 3016 Coral red"
+		}
+	},
+	{
+		"code": "RAL 3017",
+		"colour": {
+			"rgb": {
+				"r": 202,
+				"g": 85,
+				"b": 93
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 58,
+				"y": 54,
+				"k": 21
+			},
+			"hex": "#CA555D"
+		},
+		"name": {
+			"de": "Ros\u00e9",
+			"en": "Rose",
+			"es": "Rosa",
+			"fr": "Ros\u00e9",
+			"it": "Rosato",
+			"nl": "Bleekrood"
+		},
+		"fullname": {
+			"en": "RAL 3017 Rose"
+		}
+	},
+	{
+		"code": "RAL 3018",
+		"colour": {
+			"rgb": {
+				"r": 198,
+				"g": 63,
+				"b": 74
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 68,
+				"y": 63,
+				"k": 22
+			},
+			"hex": "#C63F4A"
+		},
+		"name": {
+			"de": "Erdbeerrot",
+			"en": "Strawberry red",
+			"es": "Rojo fresa",
+			"fr": "Rouge fraise",
+			"it": "Rosso fragola",
+			"nl": "Aardbeirood"
+		},
+		"fullname": {
+			"en": "RAL 3018 Strawberry red"
+		}
+	},
+	{
+		"code": "RAL 3020",
+		"colour": {
+			"rgb": {
+				"r": 187,
+				"g": 31,
+				"b": 17
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 83,
+				"y": 91,
+				"k": 27
+			},
+			"hex": "#BB1F11"
+		},
+		"name": {
+			"de": "Verkehrsrot",
+			"en": "Traffic red",
+			"es": "Rojo tr\u00e1fico",
+			"fr": "Rouge signalisation",
+			"it": "Rosso traffico",
+			"nl": "Verkeersrood"
+		},
+		"fullname": {
+			"en": "RAL 3020 Traffic red"
+		}
+	},
+	{
+		"code": "RAL 3022",
+		"colour": {
+			"rgb": {
+				"r": 207,
+				"g": 105,
+				"b": 85
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 49,
+				"y": 59,
+				"k": 19
+			},
+			"hex": "#CF6955"
+		},
+		"name": {
+			"de": "Lachsrot",
+			"en": "Salmon pink",
+			"es": "Rojo salm\u00f3n",
+			"fr": "Rouge saumon",
+			"it": "Rosso salmone",
+			"nl": "Zalmrood"
+		},
+		"fullname": {
+			"en": "RAL 3022 Salmon pink"
+		}
+	},
+	{
+		"code": "RAL 3024",
+		"colour": {
+			"rgb": {
+				"r": 255,
+				"g": 45,
+				"b": 33
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 82,
+				"y": 87,
+				"k": 0
+			},
+			"hex": "#FF2D21"
+		},
+		"name": {
+			"de": "Leuchtrot",
+			"en": "Luminous red",
+			"es": "Rojo brillante",
+			"fr": "Rouge brillant",
+			"it": "Rosso brillante",
+			"nl": "Briljantrood"
+		},
+		"fullname": {
+			"en": "RAL 3024 Luminous red"
+		}
+	},
+	{
+		"code": "RAL 3026",
+		"colour": {
+			"rgb": {
+				"r": 255,
+				"g": 42,
+				"b": 28
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 84,
+				"y": 89,
+				"k": 0
+			},
+			"hex": "#FF2A1C"
+		},
+		"name": {
+			"de": "Leuchthellrot",
+			"en": "Luminous bright red",
+			"es": "Rojo claro brillante",
+			"fr": "Rouge clair brillant",
+			"it": "Rosso chiaro brillante",
+			"nl": "Briljant lichtrood"
+		},
+		"fullname": {
+			"en": "RAL 3026 Luminous bright red"
+		}
+	},
+	{
+		"code": "RAL 3027",
+		"colour": {
+			"rgb": {
+				"r": 171,
+				"g": 39,
+				"b": 60
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 77,
+				"y": 65,
+				"k": 33
+			},
+			"hex": "#AB273C"
+		},
+		"name": {
+			"de": "Himbeerrot",
+			"en": "Raspberry red",
+			"es": "Rojo frambuesa",
+			"fr": "Rouge framboise",
+			"it": "Rosso lampone",
+			"nl": "Framboosrood"
+		},
+		"fullname": {
+			"en": "RAL 3027 Raspberry red"
+		}
+	},
+	{
+		"code": "RAL 3028",
+		"colour": {
+			"rgb": {
+				"r": 204,
+				"g": 44,
+				"b": 36
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 78,
+				"y": 82,
+				"k": 20
+			},
+			"hex": "#CC2C24"
+		},
+		"name": {
+			"de": "Reinrot",
+			"en": "Pure red",
+			"es": "Rojo puro",
+			"fr": "Rouge pu",
+			"it": "Rosso puro",
+			"nl": "Zuiver rood"
+		},
+		"fullname": {
+			"en": "RAL 3028 Pure red"
+		}
+	},
+	{
+		"code": "RAL 3031",
+		"colour": {
+			"rgb": {
+				"r": 166,
+				"g": 52,
+				"b": 55
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 69,
+				"y": 67,
+				"k": 35
+			},
+			"hex": "#A63437"
+		},
+		"name": {
+			"de": "Orientrot",
+			"en": "Orient red",
+			"es": "Rojo oriente",
+			"fr": "Rouge oriental",
+			"it": "Rosso oriente",
+			"nl": "Ori\u00ebntrood"
+		},
+		"fullname": {
+			"en": "RAL 3031 Orient red"
+		}
+	},
+	{
+		"code": "RAL 3032",
+		"colour": {
+			"rgb": {
+				"r": 112,
+				"g": 29,
+				"b": 36
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 74,
+				"y": 68,
+				"k": 56
+			},
+			"hex": "#701D24"
+		},
+		"name": {
+			"de": "Perlrubinrot",
+			"en": "Pearl ruby red",
+			"es": "Rojo rub\u00ed perlado",
+			"fr": "Rouge rubis nacr\u00e9",
+			"it": "Rosso rubino perlato",
+			"nl": "Parelmoerdonkerrood"
+		},
+		"fullname": {
+			"en": "RAL 3032 Pearl ruby red"
+		}
+	},
+	{
+		"code": "RAL 3033",
+		"colour": {
+			"rgb": {
+				"r": 165,
+				"g": 58,
+				"b": 46
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 65,
+				"y": 72,
+				"k": 35
+			},
+			"hex": "#A53A2E"
+		},
+		"name": {
+			"de": "Perlrosa",
+			"en": "Pearl pink",
+			"es": "Rosa perlado",
+			"fr": "Rose nacr\u00e9",
+			"it": "Rosa perlato",
+			"nl": "Parelmoerlichtrood"
+		},
+		"fullname": {
+			"en": "RAL 3033 Pearl pink"
+		}
+	},
+	{
+		"code": "RAL 4001",
+		"colour": {
+			"rgb": {
+				"r": 129,
+				"g": 97,
+				"b": 131
+			},
+			"cmyk": {
+				"c": 2,
+				"m": 26,
+				"y": 0,
+				"k": 49
+			},
+			"hex": "#816183"
+		},
+		"name": {
+			"de": "Rotlila",
+			"en": "Red lilac",
+			"es": "Rojo lila",
+			"fr": "Lilas rouge",
+			"it": "Lilla rossastro",
+			"nl": "Roodlila"
+		},
+		"fullname": {
+			"en": "RAL 4001 Red lilac"
+		}
+	},
+	{
+		"code": "RAL 4002",
+		"colour": {
+			"rgb": {
+				"r": 141,
+				"g": 60,
+				"b": 75
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 57,
+				"y": 47,
+				"k": 45
+			},
+			"hex": "#8D3C4B"
+		},
+		"name": {
+			"de": "Rotviolett",
+			"en": "Red violet",
+			"es": "Rojo violeta",
+			"fr": "Violet rouge",
+			"it": "Viola rossastro",
+			"nl": "Roodpaars"
+		},
+		"fullname": {
+			"en": "RAL 4002 Red violet"
+		}
+	},
+	{
+		"code": "RAL 4003",
+		"colour": {
+			"rgb": {
+				"r": 196,
+				"g": 97,
+				"b": 140
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 51,
+				"y": 29,
+				"k": 23
+			},
+			"hex": "#C4618C"
+		},
+		"name": {
+			"de": "Erikaviolett",
+			"en": "Heather violet",
+			"es": "Violeta \u00e9rica",
+			"fr": "Violet bruy\u00e8re",
+			"it": "Viola erica",
+			"nl": "Heidepaars"
+		},
+		"fullname": {
+			"en": "RAL 4003 Heather violet"
+		}
+	},
+	{
+		"code": "RAL 4004",
+		"colour": {
+			"rgb": {
+				"r": 101,
+				"g": 30,
+				"b": 56
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 70,
+				"y": 45,
+				"k": 60
+			},
+			"hex": "#651E38"
+		},
+		"name": {
+			"de": "Bordeauxviolett",
+			"en": "Claret violet",
+			"es": "Burdeos",
+			"fr": "Violet bordeaux",
+			"it": "Viola bordeaux",
+			"nl": "Bordeauxpaars"
+		},
+		"fullname": {
+			"en": "RAL 4004 Claret violet"
+		}
+	},
+	{
+		"code": "RAL 4005",
+		"colour": {
+			"rgb": {
+				"r": 118,
+				"g": 104,
+				"b": 154
+			},
+			"cmyk": {
+				"c": 23,
+				"m": 32,
+				"y": 0,
+				"k": 40
+			},
+			"hex": "#76689A"
+		},
+		"name": {
+			"de": "Blaulila",
+			"en": "Blue lilac",
+			"es": "Lila azulado",
+			"fr": "Lilas bleu",
+			"it": "Lilla bluastro",
+			"nl": "Blauwlila"
+		},
+		"fullname": {
+			"en": "RAL 4005 Blue lilac"
+		}
+	},
+	{
+		"code": "RAL 4006",
+		"colour": {
+			"rgb": {
+				"r": 144,
+				"g": 51,
+				"b": 115
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 65,
+				"y": 20,
+				"k": 44
+			},
+			"hex": "#903373"
+		},
+		"name": {
+			"de": "Verkehrspurpur",
+			"en": "Traffic purple",
+			"es": "P\u00farpur\u00e1 tr\u00e1fico",
+			"fr": "Pourpre signalisation",
+			"it": "Porpora traffico",
+			"nl": "Verkeerspurper"
+		},
+		"fullname": {
+			"en": "RAL 4006 Traffic purple"
+		}
+	},
+	{
+		"code": "RAL 4007",
+		"colour": {
+			"rgb": {
+				"r": 71,
+				"g": 36,
+				"b": 60
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 49,
+				"y": 15,
+				"k": 72
+			},
+			"hex": "#47243C"
+		},
+		"name": {
+			"de": "Purpurviolett",
+			"en": "Purple violet",
+			"es": "Violeta p\u00farpura",
+			"fr": "Violet pourpre",
+			"it": "Porpora violetto",
+			"nl": "Purperviolet"
+		},
+		"fullname": {
+			"en": "RAL 4007 Purple violet"
+		}
+	},
+	{
+		"code": "RAL 4008",
+		"colour": {
+			"rgb": {
+				"r": 132,
+				"g": 76,
+				"b": 130
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 42,
+				"y": 2,
+				"k": 48
+			},
+			"hex": "#844C82"
+		},
+		"name": {
+			"de": "Signalviolett",
+			"en": "Signal violet",
+			"es": "Violeta se\u00f1ales",
+			"fr": "Violet de s\u00e9curit\u00e9",
+			"it": "Violetto segnale",
+			"nl": "Signaalviolet"
+		},
+		"fullname": {
+			"en": "RAL 4008 Signal violet"
+		}
+	},
+	{
+		"code": "RAL 4009",
+		"colour": {
+			"rgb": {
+				"r": 157,
+				"g": 134,
+				"b": 146
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 15,
+				"y": 7,
+				"k": 38
+			},
+			"hex": "#9D8692"
+		},
+		"name": {
+			"de": "Pastellviolett",
+			"en": "Pastel violet",
+			"es": "Violeta pastel",
+			"fr": "Violet pastel",
+			"it": "Violetto pastello",
+			"nl": "Pastelviolet"
+		},
+		"fullname": {
+			"en": "RAL 4009 Pastel violet"
+		}
+	},
+	{
+		"code": "RAL 4010",
+		"colour": {
+			"rgb": {
+				"r": 187,
+				"g": 64,
+				"b": 119
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 66,
+				"y": 36,
+				"k": 27
+			},
+			"hex": "#BB4077"
+		},
+		"name": {
+			"de": "Telemagenta",
+			"en": "Telemagenta",
+			"es": "Magenta tele",
+			"fr": "Telemagenta",
+			"it": "Tele Magenta",
+			"nl": "Telemagenta"
+		},
+		"fullname": {
+			"en": "RAL 4010 Telemagenta"
+		}
+	},
+	{
+		"code": "RAL 4011",
+		"colour": {
+			"rgb": {
+				"r": 110,
+				"g": 99,
+				"b": 135
+			},
+			"cmyk": {
+				"c": 19,
+				"m": 27,
+				"y": 0,
+				"k": 47
+			},
+			"hex": "#6E6387"
+		},
+		"name": {
+			"de": "Perlviolett",
+			"en": "Pearl violet",
+			"es": "Violeta perlado",
+			"fr": "Violet nacr\u00e9",
+			"it": "Violetto perlato",
+			"nl": "Parelmoerdonkerviolet"
+		},
+		"fullname": {
+			"en": "RAL 4011 Pearl violet"
+		}
+	},
+	{
+		"code": "RAL 4012",
+		"colour": {
+			"rgb": {
+				"r": 106,
+				"g": 107,
+				"b": 127
+			},
+			"cmyk": {
+				"c": 17,
+				"m": 16,
+				"y": 0,
+				"k": 50
+			},
+			"hex": "#6A6B7F"
+		},
+		"name": {
+			"de": "Perlbrombeer",
+			"en": "Pearl blackberry",
+			"es": "Morado perlado",
+			"fr": "M\u00fbre nacr\u00e9",
+			"it": "Mora perlato",
+			"nl": "Parelmoerlichtviolet"
+		},
+		"fullname": {
+			"en": "RAL 4012 Pearl blackberry"
+		}
+	},
+	{
+		"code": "RAL 5000",
+		"colour": {
+			"rgb": {
+				"r": 48,
+				"g": 79,
+				"b": 110
+			},
+			"cmyk": {
+				"c": 56,
+				"m": 28,
+				"y": 0,
+				"k": 57
+			},
+			"hex": "#304F6E"
+		},
+		"name": {
+			"de": "Violettblau",
+			"en": "Violet blue",
+			"es": "Azul violeta",
+			"fr": "Bleu violet",
+			"it": "Blu violaceo",
+			"nl": "Paarsblauw"
+		},
+		"fullname": {
+			"en": "RAL 5000 Violet blue"
+		}
+	},
+	{
+		"code": "RAL 5001",
+		"colour": {
+			"rgb": {
+				"r": 14,
+				"g": 76,
+				"b": 100
+			},
+			"cmyk": {
+				"c": 86,
+				"m": 24,
+				"y": 0,
+				"k": 61
+			},
+			"hex": "#0E4C64"
+		},
+		"name": {
+			"de": "Gr\u00fcnblau",
+			"en": "Green blue",
+			"es": "Azul verdoso",
+			"fr": "Bleu vert",
+			"it": "Blu verdastro",
+			"nl": "Groenblauw"
+		},
+		"fullname": {
+			"en": "RAL 5001 Green blue"
+		}
+	},
+	{
+		"code": "RAL 5002",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 56,
+				"b": 122
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 54,
+				"y": 0,
+				"k": 52
+			},
+			"hex": "#00387A"
+		},
+		"name": {
+			"de": "Ultramarinblau",
+			"en": "Ultramarine blue",
+			"es": "Azul ultramar",
+			"fr": "Bleu outremer",
+			"it": "Blu oltremare",
+			"nl": "Ultramarijnblauw"
+		},
+		"fullname": {
+			"en": "RAL 5002 Ultramarine blue"
+		}
+	},
+	{
+		"code": "RAL 5003",
+		"colour": {
+			"rgb": {
+				"r": 31,
+				"g": 56,
+				"b": 85
+			},
+			"cmyk": {
+				"c": 64,
+				"m": 34,
+				"y": 0,
+				"k": 67
+			},
+			"hex": "#1F3855"
+		},
+		"name": {
+			"de": "Saphirblau",
+			"en": "Sapphire blue",
+			"es": "Azul zafiro",
+			"fr": "Bleu saphir",
+			"it": "Blu zaffiro",
+			"nl": "Saffierblauw"
+		},
+		"fullname": {
+			"en": "RAL 5003 Sapphire blue"
+		}
+	},
+	{
+		"code": "RAL 5004",
+		"colour": {
+			"rgb": {
+				"r": 25,
+				"g": 30,
+				"b": 40
+			},
+			"cmyk": {
+				"c": 38,
+				"m": 25,
+				"y": 0,
+				"k": 84
+			},
+			"hex": "#191E28"
+		},
+		"name": {
+			"de": "Schwarzblau",
+			"en": "Black blue",
+			"es": "Azul negruzco",
+			"fr": "Bleu noir",
+			"it": "Blu nerastro",
+			"nl": "Zwartblauw"
+		},
+		"fullname": {
+			"en": "RAL 5004 Black blue"
+		}
+	},
+	{
+		"code": "RAL 5005",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 83,
+				"b": 135
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 39,
+				"y": 0,
+				"k": 47
+			},
+			"hex": "#005387"
+		},
+		"name": {
+			"de": "Signalblau",
+			"en": "Signal blue",
+			"es": "Azul se\u00f1ales",
+			"fr": "Bleu de s\u00e9curit\u00e9",
+			"it": "Blu segnale",
+			"nl": "Signaalblauw"
+		},
+		"fullname": {
+			"en": "RAL 5005 Signal blue"
+		}
+	},
+	{
+		"code": "RAL 5007",
+		"colour": {
+			"rgb": {
+				"r": 55,
+				"g": 107,
+				"b": 140
+			},
+			"cmyk": {
+				"c": 61,
+				"m": 24,
+				"y": 0,
+				"k": 45
+			},
+			"hex": "#376B8C"
+		},
+		"name": {
+			"de": "Brillantblau",
+			"en": "Brillant blue",
+			"es": "Azul brillante",
+			"fr": "Bleu brillant",
+			"it": "Blu brillante",
+			"nl": "Briljantblauw"
+		},
+		"fullname": {
+			"en": "RAL 5007 Brillant blue"
+		}
+	},
+	{
+		"code": "RAL 5008",
+		"colour": {
+			"rgb": {
+				"r": 43,
+				"g": 58,
+				"b": 68
+			},
+			"cmyk": {
+				"c": 37,
+				"m": 15,
+				"y": 0,
+				"k": 73
+			},
+			"hex": "#2B3A44"
+		},
+		"name": {
+			"de": "Graublau",
+			"en": "Grey blue",
+			"es": "Azul gris\u00e1ceo",
+			"fr": "Bleu gris",
+			"it": "Blu grigiastro",
+			"nl": "Grijsblauw"
+		},
+		"fullname": {
+			"en": "RAL 5008 Grey blue"
+		}
+	},
+	{
+		"code": "RAL 5009",
+		"colour": {
+			"rgb": {
+				"r": 33,
+				"g": 95,
+				"b": 120
+			},
+			"cmyk": {
+				"c": 73,
+				"m": 21,
+				"y": 0,
+				"k": 53
+			},
+			"hex": "#215F78"
+		},
+		"name": {
+			"de": "Azurblau",
+			"en": "Azure blue",
+			"es": "Azul azur",
+			"fr": "Bleu azur",
+			"it": "Blu azzurro",
+			"nl": "Azuurblauw"
+		},
+		"fullname": {
+			"en": "RAL 5009 Azure blue"
+		}
+	},
+	{
+		"code": "RAL 5010",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 79,
+				"b": 124
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 36,
+				"y": 0,
+				"k": 51
+			},
+			"hex": "#004F7C"
+		},
+		"name": {
+			"de": "Enzianblau",
+			"en": "Gentian blue",
+			"es": "Azul genciana",
+			"fr": "Bleu gentiane",
+			"it": "Blu genziana",
+			"nl": "Gentiaanblauw"
+		},
+		"fullname": {
+			"en": "RAL 5010 Gentian blue"
+		}
+	},
+	{
+		"code": "RAL 5011",
+		"colour": {
+			"rgb": {
+				"r": 26,
+				"g": 43,
+				"b": 60
+			},
+			"cmyk": {
+				"c": 57,
+				"m": 28,
+				"y": 0,
+				"k": 76
+			},
+			"hex": "#1A2B3C"
+		},
+		"name": {
+			"de": "Stahlblau",
+			"en": "Steel blue",
+			"es": "Azul acero",
+			"fr": "Bleu acier",
+			"it": "Blu acciaio",
+			"nl": "Staalblauw"
+		},
+		"fullname": {
+			"en": "RAL 5011 Steel blue"
+		}
+	},
+	{
+		"code": "RAL 5012",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 137,
+				"b": 182
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 25,
+				"y": 0,
+				"k": 29
+			},
+			"hex": "#0089B6"
+		},
+		"name": {
+			"de": "Lichtblau",
+			"en": "Light blue",
+			"es": "Azul luminoso",
+			"fr": "Bleu clair",
+			"it": "Blu luce",
+			"nl": "Lichtblauw"
+		},
+		"fullname": {
+			"en": "RAL 5012 Light blue"
+		}
+	},
+	{
+		"code": "RAL 5013",
+		"colour": {
+			"rgb": {
+				"r": 25,
+				"g": 49,
+				"b": 83
+			},
+			"cmyk": {
+				"c": 70,
+				"m": 41,
+				"y": 0,
+				"k": 67
+			},
+			"hex": "#193153"
+		},
+		"name": {
+			"de": "Kobaltblau",
+			"en": "Cobalt blue",
+			"es": "Azul cobalto",
+			"fr": "Bleu cobalt",
+			"it": "Blu cobalto",
+			"nl": "Kobaltblauw"
+		},
+		"fullname": {
+			"en": "RAL 5013 Cobalt blue"
+		}
+	},
+	{
+		"code": "RAL 5014",
+		"colour": {
+			"rgb": {
+				"r": 99,
+				"g": 125,
+				"b": 150
+			},
+			"cmyk": {
+				"c": 34,
+				"m": 17,
+				"y": 0,
+				"k": 41
+			},
+			"hex": "#637D96"
+		},
+		"name": {
+			"de": "Taubenblau",
+			"en": "Pigeon blue",
+			"es": "Azul colombino",
+			"fr": "Bleu pigeon",
+			"it": "Blu colomba",
+			"nl": "Duifblauw"
+		},
+		"fullname": {
+			"en": "RAL 5014 Pigeon blue"
+		}
+	},
+	{
+		"code": "RAL 5015",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 124,
+				"b": 175
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 29,
+				"y": 0,
+				"k": 31
+			},
+			"hex": "#007CAF"
+		},
+		"name": {
+			"de": "Himmelblau",
+			"en": "Sky blue",
+			"es": "Azul celeste",
+			"fr": "Bleu ciel",
+			"it": "Blu cielo",
+			"nl": "Hemelsblauw"
+		},
+		"fullname": {
+			"en": "RAL 5015 Sky blue"
+		}
+	},
+	{
+		"code": "RAL 5017",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 91,
+				"b": 140
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 35,
+				"y": 0,
+				"k": 45
+			},
+			"hex": "#005B8C"
+		},
+		"name": {
+			"de": "Verkehrsblau",
+			"en": "Traffic blue",
+			"es": "Azul tr\u00e1fico",
+			"fr": "Bleu signalisation",
+			"it": "Blu traffico",
+			"nl": "Verkeersblauw"
+		},
+		"fullname": {
+			"en": "RAL 5017 Traffic blue"
+		}
+	},
+	{
+		"code": "RAL 5018",
+		"colour": {
+			"rgb": {
+				"r": 4,
+				"g": 139,
+				"b": 140
+			},
+			"cmyk": {
+				"c": 97,
+				"m": 1,
+				"y": 0,
+				"k": 45
+			},
+			"hex": "#048B8C"
+		},
+		"name": {
+			"de": "T\u00fcrkisblau",
+			"en": "Turquoise blue",
+			"es": "Azul turquesa",
+			"fr": "Bleu turquoise",
+			"it": "Blu turchese",
+			"nl": "Turkooisblauw"
+		},
+		"fullname": {
+			"en": "RAL 5018 Turquoise blue"
+		}
+	},
+	{
+		"code": "RAL 5019",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 94,
+				"b": 131
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 28,
+				"y": 0,
+				"k": 49
+			},
+			"hex": "#005E83"
+		},
+		"name": {
+			"de": "Capriblau",
+			"en": "Capri blue",
+			"es": "Azul capri",
+			"fr": "Bleu capri",
+			"it": "Blu capri",
+			"nl": "Capriblauw"
+		},
+		"fullname": {
+			"en": "RAL 5019 Capri blue"
+		}
+	},
+	{
+		"code": "RAL 5020",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 65,
+				"b": 75
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 13,
+				"y": 0,
+				"k": 71
+			},
+			"hex": "#00414B"
+		},
+		"name": {
+			"de": "Ozeanblau",
+			"en": "Ocean blue",
+			"es": "Azul oc\u00e9ano",
+			"fr": "Bleu oc\u00e9an",
+			"it": "Blu oceano",
+			"nl": "Oceaanblauw"
+		},
+		"fullname": {
+			"en": "RAL 5020 Ocean blue"
+		}
+	},
+	{
+		"code": "RAL 5021",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 117,
+				"b": 119
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 2,
+				"y": 0,
+				"k": 53
+			},
+			"hex": "#007577"
+		},
+		"name": {
+			"de": "Wasserblau",
+			"en": "Water blue",
+			"es": "Azul agua",
+			"fr": "Bleu d\u2019eau",
+			"it": "Blu acqua",
+			"nl": "Waterblauw"
+		},
+		"fullname": {
+			"en": "RAL 5021 Water blue"
+		}
+	},
+	{
+		"code": "RAL 5022",
+		"colour": {
+			"rgb": {
+				"r": 34,
+				"g": 45,
+				"b": 90
+			},
+			"cmyk": {
+				"c": 62,
+				"m": 50,
+				"y": 0,
+				"k": 65
+			},
+			"hex": "#222D5A"
+		},
+		"name": {
+			"de": "Nachtblau",
+			"en": "Night blue",
+			"es": "Azul noche",
+			"fr": "Bleu nocturne",
+			"it": "Blu notte",
+			"nl": "Nachtblauw"
+		},
+		"fullname": {
+			"en": "RAL 5022 Night blue"
+		}
+	},
+	{
+		"code": "RAL 5023",
+		"colour": {
+			"rgb": {
+				"r": 65,
+				"g": 105,
+				"b": 140
+			},
+			"cmyk": {
+				"c": 54,
+				"m": 25,
+				"y": 0,
+				"k": 45
+			},
+			"hex": "#41698C"
+		},
+		"name": {
+			"de": "Fernblau",
+			"en": "Distant blue",
+			"es": "Azul lejan\u00eda",
+			"fr": "Bleu distant",
+			"it": "Blu distante",
+			"nl": "Verblauw"
+		},
+		"fullname": {
+			"en": "RAL 5023 Distant blue"
+		}
+	},
+	{
+		"code": "RAL 5024",
+		"colour": {
+			"rgb": {
+				"r": 96,
+				"g": 147,
+				"b": 172
+			},
+			"cmyk": {
+				"c": 44,
+				"m": 15,
+				"y": 0,
+				"k": 33
+			},
+			"hex": "#6093AC"
+		},
+		"name": {
+			"de": "Pastellblau",
+			"en": "Pastel blue",
+			"es": "Azul pastel",
+			"fr": "Bleu pastel",
+			"it": "Blu pastello",
+			"nl": "Pastelblauw"
+		},
+		"fullname": {
+			"en": "RAL 5024 Pastel blue"
+		}
+	},
+	{
+		"code": "RAL 5025",
+		"colour": {
+			"rgb": {
+				"r": 32,
+				"g": 105,
+				"b": 124
+			},
+			"cmyk": {
+				"c": 74,
+				"m": 15,
+				"y": 0,
+				"k": 51
+			},
+			"hex": "#20697C"
+		},
+		"name": {
+			"de": "Perlenzian",
+			"en": "Pearl gentian blue",
+			"es": "Gencian perlado",
+			"fr": "Gentiane nacr\u00e9",
+			"it": "Blu genziana perlato",
+			"nl": "Parelmoerblauw"
+		},
+		"fullname": {
+			"en": "RAL 5025 Pearl gentian blue"
+		}
+	},
+	{
+		"code": "RAL 5026",
+		"colour": {
+			"rgb": {
+				"r": 15,
+				"g": 48,
+				"b": 82
+			},
+			"cmyk": {
+				"c": 82,
+				"m": 41,
+				"y": 0,
+				"k": 68
+			},
+			"hex": "#0F3052"
+		},
+		"name": {
+			"de": "Perlnachtblau",
+			"en": "Pearl night blue",
+			"es": "Azul noche perlado",
+			"fr": "Bleu nuit nacr\u00e9",
+			"it": "Blu notte perlato",
+			"nl": "Parelmoernachtblauw"
+		},
+		"fullname": {
+			"en": "RAL 5026 Pearl night blue"
+		}
+	},
+	{
+		"code": "RAL 6000",
+		"colour": {
+			"rgb": {
+				"r": 60,
+				"g": 116,
+				"b": 96
+			},
+			"cmyk": {
+				"c": 48,
+				"m": 0,
+				"y": 17,
+				"k": 55
+			},
+			"hex": "#3C7460"
+		},
+		"name": {
+			"de": "Patinagr\u00fcn",
+			"en": "Patina green",
+			"es": "Verde patina",
+			"fr": "Vert patine",
+			"it": "Verde patina",
+			"nl": "Patinagroen"
+		},
+		"fullname": {
+			"en": "RAL 6000 Patina green"
+		}
+	},
+	{
+		"code": "RAL 6001",
+		"colour": {
+			"rgb": {
+				"r": 54,
+				"g": 103,
+				"b": 53
+			},
+			"cmyk": {
+				"c": 48,
+				"m": 0,
+				"y": 49,
+				"k": 60
+			},
+			"hex": "#366735"
+		},
+		"name": {
+			"de": "Smaragdgr\u00fcn",
+			"en": "Emerald green",
+			"es": "Verde esmeralda",
+			"fr": "Vert \u00e9meraude",
+			"it": "Verde smeraldo",
+			"nl": "Smaragdgroen"
+		},
+		"fullname": {
+			"en": "RAL 6001 Emerald green"
+		}
+	},
+	{
+		"code": "RAL 6002",
+		"colour": {
+			"rgb": {
+				"r": 50,
+				"g": 89,
+				"b": 40
+			},
+			"cmyk": {
+				"c": 44,
+				"m": 0,
+				"y": 55,
+				"k": 65
+			},
+			"hex": "#325928"
+		},
+		"name": {
+			"de": "Laubgr\u00fcn",
+			"en": "Leaf green",
+			"es": "Verde hoja",
+			"fr": "Vert feuillage",
+			"it": "Verde foglia",
+			"nl": "Loofgroen"
+		},
+		"fullname": {
+			"en": "RAL 6002 Leaf green"
+		}
+	},
+	{
+		"code": "RAL 6003",
+		"colour": {
+			"rgb": {
+				"r": 80,
+				"g": 83,
+				"b": 60
+			},
+			"cmyk": {
+				"c": 4,
+				"m": 0,
+				"y": 28,
+				"k": 67
+			},
+			"hex": "#50533C"
+		},
+		"name": {
+			"de": "Olivgr\u00fcn",
+			"en": "Olive green",
+			"es": "Verde oliva",
+			"fr": "Vert olive",
+			"it": "Verde oliva",
+			"nl": "Olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6003 Olive green"
+		}
+	},
+	{
+		"code": "RAL 6004",
+		"colour": {
+			"rgb": {
+				"r": 2,
+				"g": 68,
+				"b": 66
+			},
+			"cmyk": {
+				"c": 97,
+				"m": 0,
+				"y": 3,
+				"k": 73
+			},
+			"hex": "#024442"
+		},
+		"name": {
+			"de": "Blaugr\u00fcn",
+			"en": "Blue green",
+			"es": "Verde azulado",
+			"fr": "Vert bleu",
+			"it": "Verde bluastro",
+			"nl": "Blauwgroen"
+		},
+		"fullname": {
+			"en": "RAL 6004 Blue green"
+		}
+	},
+	{
+		"code": "RAL 6005",
+		"colour": {
+			"rgb": {
+				"r": 17,
+				"g": 66,
+				"b": 50
+			},
+			"cmyk": {
+				"c": 74,
+				"m": 0,
+				"y": 24,
+				"k": 74
+			},
+			"hex": "#114232"
+		},
+		"name": {
+			"de": "Moosgr\u00fcn",
+			"en": "Moss green",
+			"es": "Verde musgo",
+			"fr": "Vert mousse",
+			"it": "Verde muschio",
+			"nl": "Mosgroen"
+		},
+		"fullname": {
+			"en": "RAL 6005 Moss green"
+		}
+	},
+	{
+		"code": "RAL 6006",
+		"colour": {
+			"rgb": {
+				"r": 60,
+				"g": 57,
+				"b": 46
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 5,
+				"y": 23,
+				"k": 76
+			},
+			"hex": "#3C392E"
+		},
+		"name": {
+			"de": "Grauoliv",
+			"en": "Grey olive",
+			"es": "Oliva gris\u00e1ceo",
+			"fr": "Olive gris",
+			"it": "Oliva grigiastro",
+			"nl": "Grijs olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6006 Grey olive"
+		}
+	},
+	{
+		"code": "RAL 6007",
+		"colour": {
+			"rgb": {
+				"r": 44,
+				"g": 50,
+				"b": 34
+			},
+			"cmyk": {
+				"c": 12,
+				"m": 0,
+				"y": 32,
+				"k": 80
+			},
+			"hex": "#2C3222"
+		},
+		"name": {
+			"de": "Flaschengr\u00fcn",
+			"en": "Bottle green",
+			"es": "Verde botella",
+			"fr": "Vert bouteille",
+			"it": "Verde bottiglia",
+			"nl": "Flessengroen"
+		},
+		"fullname": {
+			"en": "RAL 6007 Bottle green"
+		}
+	},
+	{
+		"code": "RAL 6008",
+		"colour": {
+			"rgb": {
+				"r": 54,
+				"g": 52,
+				"b": 42
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 4,
+				"y": 22,
+				"k": 79
+			},
+			"hex": "#36342A"
+		},
+		"name": {
+			"de": "Braungr\u00fcn",
+			"en": "Brown green",
+			"es": "Verde parduzco",
+			"fr": "Vert brun",
+			"it": "Verde brunastro",
+			"nl": "Bruingroen"
+		},
+		"fullname": {
+			"en": "RAL 6008 Brown green"
+		}
+	},
+	{
+		"code": "RAL 6009",
+		"colour": {
+			"rgb": {
+				"r": 39,
+				"g": 53,
+				"b": 42
+			},
+			"cmyk": {
+				"c": 26,
+				"m": 0,
+				"y": 21,
+				"k": 79
+			},
+			"hex": "#27352A"
+		},
+		"name": {
+			"de": "Tannengr\u00fcn",
+			"en": "Fir green",
+			"es": "Verde abeto",
+			"fr": "Vert sapin",
+			"it": "Verde abete",
+			"nl": "Dennengroen"
+		},
+		"fullname": {
+			"en": "RAL 6009 Fir green"
+		}
+	},
+	{
+		"code": "RAL 6010",
+		"colour": {
+			"rgb": {
+				"r": 77,
+				"g": 111,
+				"b": 57
+			},
+			"cmyk": {
+				"c": 31,
+				"m": 0,
+				"y": 49,
+				"k": 56
+			},
+			"hex": "#4D6F39"
+		},
+		"name": {
+			"de": "Grasgr\u00fcn",
+			"en": "Grass green",
+			"es": "Verde hierba",
+			"fr": "Vert herbe",
+			"it": "Verde erba",
+			"nl": "Grasgroen"
+		},
+		"fullname": {
+			"en": "RAL 6010 Grass green"
+		}
+	},
+	{
+		"code": "RAL 6011",
+		"colour": {
+			"rgb": {
+				"r": 107,
+				"g": 124,
+				"b": 89
+			},
+			"cmyk": {
+				"c": 14,
+				"m": 0,
+				"y": 28,
+				"k": 51
+			},
+			"hex": "#6B7C59"
+		},
+		"name": {
+			"de": "Resedagr\u00fcn",
+			"en": "Reseda green",
+			"es": "Verde reseda",
+			"fr": "Vert r\u00e9s\u00e9da",
+			"it": "Verde reseda",
+			"nl": "Resedagroen"
+		},
+		"fullname": {
+			"en": "RAL 6011 Reseda green"
+		}
+	},
+	{
+		"code": "RAL 6012",
+		"colour": {
+			"rgb": {
+				"r": 47,
+				"g": 61,
+				"b": 58
+			},
+			"cmyk": {
+				"c": 23,
+				"m": 0,
+				"y": 5,
+				"k": 76
+			},
+			"hex": "#2F3D3A"
+		},
+		"name": {
+			"de": "Schwarzgr\u00fcn",
+			"en": "Black green",
+			"es": "Verde negruzco",
+			"fr": "Vert noir",
+			"it": "Verde nerastro",
+			"nl": "Zwartgroen"
+		},
+		"fullname": {
+			"en": "RAL 6012 Black green"
+		}
+	},
+	{
+		"code": "RAL 6013",
+		"colour": {
+			"rgb": {
+				"r": 124,
+				"g": 118,
+				"b": 90
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 5,
+				"y": 27,
+				"k": 51
+			},
+			"hex": "#7C765A"
+		},
+		"name": {
+			"de": "Schilfgr\u00fcn",
+			"en": "Reed green",
+			"es": "Verde ca\u00f1a",
+			"fr": "Vert jonc",
+			"it": "Verde canna",
+			"nl": "Rietgroen"
+		},
+		"fullname": {
+			"en": "RAL 6013 Reed green"
+		}
+	},
+	{
+		"code": "RAL 6014",
+		"colour": {
+			"rgb": {
+				"r": 71,
+				"g": 65,
+				"b": 53
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 8,
+				"y": 25,
+				"k": 72
+			},
+			"hex": "#474135"
+		},
+		"name": {
+			"de": "Gelboliv",
+			"en": "Yellow olive",
+			"es": "Amarillo oliva",
+			"fr": "Olive jaune",
+			"it": "Oliva giallastro",
+			"nl": "Geel olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6014 Yellow olive"
+		}
+	},
+	{
+		"code": "RAL 6015",
+		"colour": {
+			"rgb": {
+				"r": 61,
+				"g": 61,
+				"b": 54
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 11,
+				"k": 76
+			},
+			"hex": "#3D3D36"
+		},
+		"name": {
+			"de": "Schwarzoliv",
+			"en": "Black olive",
+			"es": "Oliva negruzco",
+			"fr": "Olive noir",
+			"it": "Oliva nerastro",
+			"nl": "Zwart olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6015 Black olive"
+		}
+	},
+	{
+		"code": "RAL 6016",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 105,
+				"b": 76
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 0,
+				"y": 28,
+				"k": 59
+			},
+			"hex": "#00694C"
+		},
+		"name": {
+			"de": "T\u00fcrkisgr\u00fcn",
+			"en": "Turquoise green",
+			"es": "Verde turquesa",
+			"fr": "Vert turquoise",
+			"it": "Verde turchese",
+			"nl": "Turkooisgroen"
+		},
+		"fullname": {
+			"en": "RAL 6016 Turquoise green"
+		}
+	},
+	{
+		"code": "RAL 6017",
+		"colour": {
+			"rgb": {
+				"r": 88,
+				"g": 127,
+				"b": 64
+			},
+			"cmyk": {
+				"c": 31,
+				"m": 0,
+				"y": 50,
+				"k": 50
+			},
+			"hex": "#587F40"
+		},
+		"name": {
+			"de": "Maigr\u00fcn",
+			"en": "May green",
+			"es": "Verde mayo",
+			"fr": "Vert mai",
+			"it": "Verde maggio",
+			"nl": "Meigroen"
+		},
+		"fullname": {
+			"en": "RAL 6017 May green"
+		}
+	},
+	{
+		"code": "RAL 6018",
+		"colour": {
+			"rgb": {
+				"r": 96,
+				"g": 153,
+				"b": 59
+			},
+			"cmyk": {
+				"c": 37,
+				"m": 0,
+				"y": 61,
+				"k": 40
+			},
+			"hex": "#60993B"
+		},
+		"name": {
+			"de": "Gelbgr\u00fcn",
+			"en": "Yellow green",
+			"es": "Verde amarillento",
+			"fr": "Vert jaune",
+			"it": "Verde giallastro",
+			"nl": "Geelgroen"
+		},
+		"fullname": {
+			"en": "RAL 6018 Yellow green"
+		}
+	},
+	{
+		"code": "RAL 6019",
+		"colour": {
+			"rgb": {
+				"r": 185,
+				"g": 206,
+				"b": 172
+			},
+			"cmyk": {
+				"c": 10,
+				"m": 0,
+				"y": 17,
+				"k": 19
+			},
+			"hex": "#B9CEAC"
+		},
+		"name": {
+			"de": "Wei\u00dfgr\u00fcn",
+			"en": "Pastel green",
+			"es": "Verde blanquecino",
+			"fr": "Vert blanc",
+			"it": "Verde biancastro",
+			"nl": "Witgroen"
+		},
+		"fullname": {
+			"en": "RAL 6019 Pastel green"
+		}
+	},
+	{
+		"code": "RAL 6020",
+		"colour": {
+			"rgb": {
+				"r": 55,
+				"g": 66,
+				"b": 47
+			},
+			"cmyk": {
+				"c": 17,
+				"m": 0,
+				"y": 29,
+				"k": 74
+			},
+			"hex": "#37422F"
+		},
+		"name": {
+			"de": "Chromoxidgr\u00fcn",
+			"en": "Chrome green",
+			"es": "Verde cromo",
+			"fr": "Vert oxyde chromique",
+			"it": "Verde cromo",
+			"nl": "Chroomoxydegroen"
+		},
+		"fullname": {
+			"en": "RAL 6020 Chrome green"
+		}
+	},
+	{
+		"code": "RAL 6021",
+		"colour": {
+			"rgb": {
+				"r": 138,
+				"g": 153,
+				"b": 119
+			},
+			"cmyk": {
+				"c": 10,
+				"m": 0,
+				"y": 22,
+				"k": 40
+			},
+			"hex": "#8A9977"
+		},
+		"name": {
+			"de": "Bla\u00dfgr\u00fcn",
+			"en": "Pale green",
+			"es": "Verde p\u00e1lido",
+			"fr": "Vert p\u00e2le",
+			"it": "Verde pallido",
+			"nl": "Bleekgroen"
+		},
+		"fullname": {
+			"en": "RAL 6021 Pale green"
+		}
+	},
+	{
+		"code": "RAL 6022",
+		"colour": {
+			"rgb": {
+				"r": 58,
+				"g": 51,
+				"b": 39
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 12,
+				"y": 33,
+				"k": 77
+			},
+			"hex": "#3A3327"
+		},
+		"name": {
+			"de": "Braunoliv",
+			"en": "Olive drab",
+			"es": "Oliva parduzco",
+			"fr": "Olive brun",
+			"it": "Oliva brunastro",
+			"nl": "Bruin olijfgroen"
+		},
+		"fullname": {
+			"en": "RAL 6022 Olive drab"
+		}
+	},
+	{
+		"code": "RAL 6024",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 131,
+				"b": 81
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 0,
+				"y": 38,
+				"k": 49
+			},
+			"hex": "#008351"
+		},
+		"name": {
+			"de": "Verkehrsgr\u00fcn",
+			"en": "Traffic green",
+			"es": "Verde tr\u00e1fico",
+			"fr": "Vert signalisation",
+			"it": "Verde traffico",
+			"nl": "Verkeersgroen"
+		},
+		"fullname": {
+			"en": "RAL 6024 Traffic green"
+		}
+	},
+	{
+		"code": "RAL 6025",
+		"colour": {
+			"rgb": {
+				"r": 94,
+				"g": 110,
+				"b": 59
+			},
+			"cmyk": {
+				"c": 15,
+				"m": 0,
+				"y": 46,
+				"k": 57
+			},
+			"hex": "#5E6E3B"
+		},
+		"name": {
+			"de": "Farngr\u00fcn",
+			"en": "Fern green",
+			"es": "Verde helecho",
+			"fr": "Vert foug\u00e8re",
+			"it": "Verde felce",
+			"nl": "Varengroen"
+		},
+		"fullname": {
+			"en": "RAL 6025 Fern green"
+		}
+	},
+	{
+		"code": "RAL 6026",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 95,
+				"b": 78
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 0,
+				"y": 18,
+				"k": 63
+			},
+			"hex": "#005F4E"
+		},
+		"name": {
+			"de": "Opalgr\u00fcn",
+			"en": "Opal green",
+			"es": "Verde \u00f3palo",
+			"fr": "Vert opale",
+			"it": "Verde opale",
+			"nl": "Opaalgroen"
+		},
+		"fullname": {
+			"en": "RAL 6026 Opal green"
+		}
+	},
+	{
+		"code": "RAL 6027",
+		"colour": {
+			"rgb": {
+				"r": 126,
+				"g": 186,
+				"b": 181
+			},
+			"cmyk": {
+				"c": 32,
+				"m": 0,
+				"y": 3,
+				"k": 27
+			},
+			"hex": "#7EBAB5"
+		},
+		"name": {
+			"de": "Lichtgr\u00fcn",
+			"en": "Light green",
+			"es": "Verde luminoso",
+			"fr": "Vert clair",
+			"it": "Verde chiaro",
+			"nl": "Lichtgroen"
+		},
+		"fullname": {
+			"en": "RAL 6027 Light green"
+		}
+	},
+	{
+		"code": "RAL 6028",
+		"colour": {
+			"rgb": {
+				"r": 49,
+				"g": 84,
+				"b": 66
+			},
+			"cmyk": {
+				"c": 42,
+				"m": 0,
+				"y": 21,
+				"k": 67
+			},
+			"hex": "#315442"
+		},
+		"name": {
+			"de": "Kieferngr\u00fcn",
+			"en": "Pine green",
+			"es": "Verde pino",
+			"fr": "Vert pin",
+			"it": "Verde pino",
+			"nl": "Pijnboomgroen"
+		},
+		"fullname": {
+			"en": "RAL 6028 Pine green"
+		}
+	},
+	{
+		"code": "RAL 6029",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 111,
+				"b": 61
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 0,
+				"y": 45,
+				"k": 56
+			},
+			"hex": "#006F3D"
+		},
+		"name": {
+			"de": "Minzgr\u00fcn",
+			"en": "Mint green",
+			"es": "Verde menta",
+			"fr": "Vert menthe",
+			"it": "Verde menta",
+			"nl": "Mintgroen"
+		},
+		"fullname": {
+			"en": "RAL 6029 Mint green"
+		}
+	},
+	{
+		"code": "RAL 6032",
+		"colour": {
+			"rgb": {
+				"r": 35,
+				"g": 127,
+				"b": 82
+			},
+			"cmyk": {
+				"c": 72,
+				"m": 0,
+				"y": 35,
+				"k": 50
+			},
+			"hex": "#237F52"
+		},
+		"name": {
+			"de": "Signalgr\u00fcn",
+			"en": "Signal green",
+			"es": "Verde se\u00f1ales",
+			"fr": "Vert de s\u00e9curit\u00e9",
+			"it": "Verde segnale",
+			"nl": "Signaalgroen"
+		},
+		"fullname": {
+			"en": "RAL 6032 Signal green"
+		}
+	},
+	{
+		"code": "RAL 6033",
+		"colour": {
+			"rgb": {
+				"r": 69,
+				"g": 135,
+				"b": 127
+			},
+			"cmyk": {
+				"c": 49,
+				"m": 0,
+				"y": 6,
+				"k": 47
+			},
+			"hex": "#45877F"
+		},
+		"name": {
+			"de": "Mintt\u00fcrkis",
+			"en": "Mint turquoise",
+			"es": "Turquesa menta",
+			"fr": "Turquoise menthe",
+			"it": "Turchese menta",
+			"nl": "Mintturquoise"
+		},
+		"fullname": {
+			"en": "RAL 6033 Mint turquoise"
+		}
+	},
+	{
+		"code": "RAL 6034",
+		"colour": {
+			"rgb": {
+				"r": 122,
+				"g": 173,
+				"b": 172
+			},
+			"cmyk": {
+				"c": 29,
+				"m": 0,
+				"y": 1,
+				"k": 32
+			},
+			"hex": "#7AADAC"
+		},
+		"name": {
+			"de": "Pastellt\u00fcrkis",
+			"en": "Pastel turquoise",
+			"es": "Turquesa pastel",
+			"fr": "Turquoise pastel",
+			"it": "Turchese pastello",
+			"nl": "Pastelturquoise"
+		},
+		"fullname": {
+			"en": "RAL 6034 Pastel turquoise"
+		}
+	},
+	{
+		"code": "RAL 6035",
+		"colour": {
+			"rgb": {
+				"r": 25,
+				"g": 77,
+				"b": 37
+			},
+			"cmyk": {
+				"c": 68,
+				"m": 0,
+				"y": 52,
+				"k": 70
+			},
+			"hex": "#194D25"
+		},
+		"name": {
+			"de": "Perlgr\u00fcn",
+			"en": "Pearl green",
+			"es": "Verde perlado",
+			"fr": "Vert nacr\u00e9",
+			"it": "Verde perlato",
+			"nl": "Parelmoerdonkergroen"
+		},
+		"fullname": {
+			"en": "RAL 6035 Pearl green"
+		}
+	},
+	{
+		"code": "RAL 6036",
+		"colour": {
+			"rgb": {
+				"r": 4,
+				"g": 87,
+				"b": 75
+			},
+			"cmyk": {
+				"c": 95,
+				"m": 0,
+				"y": 14,
+				"k": 66
+			},
+			"hex": "#04574B"
+		},
+		"name": {
+			"de": "Perlopalgr\u00fcn",
+			"en": "Pearl opal green",
+			"es": "Verde \u00f3palo perlado",
+			"fr": "Vert opal nacr\u00e9",
+			"it": "Verde opalo perlato",
+			"nl": "Parelmoerlichtgroen"
+		},
+		"fullname": {
+			"en": "RAL 6036 Pearl opal green"
+		}
+	},
+	{
+		"code": "RAL 6037",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 139,
+				"b": 41
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 0,
+				"y": 71,
+				"k": 45
+			},
+			"hex": "#008B29"
+		},
+		"name": {
+			"de": "Reingr\u00fcn",
+			"en": "Pure green",
+			"es": "Verde puro",
+			"fr": "Vert pur",
+			"it": "Verde puro",
+			"nl": "Zuiver groen"
+		},
+		"fullname": {
+			"en": "RAL 6037 Pure green"
+		}
+	},
+	{
+		"code": "RAL 6038",
+		"colour": {
+			"rgb": {
+				"r": 0,
+				"g": 181,
+				"b": 27
+			},
+			"cmyk": {
+				"c": 100,
+				"m": 0,
+				"y": 85,
+				"k": 29
+			},
+			"hex": "#00B51B"
+		},
+		"name": {
+			"de": "Leuchtgr\u00fcn",
+			"en": "Luminous green",
+			"es": "Verde brillante",
+			"fr": "Vert brillant",
+			"it": "Verde brillante",
+			"nl": "Briljantgroen"
+		},
+		"fullname": {
+			"en": "RAL 6038 Luminous green"
+		}
+	},
+	{
+		"code": "RAL 6039",
+		"colour": {
+			"rgb": {
+				"r": 179,
+				"g": 196,
+				"b": 62
+			},
+			"cmyk": {
+				"c": 9,
+				"m": 0,
+				"y": 68,
+				"k": 23
+			},
+			"hex": "#B3C43E"
+		},
+		"name": {
+			"de": "Fasergr\u00fcn",
+			"en": "Fibrous green",
+			"es": "Verde fibra",
+			"fr": "Vert fibre",
+			"it": "Verde fibra",
+			"nl": "Fibergroen"
+		},
+		"fullname": {
+			"en": "RAL 6039 Fibrous green"
+		}
+	},
+	{
+		"code": "RAL 7000",
+		"colour": {
+			"rgb": {
+				"r": 122,
+				"g": 136,
+				"b": 142
+			},
+			"cmyk": {
+				"c": 14,
+				"m": 4,
+				"y": 0,
+				"k": 44
+			},
+			"hex": "#7A888E"
+		},
+		"name": {
+			"de": "Fehgrau",
+			"en": "Squirrel grey",
+			"es": "Gris ardilla",
+			"fr": "Gris petit-gris",
+			"it": "Grigio vaio",
+			"nl": "Pelsgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7000 Squirrel grey"
+		}
+	},
+	{
+		"code": "RAL 7001",
+		"colour": {
+			"rgb": {
+				"r": 140,
+				"g": 151,
+				"b": 156
+			},
+			"cmyk": {
+				"c": 10,
+				"m": 3,
+				"y": 0,
+				"k": 39
+			},
+			"hex": "#8C979C"
+		},
+		"name": {
+			"de": "Silbergrau",
+			"en": "Silver grey",
+			"es": "Gris plata",
+			"fr": "Gris argent",
+			"it": "Grigio argento",
+			"nl": "Zilvergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7001 Silver grey"
+		}
+	},
+	{
+		"code": "RAL 7002",
+		"colour": {
+			"rgb": {
+				"r": 129,
+				"g": 120,
+				"b": 99
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 7,
+				"y": 23,
+				"k": 49
+			},
+			"hex": "#817863"
+		},
+		"name": {
+			"de": "Olivgrau",
+			"en": "Olive grey",
+			"es": "Gris oliva",
+			"fr": "Gris olive",
+			"it": "Grigio olivastro",
+			"nl": "Olijfgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7002 Olive grey"
+		}
+	},
+	{
+		"code": "RAL 7003",
+		"colour": {
+			"rgb": {
+				"r": 121,
+				"g": 118,
+				"b": 105
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 2,
+				"y": 13,
+				"k": 53
+			},
+			"hex": "#797669"
+		},
+		"name": {
+			"de": "Moosgrau",
+			"en": "Moss grey",
+			"es": "Gris musgo",
+			"fr": "Gris mousse",
+			"it": "Grigio muschio",
+			"nl": "Mosgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7003 Moss grey"
+		}
+	},
+	{
+		"code": "RAL 7004",
+		"colour": {
+			"rgb": {
+				"r": 154,
+				"g": 155,
+				"b": 155
+			},
+			"cmyk": {
+				"c": 1,
+				"m": 0,
+				"y": 0,
+				"k": 39
+			},
+			"hex": "#9A9B9B"
+		},
+		"name": {
+			"de": "Signalgrau",
+			"en": "Signal grey",
+			"es": "Gris se\u00f1ales",
+			"fr": "Gris de s\u00e9curit\u00e9",
+			"it": "Grigio segnale",
+			"nl": "Signaalgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7004 Signal grey"
+		}
+	},
+	{
+		"code": "RAL 7005",
+		"colour": {
+			"rgb": {
+				"r": 107,
+				"g": 110,
+				"b": 107
+			},
+			"cmyk": {
+				"c": 3,
+				"m": 0,
+				"y": 3,
+				"k": 57
+			},
+			"hex": "#6B6E6B"
+		},
+		"name": {
+			"de": "Mausgrau",
+			"en": "Mouse grey",
+			"es": "Gris rat\u00f3n",
+			"fr": "Gris souris",
+			"it": "Grigio topo",
+			"nl": "Muisgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7005 Mouse grey"
+		}
+	},
+	{
+		"code": "RAL 7006",
+		"colour": {
+			"rgb": {
+				"r": 118,
+				"g": 106,
+				"b": 94
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 10,
+				"y": 20,
+				"k": 54
+			},
+			"hex": "#766A5E"
+		},
+		"name": {
+			"de": "Beigegrau",
+			"en": "Beige grey",
+			"es": "Gris beige",
+			"fr": "Gris beige",
+			"it": "Grigio beige",
+			"nl": "Beigegrijs"
+		},
+		"fullname": {
+			"en": "RAL 7006 Beige grey"
+		}
+	},
+	{
+		"code": "RAL 7008",
+		"colour": {
+			"rgb": {
+				"r": 116,
+				"g": 95,
+				"b": 61
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 18,
+				"y": 47,
+				"k": 55
+			},
+			"hex": "#745F3D"
+		},
+		"name": {
+			"de": "Khakigrau",
+			"en": "Khaki grey",
+			"es": "Gris caqui",
+			"fr": "Gris kaki",
+			"it": "Grigio kaki",
+			"nl": "Kakigrijs"
+		},
+		"fullname": {
+			"en": "RAL 7008 Khaki grey"
+		}
+	},
+	{
+		"code": "RAL 7009",
+		"colour": {
+			"rgb": {
+				"r": 93,
+				"g": 96,
+				"b": 88
+			},
+			"cmyk": {
+				"c": 3,
+				"m": 0,
+				"y": 8,
+				"k": 62
+			},
+			"hex": "#5D6058"
+		},
+		"name": {
+			"de": "Gr\u00fcngrau",
+			"en": "Green grey",
+			"es": "Gris verdoso",
+			"fr": "Gris vert",
+			"it": "Grigio verdastro",
+			"nl": "Groengrijs"
+		},
+		"fullname": {
+			"en": "RAL 7009 Green grey"
+		}
+	},
+	{
+		"code": "RAL 7010",
+		"colour": {
+			"rgb": {
+				"r": 88,
+				"g": 92,
+				"b": 86
+			},
+			"cmyk": {
+				"c": 4,
+				"m": 0,
+				"y": 7,
+				"k": 64
+			},
+			"hex": "#585C56"
+		},
+		"name": {
+			"de": "Zeltgrau",
+			"en": "Tarpaulin grey",
+			"es": "Gris lona",
+			"fr": "Gris tente",
+			"it": "Grigio tenda",
+			"nl": "Zeildoekgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7010 Tarpaulin grey"
+		}
+	},
+	{
+		"code": "RAL 7011",
+		"colour": {
+			"rgb": {
+				"r": 82,
+				"g": 89,
+				"b": 93
+			},
+			"cmyk": {
+				"c": 12,
+				"m": 4,
+				"y": 0,
+				"k": 64
+			},
+			"hex": "#52595D"
+		},
+		"name": {
+			"de": "Eisengrau",
+			"en": "Iron grey",
+			"es": "Gris hierro",
+			"fr": "Gris fer",
+			"it": "Grigio ferro",
+			"nl": "IJzergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7011 Iron grey"
+		}
+	},
+	{
+		"code": "RAL 7012",
+		"colour": {
+			"rgb": {
+				"r": 87,
+				"g": 93,
+				"b": 94
+			},
+			"cmyk": {
+				"c": 7,
+				"m": 1,
+				"y": 0,
+				"k": 63
+			},
+			"hex": "#575D5E"
+		},
+		"name": {
+			"de": "Basaltgrau",
+			"en": "Basalt grey",
+			"es": "Gris basalto",
+			"fr": "Gris basalte",
+			"it": "Grigio basalto",
+			"nl": "Bazaltgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7012 Basalt grey"
+		}
+	},
+	{
+		"code": "RAL 7013",
+		"colour": {
+			"rgb": {
+				"r": 87,
+				"g": 80,
+				"b": 68
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 8,
+				"y": 22,
+				"k": 66
+			},
+			"hex": "#575044"
+		},
+		"name": {
+			"de": "Braungrau",
+			"en": "Brown grey",
+			"es": "Gris parduzco",
+			"fr": "Gris brun",
+			"it": "Grigio brunastro",
+			"nl": "Bruingrijs"
+		},
+		"fullname": {
+			"en": "RAL 7013 Brown grey"
+		}
+	},
+	{
+		"code": "RAL 7015",
+		"colour": {
+			"rgb": {
+				"r": 79,
+				"g": 83,
+				"b": 88
+			},
+			"cmyk": {
+				"c": 10,
+				"m": 6,
+				"y": 0,
+				"k": 65
+			},
+			"hex": "#4F5358"
+		},
+		"name": {
+			"de": "Schiefergrau",
+			"en": "Slate grey",
+			"es": "Gris pizarra",
+			"fr": "Gris ardoise",
+			"it": "Grigio ardesia",
+			"nl": "Leigrijs"
+		},
+		"fullname": {
+			"en": "RAL 7015 Slate grey"
+		}
+	},
+	{
+		"code": "RAL 7016",
+		"colour": {
+			"rgb": {
+				"r": 56,
+				"g": 62,
+				"b": 66
+			},
+			"cmyk": {
+				"c": 15,
+				"m": 6,
+				"y": 0,
+				"k": 74
+			},
+			"hex": "#383E42"
+		},
+		"name": {
+			"de": "Anthrazitgrau",
+			"en": "Anthracite grey",
+			"es": "Gris antracita",
+			"fr": "Gris anthracite",
+			"it": "Grigio antracite",
+			"nl": "Antracietgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7016 Anthracite grey"
+		}
+	},
+	{
+		"code": "RAL 7021",
+		"colour": {
+			"rgb": {
+				"r": 47,
+				"g": 50,
+				"b": 52
+			},
+			"cmyk": {
+				"c": 10,
+				"m": 4,
+				"y": 0,
+				"k": 80
+			},
+			"hex": "#2F3234"
+		},
+		"name": {
+			"de": "Schwarzgrau",
+			"en": "Black grey",
+			"es": "Gris negruzco",
+			"fr": "Gris noir",
+			"it": "Grigio nerastro",
+			"nl": "Zwartgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7021 Black grey"
+		}
+	},
+	{
+		"code": "RAL 7022",
+		"colour": {
+			"rgb": {
+				"r": 76,
+				"g": 74,
+				"b": 68
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 3,
+				"y": 11,
+				"k": 70
+			},
+			"hex": "#4C4A44"
+		},
+		"name": {
+			"de": "Umbragrau",
+			"en": "Umbra grey",
+			"es": "Gris sombra",
+			"fr": "Gris terre d\u2019ombre",
+			"it": "Grigio ombra",
+			"nl": "Ombergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7022 Umbra grey"
+		}
+	},
+	{
+		"code": "RAL 7023",
+		"colour": {
+			"rgb": {
+				"r": 128,
+				"g": 128,
+				"b": 118
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 8,
+				"k": 50
+			},
+			"hex": "#808076"
+		},
+		"name": {
+			"de": "Betongrau",
+			"en": "Concrete grey",
+			"es": "Gris hormig\u00f3n",
+			"fr": "Gris b\u00e9ton",
+			"it": "Grigio calcestruzzo",
+			"nl": "Betongrijs"
+		},
+		"fullname": {
+			"en": "RAL 7023 Concrete grey"
+		}
+	},
+	{
+		"code": "RAL 7024",
+		"colour": {
+			"rgb": {
+				"r": 69,
+				"g": 73,
+				"b": 78
+			},
+			"cmyk": {
+				"c": 12,
+				"m": 6,
+				"y": 0,
+				"k": 69
+			},
+			"hex": "#45494E"
+		},
+		"name": {
+			"de": "Graphitgrau",
+			"en": "Graphite grey",
+			"es": "Gris grafita",
+			"fr": "Gris graphite",
+			"it": "Grigio grafite",
+			"nl": "Grafietgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7024 Graphite grey"
+		}
+	},
+	{
+		"code": "RAL 7026",
+		"colour": {
+			"rgb": {
+				"r": 55,
+				"g": 67,
+				"b": 69
+			},
+			"cmyk": {
+				"c": 20,
+				"m": 3,
+				"y": 0,
+				"k": 73
+			},
+			"hex": "#374345"
+		},
+		"name": {
+			"de": "Granitgrau",
+			"en": "Granite grey",
+			"es": "Gris granito",
+			"fr": "Gris granit",
+			"it": "Grigio granito",
+			"nl": "Granietgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7026 Granite grey"
+		}
+	},
+	{
+		"code": "RAL 7030",
+		"colour": {
+			"rgb": {
+				"r": 146,
+				"g": 142,
+				"b": 133
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 3,
+				"y": 9,
+				"k": 43
+			},
+			"hex": "#928E85"
+		},
+		"name": {
+			"de": "Steingrau",
+			"en": "Stone grey",
+			"es": "Gris piedra",
+			"fr": "Gris pierre",
+			"it": "Grigio pietra",
+			"nl": "Steengrijs"
+		},
+		"fullname": {
+			"en": "RAL 7030 Stone grey"
+		}
+	},
+	{
+		"code": "RAL 7031",
+		"colour": {
+			"rgb": {
+				"r": 91,
+				"g": 104,
+				"b": 109
+			},
+			"cmyk": {
+				"c": 17,
+				"m": 5,
+				"y": 0,
+				"k": 57
+			},
+			"hex": "#5B686D"
+		},
+		"name": {
+			"de": "Blaugrau",
+			"en": "Blue grey",
+			"es": "Gris azulado",
+			"fr": "Gris bleu",
+			"it": "Grigio bluastro",
+			"nl": "Blauwgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7031 Blue grey"
+		}
+	},
+	{
+		"code": "RAL 7032",
+		"colour": {
+			"rgb": {
+				"r": 181,
+				"g": 176,
+				"b": 161
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 3,
+				"y": 11,
+				"k": 29
+			},
+			"hex": "#B5B0A1"
+		},
+		"name": {
+			"de": "Kieselgrau",
+			"en": "Pebble grey",
+			"es": "Gris guijarro",
+			"fr": "Gris silex",
+			"it": "Grigio ghiaia",
+			"nl": "Kiezelgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7032 Pebble grey"
+		}
+	},
+	{
+		"code": "RAL 7033",
+		"colour": {
+			"rgb": {
+				"r": 127,
+				"g": 130,
+				"b": 116
+			},
+			"cmyk": {
+				"c": 2,
+				"m": 0,
+				"y": 11,
+				"k": 49
+			},
+			"hex": "#7F8274"
+		},
+		"name": {
+			"de": "Zementgrau",
+			"en": "Cement grey",
+			"es": "Gris cemento",
+			"fr": "Gris ciment",
+			"it": "Grigio cemento",
+			"nl": "Cementgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7033 Cement grey"
+		}
+	},
+	{
+		"code": "RAL 7034",
+		"colour": {
+			"rgb": {
+				"r": 146,
+				"g": 136,
+				"b": 111
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 7,
+				"y": 24,
+				"k": 43
+			},
+			"hex": "#92886F"
+		},
+		"name": {
+			"de": "Gelbgrau",
+			"en": "Yellow grey",
+			"es": "Gris amarillento",
+			"fr": "Gris jaune",
+			"it": "Grigio giallastro",
+			"nl": "Geelgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7034 Yellow grey"
+		}
+	},
+	{
+		"code": "RAL 7035",
+		"colour": {
+			"rgb": {
+				"r": 197,
+				"g": 199,
+				"b": 196
+			},
+			"cmyk": {
+				"c": 1,
+				"m": 0,
+				"y": 2,
+				"k": 22
+			},
+			"hex": "#C5C7C4"
+		},
+		"name": {
+			"de": "Lichtgrau",
+			"en": "Light grey",
+			"es": "Gris luminoso",
+			"fr": "Gris clair",
+			"it": "Grigio luce",
+			"nl": "Lichtgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7035 Light grey"
+		}
+	},
+	{
+		"code": "RAL 7036",
+		"colour": {
+			"rgb": {
+				"r": 151,
+				"g": 147,
+				"b": 146
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 3,
+				"y": 3,
+				"k": 41
+			},
+			"hex": "#979392"
+		},
+		"name": {
+			"de": "Platingrau",
+			"en": "Platinum grey",
+			"es": "Gris platino",
+			"fr": "Gris platine",
+			"it": "Grigio platino",
+			"nl": "Platinagrijs"
+		},
+		"fullname": {
+			"en": "RAL 7036 Platinum grey"
+		}
+	},
+	{
+		"code": "RAL 7037",
+		"colour": {
+			"rgb": {
+				"r": 122,
+				"g": 123,
+				"b": 122
+			},
+			"cmyk": {
+				"c": 1,
+				"m": 0,
+				"y": 1,
+				"k": 52
+			},
+			"hex": "#7A7B7A"
+		},
+		"name": {
+			"de": "Staubgrau",
+			"en": "Dusty grey",
+			"es": "Gris polvo",
+			"fr": "Gris poussi\u00e8re",
+			"it": "Grigio polvere",
+			"nl": "Stofgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7037 Dusty grey"
+		}
+	},
+	{
+		"code": "RAL 7038",
+		"colour": {
+			"rgb": {
+				"r": 176,
+				"g": 176,
+				"b": 169
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 4,
+				"k": 31
+			},
+			"hex": "#B0B0A9"
+		},
+		"name": {
+			"de": "Achatgrau",
+			"en": "Agate grey",
+			"es": "Gris \u00e1gata",
+			"fr": "Gris agate",
+			"it": "Grigio agata",
+			"nl": "Agaatgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7038 Agate grey"
+		}
+	},
+	{
+		"code": "RAL 7039",
+		"colour": {
+			"rgb": {
+				"r": 107,
+				"g": 102,
+				"b": 94
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 5,
+				"y": 12,
+				"k": 58
+			},
+			"hex": "#6B665E"
+		},
+		"name": {
+			"de": "Quarzgrau",
+			"en": "Quartz grey",
+			"es": "Gris cuarzo",
+			"fr": "Gris quartz",
+			"it": "Grigio quarzo",
+			"nl": "Kwartsgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7039 Quartz grey"
+		}
+	},
+	{
+		"code": "RAL 7040",
+		"colour": {
+			"rgb": {
+				"r": 152,
+				"g": 158,
+				"b": 161
+			},
+			"cmyk": {
+				"c": 6,
+				"m": 2,
+				"y": 0,
+				"k": 37
+			},
+			"hex": "#989EA1"
+		},
+		"name": {
+			"de": "Fenstergrau",
+			"en": "Window grey",
+			"es": "Gris ventana",
+			"fr": "Gris fen\u00eatre",
+			"it": "Grigio finestra",
+			"nl": "Venstergrijs"
+		},
+		"fullname": {
+			"en": "RAL 7040 Window grey"
+		}
+	},
+	{
+		"code": "RAL 7042",
+		"colour": {
+			"rgb": {
+				"r": 142,
+				"g": 146,
+				"b": 145
+			},
+			"cmyk": {
+				"c": 3,
+				"m": 0,
+				"y": 1,
+				"k": 43
+			},
+			"hex": "#8E9291"
+		},
+		"name": {
+			"de": "Verkehrsgrau A",
+			"en": "Traffic grey A",
+			"es": "Gris tr\u00e1fico A",
+			"fr": "Gris signalisation A",
+			"it": "Grigio traffico A",
+			"nl": "Verkeersgrijs A"
+		},
+		"fullname": {
+			"en": "RAL 7042 Traffic grey A"
+		}
+	},
+	{
+		"code": "RAL 7043",
+		"colour": {
+			"rgb": {
+				"r": 79,
+				"g": 82,
+				"b": 80
+			},
+			"cmyk": {
+				"c": 4,
+				"m": 0,
+				"y": 2,
+				"k": 68
+			},
+			"hex": "#4F5250"
+		},
+		"name": {
+			"de": "Verkehrsgrau B",
+			"en": "Traffic grey B",
+			"es": "Gris tr\u00e1fico B",
+			"fr": "Gris signalisation B",
+			"it": "Grigio traffico B",
+			"nl": "Verkeersgrijs B"
+		},
+		"fullname": {
+			"en": "RAL 7043 Traffic grey B"
+		}
+	},
+	{
+		"code": "RAL 7044",
+		"colour": {
+			"rgb": {
+				"r": 183,
+				"g": 179,
+				"b": 168
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 2,
+				"y": 8,
+				"k": 28
+			},
+			"hex": "#B7B3A8"
+		},
+		"name": {
+			"de": "Seidengrau",
+			"en": "Silk grey",
+			"es": "Gris seda",
+			"fr": "Gris soie",
+			"it": "Grigio seta",
+			"nl": "Zijdegrijs"
+		},
+		"fullname": {
+			"en": "RAL 7044 Silk grey"
+		}
+	},
+	{
+		"code": "RAL 7045",
+		"colour": {
+			"rgb": {
+				"r": 141,
+				"g": 146,
+				"b": 149
+			},
+			"cmyk": {
+				"c": 5,
+				"m": 2,
+				"y": 0,
+				"k": 42
+			},
+			"hex": "#8D9295"
+		},
+		"name": {
+			"de": "Telegrau 1",
+			"en": "Telegrey 1",
+			"es": "Gris tele 1",
+			"fr": "Telegris 1",
+			"it": "Grigio tele 1",
+			"nl": "Telegrijs 1"
+		},
+		"fullname": {
+			"en": "RAL 7045 Telegrey 1"
+		}
+	},
+	{
+		"code": "RAL 7046",
+		"colour": {
+			"rgb": {
+				"r": 126,
+				"g": 134,
+				"b": 138
+			},
+			"cmyk": {
+				"c": 9,
+				"m": 3,
+				"y": 0,
+				"k": 46
+			},
+			"hex": "#7E868A"
+		},
+		"name": {
+			"de": "Telegrau 2",
+			"en": "Telegrey 2",
+			"es": "Gris tele 2",
+			"fr": "Telegris 2",
+			"it": "Grigio tele 2",
+			"nl": "Telegrijs 2"
+		},
+		"fullname": {
+			"en": "RAL 7046 Telegrey 2"
+		}
+	},
+	{
+		"code": "RAL 7047",
+		"colour": {
+			"rgb": {
+				"r": 200,
+				"g": 200,
+				"b": 199
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 0,
+				"k": 22
+			},
+			"hex": "#C8C8C7"
+		},
+		"name": {
+			"de": "Telegrau 4",
+			"en": "Telegrey 4",
+			"es": "Gris tele 4",
+			"fr": "Telegris 4",
+			"it": "Grigio tele 4",
+			"nl": "Telegrijs 4"
+		},
+		"fullname": {
+			"en": "RAL 7047 Telegrey 4"
+		}
+	},
+	{
+		"code": "RAL 7048",
+		"colour": {
+			"rgb": {
+				"r": 129,
+				"g": 123,
+				"b": 115
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 5,
+				"y": 11,
+				"k": 49
+			},
+			"hex": "#817B73"
+		},
+		"name": {
+			"de": "Perlmausgrau",
+			"en": "Pearl mouse grey",
+			"es": "Gris musgo perlado",
+			"fr": "Gris souris nacr\u00e9",
+			"it": "Grigio topo perlato",
+			"nl": "Parelmoermuisgrijs"
+		},
+		"fullname": {
+			"en": "RAL 7048 Pearl mouse grey"
+		}
+	},
+	{
+		"code": "RAL 8000",
+		"colour": {
+			"rgb": {
+				"r": 137,
+				"g": 105,
+				"b": 63
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 23,
+				"y": 54,
+				"k": 46
+			},
+			"hex": "#89693F"
+		},
+		"name": {
+			"de": "Gr\u00fcnbraun",
+			"en": "Green brown",
+			"es": "Pardo verdoso",
+			"fr": "Brun vert",
+			"it": "Marrone verdastro",
+			"nl": "Groenbruin"
+		},
+		"fullname": {
+			"en": "RAL 8000 Green brown"
+		}
+	},
+	{
+		"code": "RAL 8001",
+		"colour": {
+			"rgb": {
+				"r": 157,
+				"g": 98,
+				"b": 43
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 38,
+				"y": 73,
+				"k": 38
+			},
+			"hex": "#9D622B"
+		},
+		"name": {
+			"de": "Ockerbraun",
+			"en": "Ochre brown",
+			"es": "Pardo ocre",
+			"fr": "Brun terre de Sienne",
+			"it": "Marrone ocra",
+			"nl": "Okerbruin"
+		},
+		"fullname": {
+			"en": "RAL 8001 Ochre brown"
+		}
+	},
+	{
+		"code": "RAL 8002",
+		"colour": {
+			"rgb": {
+				"r": 121,
+				"g": 77,
+				"b": 62
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 36,
+				"y": 49,
+				"k": 53
+			},
+			"hex": "#794D3E"
+		},
+		"name": {
+			"de": "Signalbraun",
+			"en": "Signal brown",
+			"es": "Marr\u00f3n se\u00f1ales",
+			"fr": "Brun de s\u00e9curit\u00e9",
+			"it": "Marrone segnale",
+			"nl": "Signaalbruin"
+		},
+		"fullname": {
+			"en": "RAL 8002 Signal brown"
+		}
+	},
+	{
+		"code": "RAL 8003",
+		"colour": {
+			"rgb": {
+				"r": 126,
+				"g": 75,
+				"b": 39
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 40,
+				"y": 69,
+				"k": 51
+			},
+			"hex": "#7E4B27"
+		},
+		"name": {
+			"de": "Lehmbraun",
+			"en": "Clay brown",
+			"es": "Pardo arcilla",
+			"fr": "Brun argile",
+			"it": "Marrone fango",
+			"nl": "Leembruin"
+		},
+		"fullname": {
+			"en": "RAL 8003 Clay brown"
+		}
+	},
+	{
+		"code": "RAL 8004",
+		"colour": {
+			"rgb": {
+				"r": 141,
+				"g": 73,
+				"b": 49
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 48,
+				"y": 65,
+				"k": 45
+			},
+			"hex": "#8D4931"
+		},
+		"name": {
+			"de": "Kupferbraun",
+			"en": "Copper brown",
+			"es": "Pardo cobre",
+			"fr": "Brun cuivr\u00e9",
+			"it": "Marrone rame",
+			"nl": "Koperbruin"
+		},
+		"fullname": {
+			"en": "RAL 8004 Copper brown"
+		}
+	},
+	{
+		"code": "RAL 8007",
+		"colour": {
+			"rgb": {
+				"r": 112,
+				"g": 70,
+				"b": 43
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 38,
+				"y": 62,
+				"k": 56
+			},
+			"hex": "#70462B"
+		},
+		"name": {
+			"de": "Rehbraun",
+			"en": "Fawn brown",
+			"es": "Pardo corzo",
+			"fr": "Brun fauve",
+			"it": "Marrone capriolo",
+			"nl": "Reebruin"
+		},
+		"fullname": {
+			"en": "RAL 8007 Fawn brown"
+		}
+	},
+	{
+		"code": "RAL 8008",
+		"colour": {
+			"rgb": {
+				"r": 114,
+				"g": 74,
+				"b": 37
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 35,
+				"y": 68,
+				"k": 55
+			},
+			"hex": "#724A25"
+		},
+		"name": {
+			"de": "Olivbraun",
+			"en": "Olive brown",
+			"es": "Pardo oliva",
+			"fr": "Brun olive",
+			"it": "Marrone oliva",
+			"nl": "Olijfbruin"
+		},
+		"fullname": {
+			"en": "RAL 8008 Olive brown"
+		}
+	},
+	{
+		"code": "RAL 8011",
+		"colour": {
+			"rgb": {
+				"r": 90,
+				"g": 56,
+				"b": 39
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 38,
+				"y": 57,
+				"k": 65
+			},
+			"hex": "#5A3827"
+		},
+		"name": {
+			"de": "Nu\u00dfbraun",
+			"en": "Nut brown",
+			"es": "Pardo nuez",
+			"fr": "Brun noisette",
+			"it": "Marrone noce",
+			"nl": "Notenbruin"
+		},
+		"fullname": {
+			"en": "RAL 8011 Nut brown"
+		}
+	},
+	{
+		"code": "RAL 8012",
+		"colour": {
+			"rgb": {
+				"r": 102,
+				"g": 51,
+				"b": 43
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 50,
+				"y": 58,
+				"k": 60
+			},
+			"hex": "#66332B"
+		},
+		"name": {
+			"de": "Rotbraun",
+			"en": "Red brown",
+			"es": "Pardo rojo",
+			"fr": "Brun rouge",
+			"it": "Marrone rossiccio",
+			"nl": "Roodbruin"
+		},
+		"fullname": {
+			"en": "RAL 8012 Red brown"
+		}
+	},
+	{
+		"code": "RAL 8014",
+		"colour": {
+			"rgb": {
+				"r": 74,
+				"g": 53,
+				"b": 38
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 28,
+				"y": 49,
+				"k": 71
+			},
+			"hex": "#4A3526"
+		},
+		"name": {
+			"de": "Sepiabraun",
+			"en": "Sepia brown",
+			"es": "Sepia",
+			"fr": "Brun s\u00e9pia",
+			"it": "Marrone seppia",
+			"nl": "Sepiabruin"
+		},
+		"fullname": {
+			"en": "RAL 8014 Sepia brown"
+		}
+	},
+	{
+		"code": "RAL 8015",
+		"colour": {
+			"rgb": {
+				"r": 94,
+				"g": 47,
+				"b": 38
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 50,
+				"y": 60,
+				"k": 63
+			},
+			"hex": "#5E2F26"
+		},
+		"name": {
+			"de": "Kastanienbraun",
+			"en": "Chestnut brown",
+			"es": "Casta\u00f1o",
+			"fr": "Marron",
+			"it": "Marrone castagna",
+			"nl": "Kastanjebruin"
+		},
+		"fullname": {
+			"en": "RAL 8015 Chestnut brown"
+		}
+	},
+	{
+		"code": "RAL 8016",
+		"colour": {
+			"rgb": {
+				"r": 76,
+				"g": 43,
+				"b": 32
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 43,
+				"y": 58,
+				"k": 70
+			},
+			"hex": "#4C2B20"
+		},
+		"name": {
+			"de": "Mahagonibraun",
+			"en": "Mahogany brown",
+			"es": "Caoba",
+			"fr": "Brun acajou",
+			"it": "Marrone mogano",
+			"nl": "Mahoniebruin"
+		},
+		"fullname": {
+			"en": "RAL 8016 Mahogany brown"
+		}
+	},
+	{
+		"code": "RAL 8017",
+		"colour": {
+			"rgb": {
+				"r": 68,
+				"g": 47,
+				"b": 41
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 31,
+				"y": 40,
+				"k": 73
+			},
+			"hex": "#442F29"
+		},
+		"name": {
+			"de": "Schokoladenbraun",
+			"en": "Chocolate brown",
+			"es": "Chocolate",
+			"fr": "Brun chocolat",
+			"it": "Marrone cioccolata",
+			"nl": "Chocoladebruin"
+		},
+		"fullname": {
+			"en": "RAL 8017 Chocolate brown"
+		}
+	},
+	{
+		"code": "RAL 8019",
+		"colour": {
+			"rgb": {
+				"r": 61,
+				"g": 54,
+				"b": 53
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 11,
+				"y": 13,
+				"k": 76
+			},
+			"hex": "#3D3635"
+		},
+		"name": {
+			"de": "Graubraun",
+			"en": "Grey brown",
+			"es": "Pardo gris\u00e1ceo",
+			"fr": "Brun gris",
+			"it": "Marrone grigiastro",
+			"nl": "Grijsbruin"
+		},
+		"fullname": {
+			"en": "RAL 8019 Grey brown"
+		}
+	},
+	{
+		"code": "RAL 8022",
+		"colour": {
+			"rgb": {
+				"r": 26,
+				"g": 23,
+				"b": 25
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 12,
+				"y": 4,
+				"k": 90
+			},
+			"hex": "#1A1719"
+		},
+		"name": {
+			"de": "Schwarzbraun",
+			"en": "Black brown",
+			"es": "Pardo negruzco",
+			"fr": "Brun noir",
+			"it": "Marrone nerastro",
+			"nl": "Zwartbruin"
+		},
+		"fullname": {
+			"en": "RAL 8022 Black brown"
+		}
+	},
+	{
+		"code": "RAL 8023",
+		"colour": {
+			"rgb": {
+				"r": 164,
+				"g": 87,
+				"b": 41
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 47,
+				"y": 75,
+				"k": 36
+			},
+			"hex": "#A45729"
+		},
+		"name": {
+			"de": "Orangebraun",
+			"en": "Orange brown",
+			"es": "Pardo anaranjado",
+			"fr": "Brun orang\u00e9",
+			"it": "Marrone arancio",
+			"nl": "Oranjebruin"
+		},
+		"fullname": {
+			"en": "RAL 8023 Orange brown"
+		}
+	},
+	{
+		"code": "RAL 8024",
+		"colour": {
+			"rgb": {
+				"r": 121,
+				"g": 80,
+				"b": 56
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 34,
+				"y": 54,
+				"k": 53
+			},
+			"hex": "#795038"
+		},
+		"name": {
+			"de": "Beigebraun",
+			"en": "Beige brown",
+			"es": "Pardo beige",
+			"fr": "Brun beige",
+			"it": "Marrone beige",
+			"nl": "Beigebruin"
+		},
+		"fullname": {
+			"en": "RAL 8024 Beige brown"
+		}
+	},
+	{
+		"code": "RAL 8025",
+		"colour": {
+			"rgb": {
+				"r": 117,
+				"g": 88,
+				"b": 71
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 25,
+				"y": 39,
+				"k": 54
+			},
+			"hex": "#755847"
+		},
+		"name": {
+			"de": "Bla\u00dfbraun",
+			"en": "Pale brown",
+			"es": "Pardo p\u00e1lido",
+			"fr": "Brun p\u00e2le",
+			"it": "Marrone pallido",
+			"nl": "Bleekbruin"
+		},
+		"fullname": {
+			"en": "RAL 8025 Pale brown"
+		}
+	},
+	{
+		"code": "RAL 8028",
+		"colour": {
+			"rgb": {
+				"r": 81,
+				"g": 58,
+				"b": 42
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 28,
+				"y": 48,
+				"k": 68
+			},
+			"hex": "#513A2A"
+		},
+		"name": {
+			"de": "Terrabraun",
+			"en": "Terra brown",
+			"es": "Marr\u00f3n tierra",
+			"fr": "Brun terre",
+			"it": "Marrone terra",
+			"nl": "Terrabruin"
+		},
+		"fullname": {
+			"en": "RAL 8028 Terra brown"
+		}
+	},
+	{
+		"code": "RAL 8029",
+		"colour": {
+			"rgb": {
+				"r": 127,
+				"g": 64,
+				"b": 49
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 50,
+				"y": 61,
+				"k": 50
+			},
+			"hex": "#7F4031"
+		},
+		"name": {
+			"de": "Perlkupfer",
+			"en": "Pearl copper",
+			"es": "Cobre perlado",
+			"fr": "Cuivre nacr\u00e9",
+			"it": "Rame perlato",
+			"nl": "Parelmoerkoper"
+		},
+		"fullname": {
+			"en": "RAL 8029 Pearl copper"
+		}
+	},
+	{
+		"code": "RAL 9001",
+		"colour": {
+			"rgb": {
+				"r": 233,
+				"g": 224,
+				"b": 210
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 4,
+				"y": 10,
+				"k": 9
+			},
+			"hex": "#E9E0D2"
+		},
+		"name": {
+			"de": "Cremewei\u00df",
+			"en": "Cream",
+			"es": "Blanco crema",
+			"fr": "Blanc cr\u00e8me",
+			"it": "Bianco crema",
+			"nl": "Cr\u00e8mewit"
+		},
+		"fullname": {
+			"en": "RAL 9001 Cream"
+		}
+	},
+	{
+		"code": "RAL 9002",
+		"colour": {
+			"rgb": {
+				"r": 214,
+				"g": 213,
+				"b": 203
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 5,
+				"k": 16
+			},
+			"hex": "#D6D5CB"
+		},
+		"name": {
+			"de": "Grauwei\u00df",
+			"en": "Grey white",
+			"es": "Blanco gris\u00e1ceo",
+			"fr": "Blanc gris",
+			"it": "Bianco grigiastro",
+			"nl": "Grijswit"
+		},
+		"fullname": {
+			"en": "RAL 9002 Grey white"
+		}
+	},
+	{
+		"code": "RAL 9003",
+		"colour": {
+			"rgb": {
+				"r": 236,
+				"g": 236,
+				"b": 231
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 2,
+				"k": 7
+			},
+			"hex": "#ECECE7"
+		},
+		"name": {
+			"de": "Signalwei\u00df",
+			"en": "Signal white",
+			"es": "Blanco se\u00f1ales",
+			"fr": "Blanc de s\u00e9curit\u00e9",
+			"it": "Bianco segnale",
+			"nl": "Signaalwit"
+		},
+		"fullname": {
+			"en": "RAL 9003 Signal white"
+		}
+	},
+	{
+		"code": "RAL 9004",
+		"colour": {
+			"rgb": {
+				"r": 43,
+				"g": 43,
+				"b": 44
+			},
+			"cmyk": {
+				"c": 2,
+				"m": 2,
+				"y": 0,
+				"k": 83
+			},
+			"hex": "#2B2B2C"
+		},
+		"name": {
+			"de": "Signalschwarz",
+			"en": "Signal black",
+			"es": "Negro se\u00f1ales",
+			"fr": "Noir de s\u00e9curit\u00e9",
+			"it": "Nero segnale",
+			"nl": "Signaalzwart"
+		},
+		"fullname": {
+			"en": "RAL 9004 Signal black"
+		}
+	},
+	{
+		"code": "RAL 9005",
+		"colour": {
+			"rgb": {
+				"r": 14,
+				"g": 14,
+				"b": 16
+			},
+			"cmyk": {
+				"c": 13,
+				"m": 13,
+				"y": 0,
+				"k": 94
+			},
+			"hex": "#0E0E10"
+		},
+		"name": {
+			"de": "Tiefschwarz",
+			"en": "Jet black",
+			"es": "Negro intenso",
+			"fr": "Noir fonc\u00e9",
+			"it": "Nero intenso",
+			"nl": "Gitzwart"
+		},
+		"fullname": {
+			"en": "RAL 9005 Jet black"
+		}
+	},
+	{
+		"code": "RAL 9006",
+		"colour": {
+			"rgb": {
+				"r": 161,
+				"g": 161,
+				"b": 160
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 1,
+				"k": 37
+			},
+			"hex": "#A1A1A0"
+		},
+		"name": {
+			"de": "Wei\u00dfaluminium",
+			"en": "White aluminium",
+			"es": "Aluminio blanco",
+			"fr": "Aluminium blanc",
+			"it": "Alluminio brillante",
+			"nl": "Blank aluminiumkleurig"
+		},
+		"fullname": {
+			"en": "RAL 9006 White aluminium"
+		}
+	},
+	{
+		"code": "RAL 9007",
+		"colour": {
+			"rgb": {
+				"r": 134,
+				"g": 133,
+				"b": 129
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 1,
+				"y": 4,
+				"k": 47
+			},
+			"hex": "#868581"
+		},
+		"name": {
+			"de": "Graualuminium",
+			"en": "Grey aluminium",
+			"es": "Aluminio gris",
+			"fr": "Aluminium gris",
+			"it": "Alluminio grigiastro",
+			"nl": "Grijs aluminiumkleurig"
+		},
+		"fullname": {
+			"en": "RAL 9007 Grey aluminium"
+		}
+	},
+	{
+		"code": "RAL 9010",
+		"colour": {
+			"rgb": {
+				"r": 241,
+				"g": 237,
+				"b": 225
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 2,
+				"y": 7,
+				"k": 5
+			},
+			"hex": "#F1EDE1"
+		},
+		"name": {
+			"de": "Reinwei\u00df",
+			"en": "Pure white",
+			"es": "Blanco puro",
+			"fr": "Blanc pur",
+			"it": "Bianco puro",
+			"nl": "Zuiver wit"
+		},
+		"fullname": {
+			"en": "RAL 9010 Pure white"
+		}
+	},
+	{
+		"code": "RAL 9011",
+		"colour": {
+			"rgb": {
+				"r": 39,
+				"g": 41,
+				"b": 43
+			},
+			"cmyk": {
+				"c": 9,
+				"m": 5,
+				"y": 0,
+				"k": 83
+			},
+			"hex": "#27292B"
+		},
+		"name": {
+			"de": "Graphitschwarz",
+			"en": "Graphite black",
+			"es": "Negro grafito",
+			"fr": "Noir graphite",
+			"it": "Nero grafite",
+			"nl": "Grafietzwart"
+		},
+		"fullname": {
+			"en": "RAL 9011 Graphite black"
+		}
+	},
+	{
+		"code": "RAL 9012",
+		"colour": {
+			"rgb": {
+				"r": 248,
+				"g": 242,
+				"b": 225
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 2,
+				"y": 9,
+				"k": 3
+			},
+			"hex": "#F8F2E1"
+		},
+		"name": {
+			"de": "Reinraumwei\u00df",
+			"en": "Cleanroom white",
+			"es": "Blanco sala blanca",
+			"fr": "Blanc salle blanche",
+			"it": "Bianco cleanroom",
+			"nl": "Ultrareine zone wit"
+		},
+		"fullname": {
+			"en": "RAL 9012 Cleanroom white"
+		}
+	},
+	{
+		"code": "RAL 9016",
+		"colour": {
+			"rgb": {
+				"r": 241,
+				"g": 241,
+				"b": 234
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 3,
+				"k": 5
+			},
+			"hex": "#F1F1EA"
+		},
+		"name": {
+			"de": "Verkehrswei\u00df",
+			"en": "Traffic white",
+			"es": "Blanco tr\u00e1fico",
+			"fr": "Blanc signalisation",
+			"it": "Bianco traffico",
+			"nl": "Verkeerswit"
+		},
+		"fullname": {
+			"en": "RAL 9016 Traffic white"
+		}
+	},
+	{
+		"code": "RAL 9017",
+		"colour": {
+			"rgb": {
+				"r": 41,
+				"g": 41,
+				"b": 42
+			},
+			"cmyk": {
+				"c": 2,
+				"m": 2,
+				"y": 0,
+				"k": 84
+			},
+			"hex": "#29292A"
+		},
+		"name": {
+			"de": "Verkehrsschwarz",
+			"en": "Traffic black",
+			"es": "Negro tr\u00e1fico",
+			"fr": "Noir signalisation",
+			"it": "Nero traffico",
+			"nl": "Verkeerszwart"
+		},
+		"fullname": {
+			"en": "RAL 9017 Traffic black"
+		}
+	},
+	{
+		"code": "RAL 9018",
+		"colour": {
+			"rgb": {
+				"r": 200,
+				"g": 203,
+				"b": 196
+			},
+			"cmyk": {
+				"c": 1,
+				"m": 0,
+				"y": 3,
+				"k": 20
+			},
+			"hex": "#C8CBC4"
+		},
+		"name": {
+			"de": "Papyruswei\u00df",
+			"en": "Papyrus white",
+			"es": "Blanco papiro",
+			"fr": "Blanc papyrus",
+			"it": "Bianco papiro",
+			"nl": "Papyruswit"
+		},
+		"fullname": {
+			"en": "RAL 9018 Papyrus white"
+		}
+	},
+	{
+		"code": "RAL 9022",
+		"colour": {
+			"rgb": {
+				"r": 133,
+				"g": 133,
+				"b": 131
+			},
+			"cmyk": {
+				"c": 0,
+				"m": 0,
+				"y": 2,
+				"k": 48
+			},
+			"hex": "#858583"
+		},
+		"name": {
+			"de": "Perlhellgrau",
+			"en": "Pearl light grey",
+			"es": "Gris claro perlado",
+			"fr": "Gris clair nacr\u00e9",
+			"it": "Grigio chiaro perlato",
+			"nl": "Parelmoerlichtgrijs"
+		},
+		"fullname": {
+			"en": "RAL 9022 Pearl light grey"
+		}
+	},
+	{
+		"code": "RAL 9023",
+		"colour": {
+			"rgb": {
+				"r": 120,
+				"g": 123,
+				"b": 122
+			},
+			"cmyk": {
+				"c": 2,
+				"m": 0,
+				"y": 1,
+				"k": 52
+			},
+			"hex": "#787B7A"
+		},
+		"name": {
+			"de": "Perldunkelgrau",
+			"en": "Pearl dark grey",
+			"es": "Gris oscuro perlado",
+			"fr": "Gris fon\u00e7\u00e9 nacr\u00e9",
+			"it": "Grigio scuro perlato",
+			"nl": "Parelmoerdonkergrijs"
+		},
+		"fullname": {
+			"en": "RAL 9023 Pearl dark grey"
+		}
+	}
+]
